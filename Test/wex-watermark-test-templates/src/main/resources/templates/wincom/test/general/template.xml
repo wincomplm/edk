@@ -1,0 +1,5 @@
+<template>
+	<id>wex-watermark-test-templates</id>
+	<display-name>General Test Template [wex-watermark-test-templates]</display-name>
+	<description>An general test template</description>
+</template>
