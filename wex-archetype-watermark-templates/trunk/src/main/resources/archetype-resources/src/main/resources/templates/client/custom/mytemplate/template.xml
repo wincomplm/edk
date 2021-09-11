@@ -1,0 +1,5 @@
+<template>
+	<id>${artifactId}</id>
+	<display-name>My Template [${artifactId}]</display-name>
+	<description>An example template</description>
+</template>
