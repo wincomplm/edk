@@ -36,6 +36,44 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <!-- Used to fix inkscape that updates quote in ! replacement syntax -->
+            <plugin>
+                <groupId>com.google.code.maven-replacer-plugin</groupId>
+                <artifactId>replacer</artifactId>
+                <version>1.5.2</version>
+                <executions>
+                    <execution>
+                        <phase>initialize</phase>
+                        <goals>
+                            <goal>replace</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <regex>false</regex>                    
+                    <basedir>src/main/resources/templates</basedir>
+                    <includes>
+                        <include>**/*.svg</include>
+                    </includes>                      
+                    <replacements>
+                        <replacement>
+                            <token><![CDATA[!&quot;]]></token>
+                            <value><![CDATA[!"]]></value>
+                        </replacement> 
+                        <replacement>
+                            <token><![CDATA[&quot;}]]></token>
+                            <value><![CDATA["}]]></value>
+                        </replacement>                       
+                    </replacements>
+
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+  
+  
 
 	
 </project>
