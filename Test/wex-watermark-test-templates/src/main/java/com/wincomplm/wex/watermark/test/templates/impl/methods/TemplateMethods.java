@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author Nassim Bouayad-Agha
  */
-@WexComponent(uid = "methods", description = "Wex Methods")
+@WexComponent(uid = "watermark-template-methods", description = "Wex Methods")
 public class TemplateMethods  {
  
     

@@ -15,14 +15,16 @@ public class WexBootstrap implements IWexBootstrap {
     @Override
     public void initialize(IWexKernelPackage wex) throws Exception {
         WexScanner.scan(wex, "com.wincomplm.wex.watermark.test.templates");
-        TemplateLoadHelper.instance.loadTemplates();
-
+        //TemplateLoadHelper.instance.loadTemplates();
     }
 
     @Override
     public void terminate(IWexKernelPackage wex) throws Exception {
-        TemplateLoadHelper.instance.removeTemplates();
-
+        try {
+            TemplateLoadHelper.instance.removeTemplates();
+        } catch (Exception e) {
+            // Failed to remove
+        }
     }
 
 }
