@@ -65,7 +65,17 @@
                         <replacement>
                             <token><![CDATA[&quot;}]]></token>
                             <value><![CDATA["}]]></value>
-                        </replacement>                       
+                        </replacement>
+                        <replacement>
+                            <token><![CDATA[[&quot;]]></token>
+                            <value><![CDATA[["]]></value>
+                        </replacement> 
+                        <replacement>
+                            <token><![CDATA[&quot;]]]></token>
+                            <value><![CDATA["]]]></value>
+                        </replacement>     
+                        
+                                                                      
                     </replacements>
 
                 </configuration>
