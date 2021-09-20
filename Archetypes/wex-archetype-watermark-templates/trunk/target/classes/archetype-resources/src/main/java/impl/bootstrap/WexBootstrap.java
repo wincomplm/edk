@@ -15,8 +15,6 @@ public class WexBootstrap implements IWexBootstrap {
     @Override
     public void initialize(IWexKernelPackage wex) throws Exception {
         WexScanner.scan(wex, "${package}");
-        TemplateLoadHelper.instance.loadTemplates();
-
     }
 
     @Override

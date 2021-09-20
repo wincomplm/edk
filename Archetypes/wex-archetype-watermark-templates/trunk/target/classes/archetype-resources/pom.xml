@@ -59,33 +59,10 @@
                     </includes>                      
                     <replacements>
                         <replacement>
-                            <token><![CDATA[!&quot;]]></token>
-                            <value><![CDATA[!"]]></value>
+                            <token><![CDATA[&quot;]]></token>
+                            <value><![CDATA["]]></value>
                         </replacement> 
-                        <replacement>
-                            <token><![CDATA[&quot;}]]></token>
-                            <value><![CDATA["}]]></value>
-                        </replacement>
-                        <replacement>
-                            <token><![CDATA[[&quot;]]></token>
-                            <value><![CDATA[["]]></value>
-                        </replacement> 
-                        <replacement>
-                            <token><![CDATA[&quot;]]]></token>
-                            <value><![CDATA["]]]></value>
-                        </replacement>     
-                        <replacement>
-                            <token><![CDATA[&quot;?]]></token>
-                            <value><![CDATA["?]]></value>
-                        </replacement> 
-                        <replacement>
-                            <token><![CDATA[&lt;]]></token>
-                            <value><![CDATA[<]]></value>
-                        </replacement> 
-                         <replacement>
-                            <token><![CDATA[&gt;]]></token>
-                            <value><![CDATA[>]]></value>
-                        </replacement>             
+             
                                                                   
                     </replacements>
 
