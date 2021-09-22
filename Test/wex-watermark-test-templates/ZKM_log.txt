@@ -7,7 +7,7 @@ wex.sign = true
 wex.skip.attach = false
 isParseOnly = false
 jar.sign = true
-wex.version = 1.0-11.2
+wex.version = 1.0-12.0
 major = 1
 logFileName = C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates/ZKM_log.txt
 project.build.sourceEncoding = UTF-8
@@ -21,16 +21,16 @@ obfuscate = true
 maven.compiler.source = 1.8
 isVerbose = true
 project.build.finalName = wex-watermark-test-templates
-compileArtifactPath = C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-11.2\wex-kernel-1.12-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-11.2\wex-system-1.2-11.2.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\11.2\windchill-pdmlink-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-11.2\wt-security-commons-1.5-11.2.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar
+compileArtifactPath = C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-12.0\wex-kernel-1.12-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-12.0\wex-system-1.2-12.0.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-12.0\wt-security-commons-1.5-12.0.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar
 project.artifactId = wex-watermark-test-templates
 wex = true
 scriptFile = C:\data\code\wex\build\zkm\wex.zkm
-project.version = 1.0b2-11.2
+project.version = 1.0b2-12.0
 revision = 
 basedir = C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates
 project.packaging = jar
 maven.compiler.target = 1.8
-wex.wt = 11.2
+wex.wt = 12.0
 wex.package = true
 
 -- Listing system properties --
@@ -53,7 +53,7 @@ java.vm.specification.version = 11
 sun.java.launcher = SUN_STANDARD
 user.country = US
 sun.boot.library.path = C:\Program Files\Java\jdk-11.0.6\bin
-sun.java.command = org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 -Dcve.check.skip=true -Djar.sign=true -Dwex.sign=true -Dobfuscate=true -DaltDeploymentRepository=WINCOM-PRIVATE-REPO::default::https://nexus.wex-cloud.net/repository/private/ -P11.2 clean install
+sun.java.command = org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 -Dcve.check.skip=true -Djar.sign=true -Dwex.sign=true -Dobfuscate=true -DaltDeploymentRepository=WINCOM-RELEASES-REPO::default::https://nexus.wex-cloud.net/repository/releases/ -P12.0 clean install
 jdk.debug = release
 maven.home = C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..
 sun.cpu.endian = little
@@ -84,7 +84,7 @@ java.vendor.version = 18.9
 maven.ext.class.path = C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar
 java.vendor.url.bug = http://bugreport.java.com/bugreport/
 java.io.tmpdir = C:\Users\simon\AppData\Local\Temp\
-altDeploymentRepository = WINCOM-PRIVATE-REPO::default::https://nexus.wex-cloud.net/repository/private/
+altDeploymentRepository = WINCOM-RELEASES-REPO::default::https://nexus.wex-cloud.net/repository/releases/
 obfuscate = true
 java.version = 11.0.6
 user.dir = C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates
@@ -108,17 +108,17 @@ Maximum memory is 8351744K.
 
 JVM options: '-Dclassworlds.conf=C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\bin\m2.conf', '-Dmaven.home=C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..', '-Dlibrary.jansi.path=C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\lib\jansi-native' and '-Dmaven.multiModuleProjectDirectory=C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates'
 
-[2021.09.14 19:46:52] Using "jrt:/" as path to java.lang.Object (A)
-[2021.09.14 19:46:52] Zelix KlassMaster 12.0.6 - License #15472
+[2021.09.21 10:01:15] Using "jrt:/" as path to java.lang.Object (A)
+[2021.09.21 10:01:15] Zelix KlassMaster 12.0.6 - License #15472
                       Single - Standard
                       Wincom Consulting S.L
                       Calle Sepúlveda 65.  Bajos 3 & 4 / Bajos 3 & 4 Barcelona Spain
                       Copyright 1997-2020 Zelix Pty Ltd (ABN 47 078 740 093)
                       All rights reserved
-[2021.09.14 19:46:52] Preprocessing ZKM Script file "C:\data\code\wex\build\zkm\wex.zkm"
+[2021.09.21 10:01:15] Preprocessing ZKM Script file "C:\data\code\wex\build\zkm\wex.zkm"
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 classpath "C:\Program Files\Java\jdk-11.0.6\lib\rt.jar;C:\Program Files\Java\jdk-11.0.6\lib\jce.jar"
-          "C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-11.2\wex-kernel-1.12-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-11.2\wex-system-1.2-11.2.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\11.2\windchill-pdmlink-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-11.2\wt-security-commons-1.5-11.2.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar"
+          "C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-12.0\wex-kernel-1.12-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-12.0\wex-system-1.2-12.0.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-12.0\wt-security-commons-1.5-12.0.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar"
           "C:\Users\simon\.m2\repository\com\wincomplm\wex-obfuscate\1.0\wex-obfuscate-1.0.jar;C:\data\code\wex\build\zkm\ZKM.jar;C:\Users\simon\.m2\repository\org\codehaus\plexus\plexus-utils\1.1\plexus-utils-1.1.jar"
           ;
 
@@ -177,23 +177,23 @@ saveAll     archiveCompression=all "C:\data\code\GitHub\EDK\Test\wex-watermark-t
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-[2021.09.14 19:46:52] Parsing ZKM Script file "C:\data\code\wex\build\zkm\wex.zkm"
+[2021.09.21 10:01:15] Parsing ZKM Script file "C:\data\code\wex\build\zkm\wex.zkm"
 ERROR: Invalid classpath in "classpath" statement at line 1 : "C:\Program Files\Java\jdk-11.0.6\lib\jce.jar" and "C:\Program Files\Java\jdk-11.0.6\lib\rt.jar" are not valid paths.
-[2021.09.14 19:46:53] Using "jrt:/" as path to java.lang.Object (B)
-[2021.09.14 19:46:53] Setting classpath to "C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-11.2\wex-kernel-1.12-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-11.2\wex-system-1.2-11.2.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\11.2\windchill-pdmlink-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-11.2\wt-security-commons-1.5-11.2.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-obfuscate\1.0\wex-obfuscate-1.0.jar;C:\data\code\wex\build\zkm\ZKM.jar;C:\Users\simon\.m2\repository\org\codehaus\plexus\plexus-utils\1.1\plexus-utils-1.1.jar"
+[2021.09.21 10:01:18] Using "jrt:/" as path to java.lang.Object (B)
+[2021.09.21 10:01:16] Setting classpath to "C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-12.0\wex-kernel-1.12-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-12.0\wex-system-1.2-12.0.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar;C:\Users\simon\AppData\Local\Temp\ZKM5325069723566323071.tmp(C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar!rome-utils-1.12.2.jar);C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-12.0\wt-security-commons-1.5-12.0.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-obfuscate\1.0\wex-obfuscate-1.0.jar;C:\data\code\wex\build\zkm\ZKM.jar;C:\Users\simon\.m2\repository\org\codehaus\plexus\plexus-utils\1.1\plexus-utils-1.1.jar"
 	Adding 'jrt:/' to classpath. Must be able to find java.lang.Object.
 	Changing classpath...
 	from	"C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"
-	to	"C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-11.2\wex-kernel-1.12-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-11.2\wex-system-1.2-11.2.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\11.2\windchill-pdmlink-11.2.jar;C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-11.2\wt-security-commons-1.5-11.2.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-obfuscate\1.0\wex-obfuscate-1.0.jar;C:\data\code\wex\build\zkm\ZKM.jar;C:\Users\simon\.m2\repository\org\codehaus\plexus\plexus-utils\1.1\plexus-utils-1.1.jar"
-[2021.09.14 19:46:53] Opening classes...
+	to	"C:\Users\simon\.m2\repository\com\wincomplm\wex-kernel\1.12-12.0\wex-kernel-1.12-12.0.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-system\1.2-12.0\wex-system-1.2-12.0.jar;C:\Users\simon\.m2\repository\args4j\args4j\2.33\args4j-2.33.jar;C:\Users\simon\.m2\repository\io\github\classgraph\classgraph\4.8.7\classgraph-4.8.7.jar;C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar;C:\Users\simon\AppData\Local\Temp\ZKM5325069723566323071.tmp(C:\Users\simon\.m2\repository\com\ptc\windchill-pdmlink\12.0\windchill-pdmlink-12.0.jar!rome-utils-1.12.2.jar);C:\Users\simon\.m2\repository\com\wincomplm\wt-security-commons\1.5-12.0\wt-security-commons-1.5-12.0.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\simon\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\simon\.m2\repository\com\wincomplm\wex-obfuscate\1.0\wex-obfuscate-1.0.jar;C:\data\code\wex\build\zkm\ZKM.jar;C:\Users\simon\.m2\repository\org\codehaus\plexus\plexus-utils\1.1\plexus-utils-1.1.jar"
+[2021.09.21 10:01:18] Opening classes...
 	com/wincomplm/wex/watermark/test/templates/impl/bootstrap/WexBootstrap.class opened from C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar
 	com/wincomplm/wex/watermark/test/templates/impl/helper/TemplateLoadHelper.class opened from C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar
 	com/wincomplm/wex/watermark/test/templates/impl/methods/TemplateMethods.class opened from C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar
-3 classes opened in 0 seconds. 515916K of memory used. 110771K of memory free.
+3 classes opened in 0 seconds. 415442K of memory used. 338221K of memory free.
 
-[2021.09.14 19:46:55] Setting trim exclusions...
-[2021.09.14 19:46:55] Setting fixed classes...
-[2021.09.14 19:46:55] Trimming...
+[2021.09.21 10:01:19] Setting trim exclusions...
+[2021.09.21 10:01:19] Setting fixed classes...
+[2021.09.21 10:01:19] Trimming...
 	deleteSourceFileAttributes=true
 	deleteDeprecatedAttributes=false
 	deleteAnnotationAttributes=false
@@ -214,18 +214,18 @@ ERROR: Invalid classpath in "classpath" statement at line 1 : "C:\Program Files\
 		*.* public *
 		public *.*
 		*.* @*.ConfigOption *
-	Matching method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void removeTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void loadTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "public void terminate(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "public void <init>()" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
-	Matching method "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
 	Matching method "public void loadTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void loadTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "public void terminate(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void removeTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
 	Matching method "public void removeTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "public void <init>()" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
+	Matching method "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
 	Matching field "public static com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper instance" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *'"
-	Matching class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter 'public *.*'"
 	Matching class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter 'public *.*'"
+	Matching class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter 'public *.*'"
 	Matching class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter 'public *.*'"
 	Using internal default trim exclusions. File 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\defaultTrimExclude.txt' not found
 	Default trim exclusion parameters:
@@ -288,8 +288,8 @@ ERROR: Invalid classpath in "classpath" statement at line 1 : "C:\Program Files\
 	Applying trim exclusions specified by fixedClasses statement
 	NB: Some "static" fields have been trimmed. Compilers can optimize accesses to the values of "static" fields such that the fields are never directly accessed.
 	Trimmed field "private static final java.lang.String TARGET_WEX" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper"
-[2021.09.14 19:46:56] Setting exclusions...
-[2021.09.14 19:46:56] Obfuscating classes...
+[2021.09.21 10:01:19] Setting exclusions...
+[2021.09.21 10:01:19] Obfuscating classes...
 	changeLogFileIn=""
 	changeLogFileOut="null"
 	aggressiveMethodRenaming=false
@@ -340,12 +340,12 @@ WARNING: You elected to obfuscate references but you have not specified any refe
 	Excluding package "com.wincomplm.wex.watermark.test.templates.impl.helper" because of "exclusion parameter 'public *.^*'"
 	Excluding class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter 'public *.^*'"
 	Excluding package "com.wincomplm.wex.watermark.test.templates.impl.methods" because of "exclusion parameter 'public *.^*'"
-	Excluding method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void removeTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
+	Excluding method "public void loadTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
 	Excluding method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void loadTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
 	Excluding method "public void terminate(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
-	Excluding method "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
-	Excluding method "public void loadTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
+	Excluding method "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void removeTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "exclusion parameter '*.* public *(*)'"
 	Excluding method "public void removeTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *(*)'"
+	Excluding method "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "exclusion parameter '*.* public *(*)'"
 	Excluding field "public static com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper instance" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "exclusion parameter '*.* public *'"
 	Using internal default exclusions. File 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\defaultExclude.txt' not found
 	Default exclusion parameters:
@@ -413,23 +413,21 @@ WARNING: You elected to obfuscate references but you have not specified any refe
 		"*.* extends java.util.ResourceBundle <init>()"
 		"*.* $deserializeLambda$(java.lang.invoke.SerializedLambda)"
 	Matched as EXcluded from possible method parameter changes "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void loadTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "Direct specification in Trim exclusion"
-	Matched as EXcluded from possible method parameter changes "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "Direct specification in Trim exclusion"
-	Matched as EXcluded from possible method parameter changes "public void loadTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "Direct specification in Trim exclusion"
 	Matched as EXcluded from possible method parameter changes "public void <init>()" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "Direct specification in Trim exclusion"
 	Matched as EXcluded from possible method parameter changes "public void removeTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "Direct specification in Trim exclusion"
+	Matched as EXcluded from possible method parameter changes "public void loadTemplates()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "Direct specification in Trim exclusion"
+	Matched as EXcluded from possible method parameter changes "public void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "Direct specification in Trim exclusion"
+	Matched as EXcluded from possible method parameter changes "public void terminate(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "Direct specification in Trim exclusion"
 	Matched as EXcluded from possible method parameter changes "@com.wincomplm.wex.kernel.impl.annotations.WexMethod public void removeTemplates(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)" in class "@com.wincomplm.wex.kernel.impl.annotations.WexComponent public com.wincomplm.wex.watermark.test.templates.impl.methods.TemplateMethods" because of "Direct specification in Trim exclusion"
 	Matched as EXcluded from possible method parameter changes "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "Direct specification in Trim exclusion"
 	Matched as EXcluded from possible method parameter changes "public void <init>()" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper" because of "Direct specification in Trim exclusion"
-	Matched as EXcluded from possible method parameter changes "public void terminate(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)" in class "public com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap" because of "Direct specification in Trim exclusion"
 	Applying exclusions specified by fixedClasses statement
-	Exception obfuscated method 'void initialize(com.wincomplm.wex.kernel.impl.manager.IWexKernelPackage)' in class 'com.wincomplm.wex.watermark.test.templates.impl.bootstrap.WexBootstrap'
-	Exception obfuscated method 'void removeTemplates()' in class 'com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper'
 	Exception obfuscated method 'void loadTemplates()' in class 'com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper'
 MESSAGE: Auto Reflection Handling : Will not perform automatic Reflection API handling because no packages, classes, fields or methods have been renamed.
 	StackMap algorithm=0
-[2021.09.14 19:46:57] Saving 3 classes in "C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target"
+[2021.09.21 10:01:21] Saving 3 classes in "C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target"
 WARNING: File 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar' already exists in 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target'. Renaming to 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar.BACKUP'.
 	Class file 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar!com/wincomplm/wex/watermark/test/templates/impl/bootstrap/WexBootstrap.class' saved to 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar' as 'com/wincomplm/wex/watermark/test/templates/impl/bootstrap/WexBootstrap.class'.
 	Class file 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar!com/wincomplm/wex/watermark/test/templates/impl/helper/TemplateLoadHelper.class' saved to 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar' as 'com/wincomplm/wex/watermark/test/templates/impl/helper/TemplateLoadHelper.class'.
 	Class file 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar!com/wincomplm/wex/watermark/test/templates/impl/methods/TemplateMethods.class' saved to 'C:\data\code\GitHub\EDK\Test\wex-watermark-test-templates\target\wex-watermark-test-templates.jar' as 'com/wincomplm/wex/watermark/test/templates/impl/methods/TemplateMethods.class'.
-[2021.09.14 19:46:57] Terminating normally.
+[2021.09.21 10:01:21] Terminating normally.
