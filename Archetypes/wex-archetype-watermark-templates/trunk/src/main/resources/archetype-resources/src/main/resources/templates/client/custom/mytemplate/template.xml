@@ -1,5 +1,5 @@
 <template>
-	<id>${artifactId}</id>
-	<display-name>My Template [${artifactId}]</display-name>
+	<id>wex-demo-wm-templates</id>
+	<display-name>Demo Template [wex-demo-wm-templates]</display-name>
 	<description>An example template</description>
 </template>
