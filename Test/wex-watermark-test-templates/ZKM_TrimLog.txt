@@ -1,2 +1,0 @@
-NB: Some "static" fields have been trimmed. Compilers can optimize accesses to the values of "static" fields such that the fields are never directly accessed.
-Trimmed field "private static final java.lang.String TARGET_WEX" in class "public com.wincomplm.wex.watermark.test.templates.impl.helper.TemplateLoadHelper"

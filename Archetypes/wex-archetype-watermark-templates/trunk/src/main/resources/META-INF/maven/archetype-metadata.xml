@@ -12,8 +12,16 @@
             <directory>src/main/wex</directory>
         </fileSet>
         <fileSet filtered="true" packaged="false">
+            <excludes>
+                <exclude>**/*.svg</exclude>
+            </excludes>
             <directory>src/main/resources</directory>
         </fileSet>
-
+        <fileSet filtered="false" packaged="false">
+            <includes>
+                <include>**/*.svg</include>
+            </includes>
+            <directory>src/main/resources</directory>
+        </fileSet>
     </fileSets>
 </archetype-descriptor>
