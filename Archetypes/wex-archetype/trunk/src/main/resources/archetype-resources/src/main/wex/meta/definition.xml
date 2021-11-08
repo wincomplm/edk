@@ -3,7 +3,7 @@
         <group-id>${groupId}</group-id>   
         <artifact-id>${artifactId}</artifact-id>
         <display-name>Display name here</display-name>
-        <system>true</system>   
+        <system>false</system>   
         <description>Description here</description>
     </meta>
    <build>
