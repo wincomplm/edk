@@ -1,0 +1,38 @@
+[
+    {
+        "id": "WVE-2022-0001",    
+        "description": "Privilege escalation using direct database access",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["java.sql"],
+        "score": 9,
+        "level": "B"
+    },
+
+    {
+        "id": "WVE-2022-0002",    
+        "description": "Privilege escalation using POM layer",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["PersistenceServerHelper.manager."],
+        "score": 7,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0003",    
+        "description": "Privilege escalation using session",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
+        "score": 7,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0004",    
+        "description": "Java network access",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["java.net.URL"],
+        "score": 3,
+        "level": "A"
+    }
+    
+    
+    
+]
