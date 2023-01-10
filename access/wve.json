@@ -1,6 +1,6 @@
 [
     {
-        "id": "WVE-2022-0001",    
+        "id": "WVE-2022-0101",    
         "description": "Privilege escalation using direct database access",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["java.sql"],
@@ -9,7 +9,7 @@
     },
 
     {
-        "id": "WVE-2022-0002",    
+        "id": "WVE-2022-0202",    
         "description": "Privilege escalation using POM layer",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["PersistenceServerHelper.manager."],
@@ -17,7 +17,7 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0003",    
+        "id": "WVE-2022-0203",    
         "description": "Privilege escalation using session",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
@@ -25,14 +25,37 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0004",    
+        "id": "WVE-2022-0301",    
         "description": "Java network access",    
         "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["java.net.URL"],
+        "keywords": ["java.net.URL "],
         "score": 3,
         "level": "A"
+    },
+    {
+        "id": "WVE-2022-0401",    
+        "description": "Persistent Event",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["PersistenceManagerEvent"],
+        "score": 9,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0402",    
+        "description": "Extension Listener",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["WexWtListener"],
+        "score": 5,
+        "level": "C"
+    },
+    {
+        "id": "WVE-2022-0402",    
+        "description": "Standard Listener",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["ServiceEventListenerAdapter"],
+        "score": 5,
+        "level": "C"
     }
-    
-    
-    
+
+  
 ]
