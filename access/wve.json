@@ -7,7 +7,6 @@
         "score": 9,
         "level": "B"
     },
-
     {
         "id": "WVE-2022-0202",    
         "description": "Privilege escalation using POM layer",    
@@ -49,7 +48,7 @@
         "level": "C"
     },
     {
-        "id": "WVE-2022-0402",    
+        "id": "WVE-2022-0403",    
         "description": "Standard Listener",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["ServiceEventListenerAdapter"],
