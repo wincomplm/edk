@@ -35,6 +35,14 @@
    </suppress>
    <suppress>
       <notes><![CDATA[
+      file name: commons-io-2.11.0.jar
+      ]]></notes>
+      <cve>CVE-2021-37533</cve>
+   </suppress>
+
+  
+   <suppress>
+      <notes><![CDATA[
       file name: jdom2-2.0.6.jar
       ]]></notes>
       <cve>CVE-2021-33813</cve>
