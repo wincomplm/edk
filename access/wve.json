@@ -8,7 +8,7 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0202",    
+        "id": "WVE-2022-0201",    
         "description": "Privilege escalation using POM layer",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["PersistenceServerHelper.manager."],
@@ -16,7 +16,7 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0203",    
+        "id": "WVE-2022-0202",    
         "description": "Privilege escalation using session",    
         "extensions": ["java", "jsp", "jspf"],
         "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
