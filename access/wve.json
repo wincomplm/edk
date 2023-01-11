@@ -3,7 +3,7 @@
         "id": "WVE-2022-0101",    
         "description": "Privilege escalation using direct database access",    
         "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["java.sql"],
+        "keywords": ["java.sql."],
         "score": 9,
         "level": "B"
     },
@@ -27,7 +27,7 @@
         "id": "WVE-2022-0301",    
         "description": "Java network access",    
         "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["java.net.URL "],
+        "keywords": ["java.net.URL ","java.net.URL;"],
         "score": 3,
         "level": "A"
     },
