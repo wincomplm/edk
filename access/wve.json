@@ -54,15 +54,8 @@
         "keywords": ["ServiceEventListenerAdapter"],
         "score": 5,
         "level": "C"
-    },
-    {
-        "id": "WVE-2022-04xx",    
-        "description": "Test",    
-        "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["xxxxxx"],
-        "score": 5,
-        "level": "C" 
     }
+
 
   
 ]
