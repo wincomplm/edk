@@ -74,5 +74,10 @@
       <cve>CVE-2018-25032</cve>
 	  <cve>CVE-2022-37434</cve>
    </suppress>
-
+   <suppress>
+      <notes><![CDATA[
+      file name: zip4j-2.11.2.jar
+      ]]></notes>
+      <cve>CVE-2023-22899</cve>
+   </suppress>
 </suppressions>
