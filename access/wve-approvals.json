@@ -1,10 +1,10 @@
 [
     {
         "id": "com.wincomplm.wex-example-sast",
-        "rules": ["WVE-2022-0204"]
+        "rules": ["WVE-2022-0204","WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0301","WVE-2022-0401","WVE-2022-0402","WVE-2022-0403"]
     },
     {
-        "id": "wex-report-commons",
+        "id": "com.wincomplm.wex-report-commons",
         "rules": ["WVE-2022-0301"]
     }
 ]
