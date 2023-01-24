@@ -5,14 +5,10 @@
     },
     {
         "id": "com.wincomplm.wex-report-commons",
-        "rules": ["WVE-2022-0301"]
+        "rules": ["WVE-2022-0301","WVE-2022-0101"]
     },
     {
         "id": "com.wincomplm.wex-coversheet",
         "rules": ["WVE-2022-0201"]
-    },
-    {
-        "id": "com.wincomplm.wex-report-pack",
-        "rules": ["WVE-2022-0101"]
     }
 ]
