@@ -6,5 +6,9 @@
     {
         "id": "com.wincomplm.wex-report-commons",
         "rules": ["WVE-2022-0301"]
+    },
+    {
+        "id": "com.wincomplm.wex-coversheet",
+        "rules": ["WVE-2022-0201"]
     }
 ]
