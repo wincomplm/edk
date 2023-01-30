@@ -5,6 +5,11 @@
         "versions": ["*"]
     },
     {
+        "groupId": "com.ptc",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
         "groupId": "org.apache.commons",
         "artifactId": "commons-text",
         "versions": ["*"]
