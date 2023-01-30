@@ -1,0 +1,19 @@
+[
+    {
+        "groupId": "com.wincomplm",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.commons",
+        "artifactId": "commons-text",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.pdfbox",
+        "artifactId": "pdfbox",
+        "versions": ["2.0.24"]
+    }
+
+
+]
