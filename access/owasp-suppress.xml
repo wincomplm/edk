@@ -65,7 +65,9 @@
 	  <cve>CVE-2022-22826</cve>
 	  <cve>CVE-2022-22823</cve>
 	  <cve>CVE-2022-22824</cve>
-	  <cve>CVE-2021-46143</cve>
+     <cve>CVE-2021-46143</cve>
+     <cve>CVE-2022-40674</cve>
+     <cve>CVE-2022-43680</cve>
    </suppress>
    <suppress>
       <notes><![CDATA[
