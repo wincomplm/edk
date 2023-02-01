@@ -118,7 +118,13 @@
         "groupId": "org.junit",
         "artifactId": "*",
         "versions": ["*"]
-    }     
+    },    
+    {
+        "groupId": "junit",
+        "artifactId": "junit",
+        "versions": ["*"]
+    }       
+
 
 
 
