@@ -113,7 +113,12 @@
         "groupId": "org.owasp",
         "artifactId": "*",
         "versions": ["*"]
-    }    
+    },
+    {
+        "groupId": "org.junit",
+        "artifactId": "*",
+        "versions": ["*"]
+    }     
 
 
 
