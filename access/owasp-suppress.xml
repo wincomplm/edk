@@ -82,4 +82,11 @@
       ]]></notes>
       <cve>CVE-2023-22899</cve>
    </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: wex-java-utils-1.0.jar
+      ]]></notes>
+      <cve>CVE-2021-4277</cve>
+   </suppress>
+
 </suppressions>
