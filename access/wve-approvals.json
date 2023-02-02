@@ -29,6 +29,6 @@
     },
 	{
         "id": "com.wincomplm.wex-manager",
-        "rules": ["WVE-2022-0301"]
+        "rules": ["WVE-2022-0301","WVE-2022-0203"]
     }
 ]
