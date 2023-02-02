@@ -128,6 +128,11 @@
         "groupId": "org.seleniumhq",
         "artifactId": "*",
         "versions": ["*"]
+    },       
+    {
+        "groupId": "io.netty",
+        "artifactId": "*",
+        "versions": ["*"]
     }       
 
 
