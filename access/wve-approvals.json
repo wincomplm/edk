@@ -26,5 +26,9 @@
 	{
         "id": "com.wincomplm.wex-deploy-commons",
         "rules": ["WVE-2022-0202", "WVE-2022-0203", "WVE-2022-0204"]
+    },
+	{
+        "id": "com.wincomplm.wex-manager",
+        "rules": ["WVE-2022-0301"]
     }
 ]
