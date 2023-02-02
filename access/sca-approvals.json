@@ -123,6 +123,11 @@
         "groupId": "junit",
         "artifactId": "junit",
         "versions": ["*"]
+    },    
+    {
+        "groupId": "org.seleniumhq",
+        "artifactId": "*",
+        "versions": ["*"]
     }       
 
 
