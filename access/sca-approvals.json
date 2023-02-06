@@ -133,6 +133,11 @@
         "groupId": "io.netty",
         "artifactId": "*",
         "versions": ["*"]
+    },       
+    {
+        "groupId": "commons-fileupload",
+        "artifactId": "*",
+        "versions": ["*"]
     }       
 
 
