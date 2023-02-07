@@ -138,11 +138,30 @@
         "groupId": "commons-fileupload",
         "artifactId": "*",
         "versions": ["*"]
-    }       
-
-
-
-
-
-
+    },
+    {
+        "groupId": "org.thymyleaf",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "com.github.dhorions",
+        "artifactId": "boxable",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "org.codehaus.groovy",
+        "artifactId": "*",
+        "versions": ["*"]
+    } ,
+        {
+        "groupId": "org.attoparser",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "org.unbescape",
+        "artifactId": "*",
+        "versions": ["*"]
+    }   
 ]
