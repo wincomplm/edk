@@ -140,7 +140,7 @@
         "versions": ["*"]
     },
     {
-        "groupId": "org.thymyleaf",
+        "groupId": "org.thymeleaf",
         "artifactId": "*",
         "versions": ["*"]
     },
