@@ -65,7 +65,7 @@
     },
     {
         "id": "com.wincomplm.wex-store-commons",
-        "rules": ["WVE-2022-0201","WVE-2022-0202"]
+        "rules": ["WVE-2022-0201","WVE-2022-0202","WVE-2022-0204"]
     },
     {
         "id": "com.wincomplm.wex-store",
