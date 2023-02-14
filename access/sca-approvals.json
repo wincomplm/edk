@@ -173,5 +173,10 @@
         "groupId": "jaxen",
         "artifactId": "*",
         "versions": ["*"]
+    },
+    {
+        "groupId": "com.ximpleware",
+        "artifactId": "vtd-xml",
+        "versions": ["2.11"]
     }  
 ]
