@@ -54,5 +54,9 @@
     {
         "id": "com.wincomplm.wex-kernel",
         "rules": ["WVE-2022-0402","WVE-2022-0204","WVE-2022-0203","WVE-2022-0202","WVE-2022-0301","WVE-2022-0403"]
+    },
+    {
+        "id": "com.wincomplm.wt-framework-commons",
+        "rules": ["WVE-2022-0204", "WVE-2022-0202"]
     }
 ]
