@@ -75,6 +75,11 @@
         "id": "com.wincomplm.wex-deploy",
         "rules": ["WVE-2022-0203"]
     }, 
+    ,
+    {
+        "id": "com.wincomplm.wex-center",
+        "rules": ["WVE-2022-0302"]
+    }, 
     {
         "id": "com.wincomplm.wex-diagnostics",
         "rules": ["WVE-2022-0203"]
