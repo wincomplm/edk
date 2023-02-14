@@ -62,5 +62,25 @@
     {
         "id": "com.wincomplm.wt-framework-commons",
         "rules": ["WVE-2022-0204", "WVE-2022-0202"]
+    },
+    {
+        "id": "com.wincomplm.wex-store-commons",
+        "rules": ["WVE-2022-0201"]
+    },
+    {
+        "id": "com.wincomplm.wex-store",
+        "rules": ["WVE-2022-0201","WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-deploy",
+        "rules": ["WVE-2022-0203"]
+    },
+    {
+        "id": "com.wincomplm.wex-deploy",
+        "rules": ["WVE-2022-0302"]
+    },
+    {
+        "id": "com.wincomplm.wex-diagnostics",
+        "rules": ["WVE-2022-0203"]
     }
 ]
