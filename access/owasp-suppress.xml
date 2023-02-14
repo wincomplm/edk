@@ -89,4 +89,18 @@
       <cve>CVE-2021-4277</cve>
    </suppress>
 
+   <suppress>
+      <notes><![CDATA[
+      file name: poi-4.1.2.jar
+      ]]></notes>
+      <cve>CVE-2022-26336</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: json-20220924.jar
+      ]]></notes>
+      <cve>CVE-2022-45688</cve>
+   </suppress>
+
 </suppressions>

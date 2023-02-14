@@ -123,11 +123,45 @@
         "groupId": "junit",
         "artifactId": "junit",
         "versions": ["*"]
-    }       
-
-
-
-
-
-
+    },    
+    {
+        "groupId": "org.seleniumhq",
+        "artifactId": "*",
+        "versions": ["*"]
+    },       
+    {
+        "groupId": "io.netty",
+        "artifactId": "*",
+        "versions": ["*"]
+    },       
+    {
+        "groupId": "commons-fileupload",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.thymeleaf",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "com.github.dhorions",
+        "artifactId": "boxable",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "org.codehaus.groovy",
+        "artifactId": "*",
+        "versions": ["*"]
+    } ,
+        {
+        "groupId": "org.attoparser",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "org.unbescape",
+        "artifactId": "*",
+        "versions": ["*"]
+    }   
 ]
