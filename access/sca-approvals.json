@@ -159,9 +159,24 @@
         "artifactId": "*",
         "versions": ["*"]
     },
-        {
+    {
         "groupId": "org.unbescape",
         "artifactId": "*",
         "versions": ["*"]
-    }   
+    },
+    {
+        "groupId": "org.jdom",
+        "artifactId": "*",
+        "versions": ["*"]
+    }, 
+    {
+        "groupId": "jaxen",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.ximpleware",
+        "artifactId": "vtd-xml",
+        "versions": ["2.11"]
+    }  
 ]
