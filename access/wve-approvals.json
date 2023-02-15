@@ -87,5 +87,9 @@
     {
         "id": "com.wincomplm.wex-diagnostics",
         "rules": ["WVE-2022-0203"]
+    }, 
+    {
+        "id": "com.wincomplm.wex-ca-change",
+        "rules": ["WVE-2022-0302"]
     }
 ]
