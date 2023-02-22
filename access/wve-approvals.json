@@ -8,7 +8,7 @@
         "rules": ["WVE-2022-0301","WVE-2022-0101"]
     },
     {
-        "id": "com.wincomplm.wex-report-utils-commons",
+        "id": "com.wincomplm.wex-report-util-commons",
         "rules": ["WVE-2022-0201"]
     },
     {
