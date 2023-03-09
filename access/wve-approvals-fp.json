@@ -46,7 +46,7 @@
     },
     {
         "id": "com.wincomplm.wex-excel-loader",
-        "rules": ["WVE-2022-0301"],,       
+        "rules": ["WVE-2022-0301"],      
         "falsePositives": ["WVE-2022-0301"] 
     },
     {
