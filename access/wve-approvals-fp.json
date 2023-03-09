@@ -102,6 +102,6 @@
         "id": "com.wincomplm.wex-excel-databind",
         "rules": ["WVE-2022-0301"],       
         "falsePositives": ["WVE-2022-0301"] 
-    },
+    }
 
 ]
