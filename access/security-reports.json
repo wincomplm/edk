@@ -1,0 +1,8 @@
+[
+	{
+		"groupId" : "com.wincomplm",
+		"artifactId" : "wex-ssl-cert",
+		"beta" : false,
+		"securityReportUrl" : "https://www.google.fr"
+	}
+]
