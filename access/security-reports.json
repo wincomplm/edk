@@ -2,6 +2,6 @@
 	{
 		"id" : "com.wincomplm:wex-ssl-cert",
 		"beta" : false,
-		"securityReportUrl" : "https://www.google.com"
+		"url" : "https://www.google.com"
 	}
 ]
