@@ -4,4 +4,9 @@
 		"beta" : false,
 		"url" : "https://www.google.com"
 	}
+	{
+		"id" : "com.wincomplm.wex-xsb-swiss",
+		"beta" : false,
+		"url" : "https://windchill-extensions.ptc.com/kb/"
+	}
 ]
