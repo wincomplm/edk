@@ -13,6 +13,10 @@
         "rules": ["WVE-2022-0501"]
     },
     {
+        "id": "com.wincomplm.wex-report",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
         "id": "com.wincomplm.wex-report-util-commons",
         "rules": ["WVE-2022-0201"]
     },
