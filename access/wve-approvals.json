@@ -91,7 +91,25 @@
     {
         "id": "com.wincomplm.wex-diagnostics",
         "rules": ["WVE-2022-0203"]
-    }, 
+    },
+    
+    {
+        "id": "com.wincomplm.wex-repexport-commons",
+        "rules": ["WVE-2022-0402"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport",
+        "rules": ["WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport-plus",
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport-pack",
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2022-0501"]
+    },
+
     {
         "id": "com.wincomplm.wex-ca-change",
         "rules": ["WVE-2022-0302"]
