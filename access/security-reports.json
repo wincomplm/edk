@@ -1,12 +1,7 @@
 [
 	{
-		"id" : "com.wincomplm.wex-ssl-cert",
-		"beta" : false,
-		"url" : "https://www.google.com"
-	},
-	{
-		"id" : "com.wincomplm.wex-xsb-swiss",
-		"beta" : false,
-		"url" : "https://windchill-extensions.ptc.com/kb/"
+		"id" : "com.wincomplm.wex-excel-loader",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-21"
 	}
 ]
