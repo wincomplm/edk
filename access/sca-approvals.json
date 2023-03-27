@@ -178,5 +178,11 @@
         "groupId": "com.ximpleware",
         "artifactId": "vtd-xml",
         "versions": ["2.11"]
-    }  
+    },
+    {
+        "groupId": "org.javassist",
+        "artifactId": "javassist",
+        "versions": ["3.25.0-GA"]
+    }    
+
 ]
