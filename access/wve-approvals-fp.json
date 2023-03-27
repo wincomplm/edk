@@ -119,6 +119,10 @@
         "id": "com.wincomplm.wex-excel-databind",
         "rules": ["WVE-2022-0301"],       
         "falsePositives": ["WVE-2022-0301"] 
+    },
+    {
+        "id": "com.wincomplm.wex-document-export",
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0402","WVE-2022-0501"]
     }
 
 ]
