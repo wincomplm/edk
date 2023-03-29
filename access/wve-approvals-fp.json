@@ -127,6 +127,10 @@
     {
         "id": "com.wincomplm.wex-watermark",
         "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-cadquick",
+        "rules": ["WVE-2022-0501"]
     }
 
 
