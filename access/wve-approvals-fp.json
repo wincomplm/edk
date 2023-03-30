@@ -131,6 +131,10 @@
     {
         "id": "com.wincomplm.wex-cadquick",
         "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-google-workspace",
+        "rules": ["WVE-2022-0202","WVE-2022-0204"]
     }
 
 
