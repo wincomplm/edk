@@ -1,0 +1,188 @@
+[
+    {
+        "groupId": "com.wincomplm",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.ptc",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.commons",
+        "artifactId": "commons-text",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.pdfbox",
+        "artifactId": "pdfbox",
+        "versions": ["2.0.24"]
+    },
+    {
+        "groupId": "com.google",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.googlecode",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.glassfish",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "commons-lang",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.jvnet",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "net.lingala.zip4j",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.freemarker",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.fasterxml",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "io.github.classgraph",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "javax",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.json",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "commons-io",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.twdata.maven",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.sun",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.tmatesoft.svnkit",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.zeroturnaround",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "args4j",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.owasp",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.junit",
+        "artifactId": "*",
+        "versions": ["*"]
+    },    
+    {
+        "groupId": "junit",
+        "artifactId": "junit",
+        "versions": ["*"]
+    },    
+    {
+        "groupId": "org.seleniumhq",
+        "artifactId": "*",
+        "versions": ["*"]
+    },       
+    {
+        "groupId": "io.netty",
+        "artifactId": "*",
+        "versions": ["*"]
+    },       
+    {
+        "groupId": "commons-fileupload",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.thymeleaf",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "com.github.dhorions",
+        "artifactId": "boxable",
+        "versions": ["*"]
+    },
+        {
+        "groupId": "org.codehaus.groovy",
+        "artifactId": "*",
+        "versions": ["*"]
+    } ,
+        {
+        "groupId": "org.attoparser",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.unbescape",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.jdom",
+        "artifactId": "*",
+        "versions": ["*"]
+    }, 
+    {
+        "groupId": "jaxen",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.ximpleware",
+        "artifactId": "vtd-xml",
+        "versions": ["2.11"]
+    },
+    {
+        "groupId": "org.javassist",
+        "artifactId": "javassist",
+        "versions": ["3.25.0-GA"]
+    }    
+
+]
