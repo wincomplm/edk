@@ -1,0 +1,137 @@
+[
+    {
+        "id": "com.wincomplm.wex-example-security",
+        "rules": ["WVE-2022-0204","WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0301","WVE-2022-0401","WVE-2022-0402","WVE-2022-0403","WVE-2022-0501","WVE-2022-0501"],
+        "falsePositives": ["WVE-2022-0301"]    
+    },
+    {
+        "id": "com.wincomplm.wex-example-ui",
+        "rules": ["WVE-2022-0204","WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0301","WVE-2022-0401","WVE-2022-0402","WVE-2022-0403","WVE-2022-0501","WVE-2022-0501"],
+        "falsePositives": ["WVE-2022-0301"]    
+    },
+    {
+        "id": "com.wincomplm.wex-report-commons",
+        "rules": ["WVE-2022-0301","WVE-2022-0101"]
+    },
+    {
+        "id": "com.wincomplm.wex-report-manager",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-report",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-report-util-commons",
+        "rules": ["WVE-2022-0201"]
+    },
+    {
+        "id": "com.wincomplm.wex-coversheet",
+        "rules": ["WVE-2022-0201","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-report-pack",
+        "rules": ["WVE-2022-0301","WVE-2022-0101","WVE-2022-0201","WVE-2022-0501", "WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark-adv",
+        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark-manager",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark-commons",
+        "rules": ["WVE-2022-0202", "WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark-pack",
+        "rules": ["WVE-2022-0101", "WVE-2022-0201", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+    },
+	{
+        "id": "com.wincomplm.wex-deploy-commons",
+        "rules": ["WVE-2022-0202", "WVE-2022-0203", "WVE-2022-0204"]
+    },
+	{
+        "id": "com.wincomplm.wex-manager",
+        "rules": ["WVE-2022-0301","WVE-2022-0203","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-kernel-base",
+        "rules": ["WVE-2022-0301"]
+    },
+    {
+        "id": "com.wincomplm.wex-excel-loader",
+        "rules": ["WVE-2022-0301","WVE-2022-0501"],      
+        "falsePositives": ["WVE-2022-0301"] 
+    },
+    {
+        "id": "com.wincomplm.wex-repexport-commons",
+        "rules": ["WVE-2022-0402"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport",
+        "rules": ["WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport-plus",
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-repexport-pack",
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-kernel",
+        "rules": ["WVE-2022-0402","WVE-2022-0204","WVE-2022-0203","WVE-2022-0202","WVE-2022-0301","WVE-2022-0403"]
+    },
+    {
+        "id": "com.wincomplm.wt-framework-commons",
+        "rules": ["WVE-2022-0204", "WVE-2022-0202"]
+    },
+    {
+        "id": "com.wincomplm.wex-store-commons",
+        "rules": ["WVE-2022-0201","WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-store",
+        "rules": ["WVE-2022-0201","WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-deploy",
+        "rules": ["WVE-2022-0203"]
+    },
+    
+    {
+        "id": "com.wincomplm.wex-center",
+        "rules": ["WVE-2022-0302","WVE-2022-0501"]
+    }, 
+    {
+        "id": "com.wincomplm.wex-diagnostics",
+        "rules": ["WVE-2022-0203"]
+    }, 
+    {
+        "id": "com.wincomplm.wex-ca-change",
+        "rules": ["WVE-2022-0302","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-excel-databind",
+        "rules": ["WVE-2022-0301"],       
+        "falsePositives": ["WVE-2022-0301"] 
+    },
+    {
+        "id": "com.wincomplm.wex-document-export",
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0402","WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-cadquick",
+        "rules": ["WVE-2022-0501"]
+    }
+
+
+]

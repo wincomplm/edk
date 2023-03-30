@@ -1,0 +1,94 @@
+[
+    {
+        "id": "WVE-2022-0101",    
+        "description": "Privilege escalation using direct database access",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["java.sql.Connection","java.sql.Driver","java.sql.Statement","java.sql.SQL"],
+        "score": 9,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0201",    
+        "description": "Privilege escalation using POM layer",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["PersistenceServerHelper.manager."],
+        "score": 7,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0202",    
+        "description": "Privilege escalation using session",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
+        "score": 7,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0203",    
+        "description": "Privilege escalation using wex API",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["WexAdminSwitcher", "WexContextSwitcher"],
+        "score": 7,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0204",    
+        "description": "Privilege escalation using session",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
+        "score": 7,
+        "level": "B"
+    },
+
+    {
+        "id": "WVE-2022-0301",    
+        "description": "Java network access",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["java.net.URL ","java.net.URL;"],
+        "score": 3,
+        "level": "A"
+    },
+    {
+        "id": "WVE-2022-0302",    
+        "description": "iframe usage",    
+        "extensions": ["java", "jsp", "jspf", "html"],
+        "keywords": ["iframe"],
+        "score": 5,
+        "level": "A"
+    },
+    {
+        "id": "WVE-2022-0401",    
+        "description": "Persistent Event",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["PersistenceManagerEvent"],
+        "score": 9,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0402",    
+        "description": "Extension Listener",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["WexWtListener"],
+        "score": 5,
+        "level": "C"
+    },
+    {
+        "id": "WVE-2022-0403",    
+        "description": "Standard Listener",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["ServiceEventListenerAdapter"],
+        "score": 5,
+        "level": "C"
+    },
+    {
+        "id": "WVE-2022-0501",    
+        "description": "JSP calls backend, possible XSS issue",    
+        "extensions": [ "jsp", "jspf"],
+        "keywords": ["wex:invoke"],
+        "score": 3,
+        "level": "B"
+    }
+
+
+  
+]
