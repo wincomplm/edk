@@ -183,6 +183,10 @@
         "groupId": "org.javassist",
         "artifactId": "javassist",
         "versions": ["3.25.0-GA"]
-    }    
-
+    },
+    {
+        "groupId": "jakarta.json",
+        "artifactId": "jakarta.json-api",
+        "versions": ["*"]
+    }       
 ]
