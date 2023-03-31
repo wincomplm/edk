@@ -3,5 +3,10 @@
 		"id" : "com.wincomplm.wex-excel-loader",
 		"beta" : true,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-21"
+	},
+	{
+		"id" : "com.wincomplm.wex-watermark-adv",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-27"
 	}
 ]

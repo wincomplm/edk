@@ -121,11 +121,6 @@
         "falsePositives": ["WVE-2022-0301"] 
     },
     {
-        "id": "com.wincomplm.wex-quickaccess-adv",
-        "rules": ["WVE-2022-0501"],
-         "falsePositives": ["WVE-2022-0501"] 
-    },
-    {
         "id": "com.wincomplm.wex-document-export",
         "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0402","WVE-2022-0501"]
     },
@@ -136,10 +131,6 @@
     {
         "id": "com.wincomplm.wex-cadquick",
         "rules": ["WVE-2022-0501"]
-    },
-    {
-        "id": "com.wincomplm.wex-google-workspace",
-        "rules": ["WVE-2022-0202","WVE-2022-0204"]
     }
 
 
