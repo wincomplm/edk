@@ -140,7 +140,12 @@
     {
         "id": "com.wincomplm.wex-google-workspace",
         "rules": ["WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-promote",
+        "rules": ["WVE-2022-0201"]
     }
+
 
 
 ]
