@@ -128,9 +128,26 @@
         "rules": ["WVE-2022-0501"]
     },
     {
+        "id": "com.wincomplm.wex-cadquick",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-ihs-sync",
+        "rules": ["WVE-2022-0301"]
+    },
+    {
         "id": "com.wincomplm.wex-google-workspace",
         "rules": ["WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-promote",
+        "rules": ["WVE-2022-0201"]
+    },
+    {
+        "id": "com.wincomplm.wex-siliconexpert",
+        "rules": ["WVE-2022-0302"]
     }
+
 
 
 ]
