@@ -12,5 +12,9 @@
     {
         "id": "com.wincomplm.wex-example-listener",
         "rules": ["WVE-2022-0402"]
+    },
+    {
+        "id": "com.wincomplm.wex-example-queues",
+        "rules": ["WVE-2022-0402"]
     }
 ]
