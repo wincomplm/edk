@@ -150,6 +150,10 @@
     {
         "id": "com.wincomplm.wex-siliconexpert-starter",
         "rules": ["WVE-2022-0302"]
+    },
+    {
+        "id": "com.wincomplm.wex-siliconexpert-sync",
+        "rules": ["WVE-2022-0301"]
     }
 
 
