@@ -111,11 +111,4 @@
       <cve>CVE-2020-8908</cve>
    </suppress>
 
-   <suppress>
-      <notes><![CDATA[
-      file name: guava-30.1-jre.jar
-      ]]></notes>
-      <cve>CVE-2022-45688</cve>
-   </suppress>
-
 </suppressions>
