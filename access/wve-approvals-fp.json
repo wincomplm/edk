@@ -162,5 +162,10 @@
     {
         "id": "com.wincomplm.wex-change-analysis",
         "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-change-validate",
+        "rules": ["WVE-2022-0302"],       
+        "falsePositives": ["WVE-2022-0302"] 
     }
 ]
