@@ -158,5 +158,9 @@
     {
         "id": "com.wincomplm.wex-ix",
         "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-change-analysis",
+        "rules": ["WVE-2022-0501"]
     }
 ]
