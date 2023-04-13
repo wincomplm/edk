@@ -124,7 +124,7 @@
     },
     {
         "id": "com.wincomplm.wex-manager",
-        "rules": ["WVE-2022-0501","WVE-2022-0203"]
+        "rules": ["WVE-2022-0501","WVE-2022-0203","WVE-2022-0301"]
     },
     {
         "id": "com.wincomplm.wex-cluster",
