@@ -124,7 +124,7 @@
     },
     {
         "id": "com.wincomplm.wex-manager",
-        "rules": ["WVE-2022-0501"]
+        "rules": ["WVE-2022-0501","WVE-2022-0203"]
     },
     {
         "id": "com.wincomplm.wex-cluster",
@@ -134,6 +134,7 @@
         "id": "com.wincomplm.wex-audit",
         "rules": ["WVE-2022-0501"]
     }
+
     
 
     
