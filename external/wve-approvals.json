@@ -20,5 +20,9 @@
     {
         "id": "com.wincomplm.wex-example-file",
         "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-example-resources",
+        "rules": ["WVE-2022-0501"]
     }
 ]

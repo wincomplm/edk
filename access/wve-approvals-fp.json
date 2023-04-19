@@ -53,7 +53,7 @@
     },
     {
         "id": "com.wincomplm.wex-excel-loader",
-        "rules": ["WVE-2022-0301","WVE-2022-0501"],      
+        "rules": ["WVE-2022-0301","WVE-2022-0501", "WVE-2022-0201"],      
         "falsePositives": ["WVE-2022-0301"] 
     },
     {
@@ -172,5 +172,25 @@
         "id": "com.wincomplm.wex-change-validate-adv",
         "rules": ["WVE-2022-0302"],       
         "falsePositives": ["WVE-2022-0302"] 
+    },
+    {
+        "id": "com.wincomplm.wex-config",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-manager",
+        "rules": ["WVE-2022-0501","WVE-2022-0203","WVE-2022-0301"]
+    },
+    {
+        "id": "com.wincomplm.wex-cluster",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-audit",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-platform-pack",
+        "rules": ["WVE-2022-0202","WVE-2022-0203","WVE-2022-0204","WVE-2022-0301","WVE-2022-0302","WVE-2022-0402","WVE-2022-0403"]
     }
 ]
