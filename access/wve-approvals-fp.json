@@ -190,6 +190,10 @@
         "rules": ["WVE-2022-0501"]
     },
     {
+        "id": "com.wincomplm.magicleap-suma-saveas",
+        "rules": ["WVE-2022-0402"]
+    },
+    {
         "id": "com.wincomplm.wex-platform-pack",
         "rules": ["WVE-2022-0202","WVE-2022-0203","WVE-2022-0204","WVE-2022-0301","WVE-2022-0302","WVE-2022-0402","WVE-2022-0403"]
     }
