@@ -137,6 +137,10 @@
     {
         "id": "com.wincomplm.wex-platform-pack",
         "rules": ["WVE-2022-0202","WVE-2022-0203","WVE-2022-0204","WVE-2022-0301","WVE-2022-0302","WVE-2022-0402","WVE-2022-0403"]
+    },
+    {
+        "id": "com.piaggio.wex-piaggio-core",
+        "rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0401","WVE-2022-0403"]
     }
 
     
