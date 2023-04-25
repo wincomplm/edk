@@ -188,5 +188,15 @@
         "groupId": "jakarta.json",
         "artifactId": "jakarta.json-api",
         "versions": ["*"]
-    }       
+    },
+    {
+        "groupId": "com.jcraft",
+        "artifactId": "jxl",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.jxl",
+        "artifactId": "jxl",
+        "versions": ["*"]
+    }          
 ]
