@@ -206,7 +206,7 @@
         "rules": ["WVE-2022-0201"," WVE-2022-0501"]
     },
     {
-        "id": "com.piaggio.wex-quickaccess",
+        "id": "com.wincomplm.wex-watermarking-ondownload",
         "rules": ["WVE-2022-0202","WVE-2022-0204"]
     }   
 ]
