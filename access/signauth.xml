@@ -77,6 +77,7 @@
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapreports" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapserver" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-load" client-id="*"/>
+			<artifact group-id="com.wincomplm" artifact-id="wex-agco-loadfiles" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-manufacturingreports" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-partnaming" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-reportengine" client-id="*"/>
