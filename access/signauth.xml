@@ -81,6 +81,7 @@
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-partnaming" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-reportengine" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-reports" client-id="*"/>
+			<artifact group-id="com.wincomplm" artifact-id="wex-agco-resources" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-rest" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-saveas" client-id="*"/>
 			<artifact group-id="com.wincomplm" artifact-id="wex-agco-servicedisposition" client-id="*"/>
