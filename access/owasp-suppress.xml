@@ -114,4 +114,15 @@
       ]]></notes>
       <cve>CVE-2022-45688</cve>
    </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: axis-1.0.jar
+      ]]></notes>
+      <cve>CVE-2014-3596</cve>
+      <cve>CVE-2007-2353</cve>
+      <cve>CVE-2012-5784</cve>
+      <cve>CVE-2018-8032</cve>
+   </suppress>
+   
 </suppressions>
