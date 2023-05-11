@@ -17,7 +17,7 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201","WVE-2022-0501"]
+        "rules": ["WVE-2022-0201","WVE-2022-0501", "WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
