@@ -4,30 +4,26 @@
             <login>*@wincom-plm.com</login>
         </logins>
         <artifacts>
-            <artifact group-id="*" artifact-id="*" client-id="*"/>
+            <artifact group-id="*" artifact-id="*"/>
         </artifacts>
         <approvals>
             <approval>*</approval>
         </approvals>
     </signer>
-
-	<!-- to be retired in 2023 -->
-  <!-- This is a test -->
-
-
+    
     <signer name="Wincom Consulting S.L." client-id="604566">
         <logins>
             <login>ix@wex-cloud.net</login>
         </logins>
         <artifacts>
-            <artifact group-id="*" artifact-id="*" client-id="*"/>
+            <artifact group-id="*" artifact-id="*"/>
         </artifacts>
         <approvals>
             <approval>*</approval>
         </approvals>
-		<categories>
-			<category>WEX-IX-WATERMARKING</category>
-		</categories>
+        <categories>
+            <category>WEX-IX-WATERMARKING</category>
+        </categories>
     </signer>
 
 
@@ -36,15 +32,16 @@
             <login>*@eka.it</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.avioaero" artifact-id="*" client-id="*"/>
+            <artifact group-id="com.avioaero" artifact-id="*"/>
         </artifacts>
     </signer>
+    
     <signer name="Avio" client-id="451249">
         <logins>
             <login>*@avioaero.it</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.avioaero" artifact-id="*" client-id="*"/>
+            <artifact group-id="com.avioaero" artifact-id="*"/>
         </artifacts>
     </signer>
 
@@ -53,44 +50,41 @@
             <login>*@prambanan-it.com</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="wex-quad*" client-id="*"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-quad*"/>
         </artifacts>
     </signer>
 
-	<signer name="AGCO" client-id="100607">
+    <signer name="AGCO" client-id="100607">
         <logins>
             <login>*@agcocorp.com</login>
         </logins>
         <artifacts>
-			<artifact group-id="com.wincomplm" artifact-id="agco-diag-test" client-id="*"/>
-            <artifact group-id="com.wincomplm" artifact-id="wex-agco-attrutils" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-autoassociate" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-autobaselinecreation" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-bomsubscribe" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-changedata" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-changeexport" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-changevalidate" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-config" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-core" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapattributeupdate" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapexport" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapreports" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-eapserver" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-load" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-loadfiles" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-manufacturingreports" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-partnaming" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-reportengine" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-reports" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-resources" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-rest" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-saveas" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-servicedisposition" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-settings" client-id="*"/>
-			<artifact group-id="com.wincomplm" artifact-id="wex-agco-watermark-utility" client-id="*"/>
+            <artifact group-id="com.wincomplm" artifact-id="agco-diag-test"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-attrutils"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-autoassociate"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-autobaselinecreation"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-bomsubscribe"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-changedata"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-changeexport"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-changevalidate"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-config"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-core"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-eapattributeupdate"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-eapexport"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-eapreports"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-eapserver"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-load"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-loadfiles"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-manufacturingreports"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-partnaming"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-reportengine"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-reports"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-resources"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-rest"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-saveas"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-servicedisposition"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-settings"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-watermark-utility"/>
         </artifacts>
     </signer>
-
-
-
 </signers>
