@@ -208,5 +208,9 @@
     {
         "id": "com.wincomplm.wex-watermarking-ondownload",
         "rules": ["WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-conmo-reports",
+        "rules": ["WVE-2022-0201"]
     }   
 ]
