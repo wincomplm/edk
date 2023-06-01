@@ -198,5 +198,10 @@
         "groupId": "com.jxl",
         "artifactId": "jxl",
         "versions": ["*"]
-    }          
+    },
+    {
+        "groupId": "org.xerial",
+        "artifactId": "sqlite-jdbc",
+        "versions": ["*"]
+    }         
 ]
