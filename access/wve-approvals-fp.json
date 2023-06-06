@@ -216,5 +216,9 @@
     {
         "id": "com.wincomplm.wex-jon-partnumber",
         "rules": ["WVE-2022-0401", "WVE-2022-0402"]
+    },
+    {
+        "id": "com.wincomplm.wex-ix-windchill",
+        "rules": ["WVE-2022-0501"]
     }
 ]
