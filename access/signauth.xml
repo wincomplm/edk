@@ -92,7 +92,7 @@
         <logins>
             <login>ellis.douglas@hotmail.co.uk</login>
         </logins>
-        <artifacts max-features="3" start-date="2023-06-05" end-date="2023-06-07">
+        <artifacts max-features="15" start-date="2023-06-05" end-date="2023-06-07">
             <artifact group-id="*" artifact-id="*"/>
         </artifacts>
         <approvals>
