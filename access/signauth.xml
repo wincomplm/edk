@@ -88,7 +88,7 @@
         </artifacts>
     </signer>
 
-    <signer name="Test" client-id="" jar-sign="true">
+    <signer name="ellis.douglas@hotmail.co.uk" client-id="123" jar-sign="true">
         <logins>
             <login>ellis.douglas@hotmail.co.uk</login>
         </logins>
