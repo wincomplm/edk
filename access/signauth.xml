@@ -92,11 +92,8 @@
         <logins>
             <login>ellis.douglas@hotmail.co.uk</login>
         </logins>
-        <artifacts>
+        <artifacts features="3" start-date="2023-06-05" end-date="2023-06-10">
             <artifact group-id="*" artifact-id="*"/>
-            <features>3</features>
-            <start-date>2023-06-05</start-date>
-            <end-date>2023-06-10</end-date>
         </artifacts>
         <approvals>
             <approval>*</approval>
