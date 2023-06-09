@@ -203,10 +203,5 @@
         "groupId": "org.xerial",
         "artifactId": "sqlite-jdbc",
         "versions": ["*"]
-    },
-    {
-        "groupId": "hk.quantr",
-        "artifactId": "Sharepoint-Java-API",
-        "versions": ["*"]
     }         
 ]
