@@ -114,7 +114,6 @@
       ]]></notes>
       <cve>CVE-2022-45688</cve>
    </suppress>
-
    <suppress>
       <notes><![CDATA[
       file name: axis-1.0.jar
@@ -124,5 +123,10 @@
       <cve>CVE-2012-5784</cve>
       <cve>CVE-2018-8032</cve>
    </suppress>
-   
+   <suppress>
+      <notes><![CDATA[
+      file name: jackson-databind-2.15.2.jar
+      ]]></notes>
+      <cve>CVE-2023-23116</cve>
+   </suppress>
 </suppressions>
