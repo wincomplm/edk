@@ -8,5 +8,10 @@
         "groupId": "com.ptc",
         "artifactId": "*",
         "versions": ["*"]
-    }
+    },
+    {
+        "groupId": "io.netty",
+        "artifactId": "*",
+        "versions": ["*"]
+    }  
 ]
