@@ -13,5 +13,15 @@
         "groupId": "io.netty",
         "artifactId": "*",
         "versions": ["*"]
-    }  
+    },
+    {
+        "groupId": "com.google",
+        "artifactId": "*",
+        "versions": ["*"]
+    },    
+    {
+        "groupId": "org.seleniumhq",
+        "artifactId": "*",
+        "versions": ["*"]
+    }
 ]
