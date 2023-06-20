@@ -23,5 +23,10 @@
         "groupId": "org.seleniumhq",
         "artifactId": "*",
         "versions": ["*"]
+    },    
+    {
+        "groupId": "junit",
+        "artifactId": "junit",
+        "versions": ["*"]
     }
 ]
