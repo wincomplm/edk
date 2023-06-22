@@ -129,4 +129,12 @@
       ]]></notes>
       <cve>CVE-2023-35116</cve>
    </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: commons-text-1.10.0.jar
+      ]]></notes>
+      <cve>CVE-2021-37533</cve>
+   </suppress>
+
 </suppressions>
