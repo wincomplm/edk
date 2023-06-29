@@ -33,5 +33,10 @@
         "groupId": "software.amazon.awssdk",
         "artifactId": "s3",
         "versions": ["*"]
-    }
+    },
+    {
+        "groupId": "com.avioaero",
+        "artifactId": "*",
+        "versions": ["*"]
+    }    
 ]
