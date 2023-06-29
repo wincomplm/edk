@@ -213,10 +213,5 @@
         "groupId": "com.piaggio",
         "artifactId": "wex-piaggio-core",
         "versions": ["*"]
-    }
-    {
-        "groupId": "com.avioaero",
-        "artifactId": "*",
-        "versions": ["*"]
-    }         
+    }     
 ]
