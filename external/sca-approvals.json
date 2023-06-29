@@ -28,5 +28,10 @@
         "groupId": "junit",
         "artifactId": "junit",
         "versions": ["*"]
+    },
+    {
+        "groupId": "software.amazon.awssdk",
+        "artifactId": "s3",
+        "versions": ["*"]
     }
 ]
