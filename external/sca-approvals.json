@@ -38,5 +38,50 @@
         "groupId": "com.avioaero",
         "artifactId": "*",
         "versions": ["*"]
-    }    
+    },
+    {
+        "groupId": "com.avioaero",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.apache.poi",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.commons",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.codehaus.plexus",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.adobe",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.axis2",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.httpcomponents",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "commons-logging",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "commons-beanutils",
+        "artifactId": "*",
+        "versions": ["*"]
+    }                     
 ]
