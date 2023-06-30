@@ -83,5 +83,15 @@
         "groupId": "commons-beanutils",
         "artifactId": "*",
         "versions": ["*"]
-    }                     
+    },
+    {
+        "groupId": "org.apache.poi",
+        "artifactId": "*",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.apache.logging.log4j",
+        "artifactId": "*",
+        "versions": ["*"]
+    }                             
 ]
