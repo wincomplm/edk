@@ -4,6 +4,10 @@
         "rules": ["WVE-2022-0301","WVE-2022-0101"]
     },
     {
+	 "id": "com.wincomplm.wex-asm-wused",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
         "id": "com.wincomplm.wex-report-manager",
         "rules": ["WVE-2022-0501"]
     },
