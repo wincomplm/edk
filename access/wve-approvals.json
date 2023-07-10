@@ -145,6 +145,10 @@
     {
         "id": "com.piaggio.wex-piaggio-weightru",
         "rules": ["WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-change-analysis",
+        "rules": ["WVE-2022-0501"]
     }
 
     
