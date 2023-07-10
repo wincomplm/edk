@@ -228,5 +228,10 @@
     {
         "id": "com.wincomplm.wex-quickaccess",
         "rules": ["WVE-2022-0201", "WVE-2022-0501"]
-    }
+    },
+    {
+        "id": "com.wincomplm.wex-sharepoint",
+        "rules": ["WVE-2022-0301"]
+    },
+		
 ]
