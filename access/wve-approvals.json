@@ -156,6 +156,11 @@
         "falsePositives": ["WVE-2022-0302"] 
     },
     {
+        "id": "com.wincomplm.wex-change-validate-pack",
+        "rules": ["WVE-2022-0302", "WVE-2022-0501"],       
+        "falsePositives": ["WVE-2022-0302"] 
+    },
+    {
         "id": "com.wincomplm.wex-change-validate-adv",
         "rules": ["WVE-2022-0302", "WVE-2022-0501"],       
         "falsePositives": ["WVE-2022-0302"] 
