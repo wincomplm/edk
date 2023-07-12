@@ -85,6 +85,7 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-servicedisposition"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-settings"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-watermark-utility"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-customizations"/>
         </artifacts>
     </signer>
 
