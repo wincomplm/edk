@@ -213,5 +213,20 @@
         "groupId": "com.piaggio",
         "artifactId": "wex-piaggio-core",
         "versions": ["*"]
-    }     
+    },
+    {
+        "groupId": "hk.quantr",
+        "artifactId": "Sharepoint-Java-API",
+        "versions": ["*"]
+    }, 
+    {
+        "groupId": "net.sf.barcode4j",
+        "artifactId": "barcode4j",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "net.sourceforge.barbecue",
+        "artifactId": "barbecue",
+        "versions": ["*"]
+    } 
 ]
