@@ -165,6 +165,10 @@
         "rules": ["WVE-2022-0302", "WVE-2022-0501"],       
         "falsePositives": ["WVE-2022-0302"] 
     },
+    {
+	"id": "com.wincomplm.wex-quick-change",
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0302"]  
+    }
 
     
 
