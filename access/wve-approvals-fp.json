@@ -148,6 +148,10 @@
         "rules": ["WVE-2022-0201"]
     },
     {
+        "id": "com.wincomplm.wex-promote-adv",
+        "rules": ["WVE-2022-0501"]
+    },
+    {
         "id": "com.wincomplm.wex-siliconexpert",
         "rules": ["WVE-2022-0302","WVE-2022-0501"]
     },
