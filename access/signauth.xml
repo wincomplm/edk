@@ -67,6 +67,8 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-changedata"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-changeexport"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-changevalidate"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-configurations"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-customizations"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-config"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-core"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-eapattributeupdate"/>
