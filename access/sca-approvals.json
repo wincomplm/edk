@@ -228,5 +228,10 @@
         "groupId": "net.sourceforge.barbecue",
         "artifactId": "barbecue",
         "versions": ["*"]
+    },
+    {
+        "groupId": "org.asynchttpclient",
+        "artifactId": "async-http-client",
+        "versions": ["*"]
     } 
 ]
