@@ -233,5 +233,15 @@
         "groupId": "org.asynchttpclient",
         "artifactId": "async-http-client",
         "versions": ["*"]
-    } 
+    },
+    {
+        "groupId": "com.oopsconsultancy",
+        "artifactId": "xmltask",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "net.uworks",
+        "artifactId": "andariel",
+        "versions": ["*"]
+    }
 ]
