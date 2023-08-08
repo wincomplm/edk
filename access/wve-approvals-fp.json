@@ -254,5 +254,9 @@
     {
 	"id": "com.wincomplm.wcom-legacy",
 	"rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0403"," WVE-2022-0501"]
+    },
+    {
+        "id": " com.wincomplm.wex-comp-matrix",
+        "rules": ["WVE-2022-0501"]
     }
 ]
