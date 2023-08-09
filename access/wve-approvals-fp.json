@@ -242,14 +242,12 @@
         "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0302"]  
     },
     {
-    "id": "com.wincomplm.wex-ui",
+    	"id": "com.wincomplm.wex-ui",
         "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0302"]  
     },
     {
-
-        "id": " com.wincomplm.wex-change-validate-pack",
+        "id": "com.wincomplm.wex-change-validate-pack",
         "rules": ["WVE-2022-0302"]
-
     },
     {
 	"id": "com.wincomplm.wcom-legacy",
