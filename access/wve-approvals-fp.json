@@ -137,7 +137,7 @@
     },
     {
         "id": "com.wincomplm.wex-ihs-sync",
-        "rules": ["WVE-2022-0301"]
+        "rules": ["WVE-2022-0301","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-google-workspace",
