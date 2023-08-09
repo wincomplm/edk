@@ -243,5 +243,15 @@
         "groupId": "net.uworks",
         "artifactId": "andariel",
         "versions": ["*"]
+    },
+    {
+        "groupId": "com.microsoft.graph",
+        "artifactId": "microsoft-graph",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.azure",
+        "artifactId": "azure-identity",
+        "versions": ["*"]
     }
 ]
