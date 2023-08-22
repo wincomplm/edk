@@ -263,6 +263,10 @@
     },    {
         "id": "com.wincomplm.wex-datahub-export",
         "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0401","WVE-2022-0402","WVE-2022-0403"]
+    },
+    {
+        "id": "com.wincomplm.wex-ssl-cert",
+        "rules": ["WVE-2022-0301"]
     }
 	
 ]
