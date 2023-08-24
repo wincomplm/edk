@@ -108,5 +108,15 @@
 		"id" : "com.wincomplm.wex-cadquick",
 		"beta" : true,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-60"
+	},
+	{
+		"id" : "com.wincomplm.wex-quickaccess",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-64"
+	},
+	{
+		"id" : "com.wincomplm.wex-quickaccess",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-62"
 	}	
 ]
