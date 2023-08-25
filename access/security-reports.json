@@ -133,5 +133,25 @@
 		"id" : "com.wincomplm.wex-google-workspace",
 		"beta" : false,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-401"
+	},
+	{
+		"id" : "com.wincomplm.wex-repexport",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-67"
+	},
+	{
+		"id" : "com.wincomplm.wex-repexport-plus",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-68"
+	},
+	{
+		"id" : "com.wincomplm.wex-repexport",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-57"
+	},
+	{
+		"id" : "com.wincomplm.wex-repexport-plus",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-58"
 	}	
 ]
