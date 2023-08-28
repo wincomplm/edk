@@ -31,6 +31,11 @@
 	},
 	{
 		"id" : "com.wincomplm.wex-promote",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-413"
+	},
+	{
+		"id" : "com.wincomplm.wex-promote",
 		"beta" : false,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-54"
 	},
