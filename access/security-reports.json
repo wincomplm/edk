@@ -163,5 +163,25 @@
 		"id" : "com.wincomplm.wex-document-export",
 		"beta" : true,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-40"
+	},
+	{
+		"id" : "com.wincomplm.wex-repimport",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-69"
+	},
+	{
+		"id" : "com.wincomplm.wex-siliconexpert-adv",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-411"
+	},
+	{
+		"id" : "com.wincomplm.wex-siliconexpert-sync",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-52"
+	},
+	{
+		"id" : "com.wincomplm.wex-siliconexpert-starter",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-45"
 	}	
 ]
