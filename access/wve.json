@@ -1,5 +1,13 @@
 [
     {
+        "id": "WVE-2022-0301",    
+        "description": "Java network access",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["java.net.URL ","java.net.URL;"],
+        "score": 3,
+        "level": "A"
+    },
+    {
         "id": "WVE-2022-0101",    
         "description": "Privilege escalation using direct database access",    
         "extensions": ["java", "jsp", "jspf"],
@@ -39,15 +47,6 @@
         "score": 7,
         "level": "B"
     },
-
-    {
-        "id": "WVE-2022-0301",    
-        "description": "Java network access",    
-        "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["java.net.URL ","java.net.URL;"],
-        "score": 3,
-        "level": "A"
-    },
     {
         "id": "WVE-2022-0302",    
         "description": "iframe usage",    
@@ -65,6 +64,30 @@
         "level": "B"
     },
     {
+        "id": "WVE-2022-0501",    
+        "description": "JSP calls backend, possible XSS issue",    
+        "extensions": [ "jsp", "jspf"],
+        "keywords": ["wex:invoke"],
+        "score": 3,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0502",    
+        "description": "File creation",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["copyInputStreamToFile","FileWriter"],
+        "score": 4,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2022-0503",    
+        "description": "Use of request parameter",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["getParameter","getParameters"],
+        "score": 5,
+        "level": "B"
+    },
+    {
         "id": "WVE-2022-0402",    
         "description": "Extension Listener",    
         "extensions": ["java", "jsp", "jspf"],
@@ -79,14 +102,6 @@
         "keywords": ["ServiceEventListenerAdapter"],
         "score": 5,
         "level": "C"
-    },
-    {
-        "id": "WVE-2022-0501",    
-        "description": "JSP calls backend, possible XSS issue",    
-        "extensions": [ "jsp", "jspf"],
-        "keywords": ["wex:invoke"],
-        "score": 3,
-        "level": "B"
     }
 
 
