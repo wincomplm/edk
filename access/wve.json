@@ -72,7 +72,7 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0502",    
+        "id": "WVE-2023-0502",    
         "description": "File creation",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["copyInputStreamToFile","FileWriter"],
@@ -80,7 +80,7 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0503",    
+        "id": "WVE-2023-0503",    
         "description": "Use of request parameter",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["getParameter","getParameters"],
