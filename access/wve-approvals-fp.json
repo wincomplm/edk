@@ -191,7 +191,7 @@
     },
     {
         "id": "com.wincomplm.wex-audit",
-        "rules": ["WVE-2022-0501"]
+        "rules": ["WVE-2022-0501","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.magicleap-suma-saveas",
