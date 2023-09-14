@@ -251,7 +251,7 @@
     },
     {
         "id": "com.wincomplm.wex-comp-matrix",
-        "rules": ["WVE-2022-0501"]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-ophir-numupdate",
