@@ -5,7 +5,7 @@
     },
     {
 	 "id": "com.wincomplm.wex-asm-wused",
-        "rules": ["WVE-2022-0501"]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-report-manager",
