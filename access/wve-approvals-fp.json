@@ -182,10 +182,6 @@
         "falsePositives": ["WVE-2022-0302"] 
     },
     {
-        "id": "com.wincomplm.wex-config",
-        "rules": ["]
-    },
-    {
         "id": "com.wincomplm.wex-cluster",
         "rules": [","WVE-2023-0503"]
     },
