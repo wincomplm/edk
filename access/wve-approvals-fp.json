@@ -9,11 +9,11 @@
     },
     {
         "id": "com.wincomplm.wex-report-manager",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-report",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-report-util-commons",
@@ -21,7 +21,7 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201",", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0201","WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
@@ -29,11 +29,11 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-adv",
-        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","]
+        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-watermark-manager",
-        "rules": ["]
+        "rules": []
     },
     {
         "id": "com.wincomplm.wex-watermark-commons",
@@ -49,7 +49,7 @@
     },
 	{
         "id": "com.wincomplm.wex-manager",
-        "rules": ["WVE-2022-0301","WVE-2022-0203",", "WVE-2023-0503"]
+        "rules": ["WVE-2022-0301","WVE-2022-0203", "WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-kernel-base",
@@ -57,7 +57,7 @@
     },
     {
         "id": "com.wincomplm.wex-excel-loader",
-        "rules": ["WVE-2022-0301",", "WVE-2022-0201","WVE-2023-0503"],      
+        "rules": ["WVE-2022-0301", "WVE-2022-0201","WVE-2023-0503"],      
         "falsePositives": ["WVE-2022-0301"] 
     },
     {
@@ -66,15 +66,15 @@
     },
     {
         "id": "com.wincomplm.wex-repexport",
-        "rules": ["WVE-2022-0402","]
+        "rules": ["WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-repexport-plus",
-        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","]
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-repexport-pack",
-        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","]
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-kernel",
@@ -99,7 +99,7 @@
     
     {
         "id": "com.wincomplm.wex-center",
-        "rules": ["WVE-2022-0302","]
+        "rules": ["WVE-2022-0302"]
     }, 
     {
         "id": "com.wincomplm.wex-diagnostics",
@@ -107,7 +107,7 @@
     }, 
     {
         "id": "com.wincomplm.wex-ca-change",
-        "rules": ["WVE-2022-0302","]
+        "rules": ["WVE-2022-0302"]
     },
     {
         "id": "com.wincomplm.wex-excel-databind",
@@ -116,44 +116,44 @@
     },
     {
         "id": "com.wincomplm.wex-quickaccess-adv",
-        "rules": ["],
-         "falsePositives": ["] 
+        "rules": [""],
+         "falsePositives": [""] 
     },
     {
         "id": "com.wincomplm.wex-document-export",
-        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0402","]
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0402"]
     },
     {
         "id": "com.wincomplm.wex-watermark",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-cadquick",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-cadquick",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-ihs-sync",
-        "rules": ["WVE-2022-0301","]
+        "rules": ["WVE-2022-0301"]
     },
     {
         "id": "com.wincomplm.wex-google-workspace",
-        "rules": ["WVE-2022-0202","WVE-2022-0204","]
+        "rules": ["WVE-2022-0202","WVE-2022-0204"]
     },
     {
         "id": "com.wincomplm.wex-promote",
-        "rules": ["WVE-2022-0201","]
+        "rules": ["WVE-2022-0201"]
     },
     {
         "id": "com.wincomplm.wex-promote-adv",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-siliconexpert",
-        "rules": ["WVE-2022-0302","]
+        "rules": ["WVE-2022-0302"]
     },
     {
         "id": "com.wincomplm.wex-siliconexpert-starter",
@@ -161,33 +161,33 @@
     },
     {
         "id": "com.wincomplm.wex-siliconexpert-sync",
-        "rules": ["WVE-2022-0301","]
+        "rules": ["WVE-2022-0301"]
     },
     {
         "id": "com.wincomplm.wex-ix",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-change-analysis",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-change-validate",
-        "rules": ["WVE-2022-0302", "],       
+        "rules": ["WVE-2022-0302"],       
         "falsePositives": ["WVE-2022-0302"] 
     },
     {
         "id": "com.wincomplm.wex-change-validate-adv",
-        "rules": ["WVE-2022-0302", "],       
+        "rules": ["WVE-2022-0302"],       
         "falsePositives": ["WVE-2022-0302"] 
     },
     {
         "id": "com.wincomplm.wex-cluster",
-        "rules": [","WVE-2023-0503"]
+        "rules": ["WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-audit",
-        "rules": [","WVE-2023-0503"]
+        "rules": ["WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.magicleap-suma-saveas",
@@ -219,11 +219,11 @@
     },
     {
         "id": "com.wincomplm.wex-ix-windchill",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-quickaccess",
-        "rules": ["WVE-2022-0201", "]
+        "rules": ["WVE-2022-0201"]
     },
     {
         "id": "com.wincomplm.wex-sharepoint",
@@ -243,7 +243,7 @@
     },
     {
 	"id": "com.wincomplm.wcom-legacy",
-	"rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0403","]
+	"rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0403"]
     },
     {
         "id": "com.wincomplm.wex-comp-matrix",
@@ -262,7 +262,7 @@
     },
     {
         "id": "com.wincomplm.wex-change-review",
-        "rules": ["]
+        "rules": [""]
     },
     {
         "id": "com.wincomplm.wex-documentation",
