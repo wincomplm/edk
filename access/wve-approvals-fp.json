@@ -49,7 +49,7 @@
     },
 	{
         "id": "com.wincomplm.wex-manager",
-        "rules": ["WVE-2022-0301","WVE-2022-0302","WVE-2022-0203", "WVE-2023-0503"]
+        "rules": ["WVE-2022-0301","WVE-2022-0302","WVE-2022-0203", "WVE-2023-0503", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-kernel-base",
@@ -263,8 +263,7 @@
     {
         "id": "com.wincomplm.wex-documentation",
         "rules": ["WVE-2023-0503"]
-    }
-	,
+    },
     {
         "id": "com.wincomplm.wex-config",
         "rules": ["WVE-2023-0501"]
