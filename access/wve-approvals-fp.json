@@ -179,7 +179,7 @@
     },
     {
         "id": "com.wincomplm.wex-cluster",
-        "rules": ["WVE-2023-0503"]
+        "rules": ["WVE-2023-0503", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-audit",
