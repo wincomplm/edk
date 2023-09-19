@@ -266,6 +266,6 @@
     },
     {
         "id": "com.wincomplm.wex-config",
-        "rules": ["WVE-2023-0501"]
+        "rules": ["WVE-2022-0501"]
     }
 ]
