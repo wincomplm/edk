@@ -1,4 +1,4 @@
-[
+    [
     {
         "id": "com.wincomplm.wex-report-commons",
         "rules": ["WVE-2022-0301","WVE-2022-0101"]
@@ -116,7 +116,7 @@
     },
     {
         "id": "com.wincomplm.wex-quickaccess-adv",
-        "rules": ["WVE-2022-0501"],
+        "rules": ["WVE-2022-0501","WVE-2023-0503"],
          "falsePositives": ["WVE-2022-0501"] 
     },
     {
