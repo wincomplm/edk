@@ -264,5 +264,9 @@
         "id": "com.wincomplm.wex-documentation",
         "rules": ["WVE-2023-0503"]
     }
-	
+	,
+    {
+        "id": "com.wincomplm.wex-config",
+        "rules": ["WVE-2023-0501"]
+    }
 ]
