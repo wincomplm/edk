@@ -107,7 +107,7 @@
     }, 
     {
         "id": "com.wincomplm.wex-ca-change",
-        "rules": ["WVE-2022-0302"]
+        "rules": ["WVE-2022-0302", "WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-excel-databind",
