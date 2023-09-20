@@ -33,7 +33,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-manager",
-        "rules": []
+        "rules": ["WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-watermark-commons",
