@@ -21,11 +21,11 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201","WVE-2022-0402"]
+        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
-        "rules": ["WVE-2022-0301","WVE-2022-0101","WVE-2022-0201",", "]
+        "rules": ["WVE-2022-0301","WVE-2022-0101","WVE-2022-0201"]
     },
     {
         "id": "com.wincomplm.wex-watermark-adv",
