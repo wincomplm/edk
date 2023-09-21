@@ -268,5 +268,41 @@
 		"id" : "com.wincomplm.wex-center",
 		"beta" : false,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-448"
+	},
+	{
+		"id" : "com.wincomplm.wex-core",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-461"
+	},
+	{
+		"id" : "com.wincomplm.wex-framework",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-463"
+	},
+	{
+		"id" : "com.wincomplm.wex-license",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-464"
+	},
+	{
+		"id" : "com.wincomplm.wex-log",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-465"
+	},
+	{
+		"id" : "com.wincomplm.wex-performance",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-466"
+	},
+	{
+		"id" : "com.wincomplm.wex-store",
+		"beta" : false,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-467"
+	},
+	{
+		"id" : "com.wincomplm.wex-wt-framework",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-469"
 	}
+
 ]
