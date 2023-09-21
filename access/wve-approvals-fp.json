@@ -103,7 +103,7 @@
     }, 
     {
         "id": "com.wincomplm.wex-diagnostics",
-        "rules": ["WVE-2022-0203"]
+        "rules": ["WVE-2022-0203","WVE-2023-0503"]
     }, 
     {
         "id": "com.wincomplm.wex-ca-change",
