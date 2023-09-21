@@ -29,7 +29,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-adv",
-        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-watermark-manager",
