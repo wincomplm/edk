@@ -253,5 +253,10 @@
         "groupId": "com.azure",
         "artifactId": "azure-identity",
         "versions": ["*"]
+    },
+    {
+        "groupId": "org.javassist",
+        "artifactId": "javassist",
+        "versions": ["*"]
     }
 ]
