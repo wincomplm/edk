@@ -9,11 +9,11 @@
     },
     {
         "id": "com.wincomplm.wex-report-manager",
-        "rules": [""]
+        "rules": ["WVE-2023-0502", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-report",
-        "rules": [""]
+        "rules": ["WVE-2023-0502", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-report-util-commons",
@@ -21,19 +21,19 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201","WVE-2022-0402"]
+        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
-        "rules": ["WVE-2022-0301","WVE-2022-0101","WVE-2022-0201",", "]
+        "rules": ["WVE-2022-0301","WVE-2022-0101","WVE-2022-0201"]
     },
     {
         "id": "com.wincomplm.wex-watermark-adv",
-        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-watermark-manager",
-        "rules": []
+        "rules": ["WVE-2023-0503","WVE-2022-0501","WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-watermark-commons",
@@ -103,7 +103,7 @@
     }, 
     {
         "id": "com.wincomplm.wex-diagnostics",
-        "rules": ["WVE-2022-0203"]
+        "rules": ["WVE-2022-0203","WVE-2023-0503"]
     }, 
     {
         "id": "com.wincomplm.wex-ca-change",
@@ -125,7 +125,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark",
-        "rules": [""]
+        "rules": ["WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-cadquick",
@@ -183,7 +183,7 @@
     },
     {
         "id": "com.wincomplm.wex-audit",
-        "rules": ["WVE-2023-0503"]
+        "rules": ["WVE-2023-0503", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.magicleap-suma-saveas",
@@ -266,6 +266,10 @@
     },
     {
         "id": "com.wincomplm.wex-config",
-        "rules": ["WVE-2023-0501"]
+        "rules": ["WVE-2022-0501"]
+    },
+    {
+        "id": "com.wincomplm.wex-system",
+        "rules": ["WVE-2023-0503"]
     }
 ]
