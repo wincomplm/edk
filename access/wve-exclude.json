@@ -1,5 +1,9 @@
 [
     {
         "file": "junit.jsp"
+    },
+    {
+        "file": "src\\test\\resources"
     }
+    
 ]
