@@ -274,6 +274,6 @@
     },
     {
         "id": "com.wincomplm.wex-feature-count",
-        "rules": ["WVE-2022-0403"]
+        "rules": ["WVE-2022-0403","WVE-2022-0501"]
     }
 ]
