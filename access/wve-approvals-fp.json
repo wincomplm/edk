@@ -271,5 +271,9 @@
     {
         "id": "com.wincomplm.wex-system",
         "rules": ["WVE-2023-0503"]
+    },
+    {
+        "id": "com.wincomplm.wex-feature-count",
+        "rules": ["WVE-2022-0403"]
     }
 ]
