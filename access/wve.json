@@ -67,7 +67,7 @@
         "id": "WVE-2022-0501",    
         "description": "JSP calls backend, possible XSS issue",    
         "extensions": [ "jsp", "jspf"],
-        "keywords": ["wex:invoke"],
+        "keywords": ["wex:invoke","WexInvoker.invoke"],
         "score": 3,
         "level": "B"
     },
