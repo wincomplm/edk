@@ -4,6 +4,12 @@
     },
     {
         "file": "src\\test\\resources"
+    },
+    {
+        "file":"junit\\JUnitTestLauncher.java"
+    },
+    {
+        "file":"junit\\MainUiTest.java"
     }
     
 ]

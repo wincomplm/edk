@@ -141,11 +141,11 @@
     },
     {
         "id": "com.wincomplm.wex-promote",
-        "rules": ["WVE-2022-0201"]
+        "rules": ["WVE-2022-0201","WVE-2022-0501","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-promote-adv",
-        "rules": [""]
+        "rules": ["WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-siliconexpert",
@@ -199,7 +199,7 @@
     },
     {
         "id": "com.piaggio.wex-quickaccess",
-        "rules": ["WVE-2022-0201"," WVE-2022-0501"]
+        "rules": ["WVE-2022-0201"," WVE-2022-0501","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-watermarking-ondownload",
@@ -219,7 +219,7 @@
     },
     {
         "id": "com.wincomplm.wex-quickaccess",
-        "rules": ["WVE-2022-0201"]
+        "rules": ["WVE-2022-0201","WVE-2023-0503","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-sharepoint",
