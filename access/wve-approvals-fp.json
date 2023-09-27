@@ -278,7 +278,7 @@
     },
     {
         "id": "com.wincomplm.wex-license",
-        "rules": [],      
+        "rules": ["WVE-2022-0501"],      
         "falsePositives": ["WVE-2022-0501"] 
-    },
+    }
 ]
