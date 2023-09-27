@@ -275,5 +275,10 @@
     {
         "id": "com.wincomplm.wex-feature-count",
         "rules": ["WVE-2022-0403","WVE-2022-0501"]
-    }
+    },
+    {
+        "id": "com.wincomplm.wex-license",
+        "rules": [],      
+        "falsePositives": ["WVE-2022-0501"] 
+    },
 ]
