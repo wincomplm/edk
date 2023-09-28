@@ -66,15 +66,15 @@
     },
     {
         "id": "com.wincomplm.wex-repexport",
-        "rules": ["WVE-2022-0402"]
+        "rules": ["WVE-2022-0402","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-repexport-plus",
-        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-repexport-pack",
-        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-kernel",
@@ -281,4 +281,5 @@
         "rules": ["WVE-2022-0501"],      
         "falsePositives": ["WVE-2022-0501"] 
     }
+
 ]
