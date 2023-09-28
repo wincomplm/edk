@@ -10,6 +10,9 @@
     },
     {
         "file":"junit\\MainUiTest.java"
+    },
+     {
+        "file":"resources"
     }
     
 ]
