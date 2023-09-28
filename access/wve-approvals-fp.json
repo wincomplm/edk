@@ -41,7 +41,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-pack",
-        "rules": ["WVE-2022-0101", "WVE-2022-0201", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402"]
+        "rules": ["WVE-2022-0101", "WVE-2022-0201", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402", "WVE-2022-0501"]
     },
 	{
         "id": "com.wincomplm.wex-deploy-commons",
@@ -203,7 +203,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermarking-ondownload",
-        "rules": ["WVE-2022-0202","WVE-2022-0204"]
+        "rules": ["WVE-2022-0202","WVE-2022-0204", "WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-conmo-reports",
