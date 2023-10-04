@@ -284,6 +284,11 @@
     {
         "id": "com.wincomplm.wex-eapimport",
         "rules": ["WVE-2022-0201","WVE-2022-0501", "WVE-2023-0503", "WVE-2022-0202", "WVE-2022-0204"]
+    },
+    {
+        "id": "com.wincomplm.wex-junit",
+        "rules": ["WVE-2023-0503"]
     }
+
 
 ]
