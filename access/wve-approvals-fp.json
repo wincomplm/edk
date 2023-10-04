@@ -243,7 +243,7 @@
     },
     {
         "id": "com.wincomplm.wex-comp-matrix",
-        "rules": ["WVE-2023-0503"]
+        "rules": ["WVE-2023-0503","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-ophir-numupdate",
