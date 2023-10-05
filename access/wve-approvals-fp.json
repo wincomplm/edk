@@ -296,12 +296,9 @@
     {
         "id": "com.wincomplm.wex-ix-config",
         "rules": ["WVE-2023-0502"]
-    },   
+    },{   
         "id": "com.wincomplm.wcom-contentloader-commons",
         "rules": ["WVE-2022-0201"]
     }
-}
-
-
 
 ]
