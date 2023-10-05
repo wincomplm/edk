@@ -165,7 +165,7 @@
     },
     {
         "id": "com.wincomplm.wex-change-analysis",
-        "rules": [""]
+        "rules": ["WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-change-validate",
@@ -305,6 +305,4 @@
         "id": "com.wincomplm.wex-asm-wused-adv",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
     }
-
-
 ]
