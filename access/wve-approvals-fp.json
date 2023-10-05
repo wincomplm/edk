@@ -292,7 +292,13 @@
     {
         "id": "com.wincomplm.wex-ix",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
+    },
+    {
+        "id": "com.wincomplm.wex-ix-config",
+        "rules": ["WVE-2023-0502"]
     }
+
+
 
 
 ]
