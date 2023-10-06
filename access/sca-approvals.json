@@ -258,5 +258,15 @@
         "groupId": "org.javassist",
         "artifactId": "javassist",
         "versions": ["*"]
+    },
+    {
+        "groupId": "ognl",
+        "artifactId": "ognl",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "commons-logging",
+        "artifactId": "commons-logging",
+        "versions": ["*"]
     }
 ]
