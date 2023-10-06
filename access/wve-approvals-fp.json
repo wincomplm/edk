@@ -149,7 +149,7 @@
     },
     {
         "id": "com.wincomplm.wex-siliconexpert",
-        "rules": ["WVE-2022-0302"]
+        "rules": ["WVE-2022-0302","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-siliconexpert-starter",
