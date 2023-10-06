@@ -304,5 +304,10 @@
     {   
         "id": "com.wincomplm.wex-asm-wused-adv",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
+    },
+    {   
+        "id": "com.wincomplm.wex-xsb-swiss",
+        "rules": ["WVE-2022-0501","WVE-2023-0503"]
     }
+
 ]
