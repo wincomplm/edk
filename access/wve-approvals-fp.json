@@ -254,7 +254,7 @@
     },
     {
         "id": "com.wincomplm.wex-ssl-cert",
-        "rules": ["WVE-2022-0301"]
+        "rules": ["WVE-2022-0301","WVE-2023-0503","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-change-review",
