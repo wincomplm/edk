@@ -174,7 +174,7 @@
     },
     {
         "id": "com.wincomplm.wex-change-validate-adv",
-        "rules": ["WVE-2022-0302"],       
+        "rules": ["WVE-2022-0302","WVE-2023-0503","WVE-2022-0501"],       
         "falsePositives": ["WVE-2022-0302"] 
     },
     {
