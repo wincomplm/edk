@@ -57,7 +57,7 @@
     },
     {
         "id": "com.wincomplm.wex-excel-loader",
-        "rules": ["WVE-2022-0301", "WVE-2022-0201","WVE-2023-0503"],      
+        "rules": ["WVE-2022-0301", "WVE-2022-0201","WVE-2023-0503","WVE-2022-0501"],      
         "falsePositives": ["WVE-2022-0301"] 
     },
     {
@@ -137,7 +137,7 @@
     },
     {
         "id": "com.wincomplm.wex-google-workspace",
-        "rules": ["WVE-2022-0202","WVE-2022-0204"]
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-promote",
@@ -149,7 +149,7 @@
     },
     {
         "id": "com.wincomplm.wex-siliconexpert",
-        "rules": ["WVE-2022-0302"]
+        "rules": ["WVE-2022-0302","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-siliconexpert-starter",
@@ -254,7 +254,7 @@
     },
     {
         "id": "com.wincomplm.wex-ssl-cert",
-        "rules": ["WVE-2022-0301"]
+        "rules": ["WVE-2022-0301","WVE-2023-0503","WVE-2022-0501"]
     },
     {
         "id": "com.wincomplm.wex-change-review",
@@ -305,8 +305,13 @@
         "id": "com.wincomplm.wex-asm-wused-adv",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
     },
-    {   
+    {
         "id": "com.wincomplm.wex-siliconexpert-sync",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
+    },
+    {
+        "id": "com.wincomplm.wex-xsb-swiss",
+        "rules": ["WVE-2022-0501","WVE-2023-0503"]
     }
+
 ]
