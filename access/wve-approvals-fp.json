@@ -312,6 +312,12 @@
     {
         "id": "com.wincomplm.wex-xsb-swiss",
         "rules": ["WVE-2022-0501","WVE-2023-0503"]
-    }
+    },
+    {
+        "id": "com.wincomplm.wex-ihs-sync",
+        "rules": ["WVE-2022-0501","WVE-2023-0503","WVE-2022-0301"]
+    },
+
+
 
 ]
