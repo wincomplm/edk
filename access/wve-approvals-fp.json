@@ -137,7 +137,7 @@
     },
     {
         "id": "com.wincomplm.wex-google-workspace",
-        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0501"]
+        "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0501","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-promote",
