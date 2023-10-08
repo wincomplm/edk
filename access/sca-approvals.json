@@ -281,7 +281,7 @@
     },
     {
         "groupId": "com.github.virtuald",
-        "artifactId": "ccurvesapi",
+        "artifactId": "curvesapi",
         "versions": ["*"]
     }
 
