@@ -268,5 +268,21 @@
         "groupId": "commons-logging",
         "artifactId": "commons-logging",
         "versions": ["*"]
+    },
+    {
+        "groupId": "commons-codec",
+        "artifactId": "commons-codec",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.zaxxer",
+        "artifactId": "SparseBitSet",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "com.github.virtuald",
+        "artifactId": "ccurvesapi",
+        "versions": ["*"]
     }
+
 ]
