@@ -11,6 +11,8 @@
         <fileSet filtered="true" packaged="false">
             <directory>src/main/wex</directory>
         </fileSet>
-
+        <fileSet filtered="true" packaged="false">
+            <directory>src/main/security</directory>
+        </fileSet>
     </fileSets>
 </archetype-descriptor>
