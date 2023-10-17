@@ -215,7 +215,7 @@
     },
     {
         "id": "com.wincomplm.wex-ix-windchill",
-        "rules": [""]
+        "rules": ["WVE-2022-0501","WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-quickaccess",
