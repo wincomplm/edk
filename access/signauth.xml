@@ -32,7 +32,7 @@
             <login>*@eka.it</login>
         </logins>
         <artifacts>
-            <artifact group-id="*" artifact-id="*"/>
+            <artifact group-id="com.avioaero" artifact-id="*"/>
         </artifacts>
     </signer>
     
