@@ -323,7 +323,7 @@
     },
     {
         "id":"com.wincomplm.magicl-exportutils",
-        "rules":["WVE-2022-0501","2023-0503"]	
+        "rules":["WVE-2022-0501","WVE-2023-0503"]	
     },
     {
         "id":"com.wincomplm.magicl-reportwt",
