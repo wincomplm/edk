@@ -283,6 +283,11 @@
         "groupId": "com.github.virtuald",
         "artifactId": "curvesapi",
         "versions": ["*"]
+    },
+    {
+        "groupId":"net.wincomco.windchill",
+        "artifactId":"*",
+        "versions":["*"]
     }
 
 ]
