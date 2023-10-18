@@ -103,16 +103,6 @@
         </approvals>
     </signer>
     
-    <signer name="accenture" client-id="142251" jar-sign="true">
-         <logins>
-            <login>*@accenture.com</login>
-        </logins>
-        <artifacts >
-            <artifact group-id="com.piaggio" artifact-id="*"/>
-        </artifacts>
-        <approvals>
-            <approval>*</approval>
-        </approvals>
-    </signer>
+  
 
 </signers>
