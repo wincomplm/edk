@@ -326,7 +326,7 @@
         "rules":["WVE-2022-0501","WVE-2023-0503"]	
     },
     {
-        "id":"com.wincomplm.magicl-reportw",
+        "id":"com.wincomplm.magicl-reportwf",
         "rules":["WVE-2022-0301","WVE-2022-0202","WVE-2022-0204","WVE-2022-0501","WVE-2023-0503"]
     },
     {   
