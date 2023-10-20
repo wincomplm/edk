@@ -40,14 +40,6 @@
         "level": "B"
     },
     {
-        "id": "WVE-2022-0204",    
-        "description": "Privilege escalation using session",    
-        "extensions": ["java", "jsp", "jspf"],
-        "keywords": ["SessionServerHelper.manager.setAccessEnforced", "SessionHelper.manager.setAdministrator"],
-        "score": 7,
-        "level": "B"
-    },
-    {
         "id": "WVE-2022-0302",    
         "description": "iframe usage",    
         "extensions": ["java", "jsp", "jspf", "html"],
