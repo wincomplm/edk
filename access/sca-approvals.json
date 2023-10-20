@@ -283,6 +283,26 @@
         "groupId": "com.github.virtuald",
         "artifactId": "curvesapi",
         "versions": ["*"]
+    },
+    {
+        "groupId":"net.wincomco.windchill",
+        "artifactId":"*",
+        "versions":["*"]
+    },
+    {
+        "groupId": "com.thoughtworks.xstream",
+        "artifactId": "xstream",
+        "versions": ["1.4.20"]
+    },
+     {
+        "groupId": "io.github.x-stream",
+        "artifactId": "mxparser",
+        "versions": ["1.2.2"]
+    },
+     {
+        "groupId": "xmlpull",
+        "artifactId": "xmlpull",
+        "versions": ["1.1.3.1"]
     }
 
 ]

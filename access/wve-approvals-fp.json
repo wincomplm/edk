@@ -4,7 +4,7 @@
         "rules": ["WVE-2022-0301","WVE-2022-0101"]
     },
     {
-	 "id": "com.wincomplm.wex-asm-wused",
+	    "id": "com.wincomplm.wex-asm-wused",
         "rules": [""]
     },
     {
@@ -215,7 +215,7 @@
     },
     {
         "id": "com.wincomplm.wex-ix-windchill",
-        "rules": [""]
+        "rules": ["WVE-2022-0501","WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-quickaccess",
@@ -226,7 +226,7 @@
         "rules": ["WVE-2022-0301"]
     },
     {
-	"id": "com.wincomplm.wex-quick-change",
+	    "id": "com.wincomplm.wex-quick-change",
         "rules": ["WVE-2022-0202","WVE-2022-0204","WVE-2022-0302"]  
     },
     {
@@ -238,8 +238,8 @@
         "rules": ["WVE-2022-0302"]
     },
     {
-	"id": "com.wincomplm.wcom-legacy",
-	"rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0403"]
+	    "id": "com.wincomplm.wcom-legacy",
+	    "rules": ["WVE-2022-0101","WVE-2022-0201","WVE-2022-0202","WVE-2022-0204","WVE-2022-0301","WVE-2022-0403"]
     },
     {
         "id": "com.wincomplm.wex-comp-matrix",
@@ -316,8 +316,59 @@
     {
         "id": "com.wincomplm.wex-ihs-sync",
         "rules": ["WVE-2022-0501","WVE-2023-0503","WVE-2022-0301"]
+    },
+    {
+        "id": "com.wincomplm.bayer-retype",
+        "rules": ["WVE-2023-0503"]
+    },
+    {
+        "id":"com.wincomplm.magicl-exportutils",
+        "rules":["WVE-2022-0501","WVE-2023-0503"]	
+    },
+    {
+        "id":"com.wincomplm.magicl-reportwf",
+        "rules":["WVE-2022-0301","WVE-2022-0202","WVE-2022-0204","WVE-2022-0501","WVE-2023-0503"]
+    },
+    {   
+        "id":"com.wincomplm.magicleap-drawingsync",
+        "rules":["WVE-2022-0402"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-attributeutils",
+        "rules":["WVE-2022-0403"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-baselineupdate",
+        "rules":["WVE-2023-0503"]	
+    },  
+    {
+        "id":"com.wincomplm.wex-magicleap-bomview",
+        "rules":["WVE-2023-0503"]	
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-checkinutils",
+        "rules":["WVE-2022-0401","WVE-2023-0502","WVE-2022-0403"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-erpclients",
+        "rules":["WVE-2022-0301","WVE-2022-0202","WVE-2022-0204","WVE-2023-0503","WVE-2022-0403"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-partbuilder",
+        "rules":["WVE-2023-0503"]	
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-promotionworkflow",
+        "rules":["WVE-2022-0201"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-repexecute",
+        "rules":["WVE-2022-0301","WVE-2022-0202","WVE-2022-0204"]
+    },
+    {
+        "id":"com.wincomplm.wex-magicleap-retypeutils",
+        "rules":["WVE-2022-0201","WVE-2023-0503"]
     }
-
-
+  
 
 ]
