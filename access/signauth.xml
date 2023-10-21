@@ -59,6 +59,7 @@
             <login>*@agcocorp.com</login>
         </logins>
         <artifacts>
+            <artifact group-id="com.agcocorp" artifact-id="*"/>
             <artifact group-id="com.wincomplm" artifact-id="agco-diag-test"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-attrutils"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-autoassociate"/>
@@ -88,6 +89,7 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-settings"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-watermark-utility"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-customizations"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-agco-solidedge-cadi"/>
         </artifacts>
     </signer>
 
