@@ -368,6 +368,10 @@
     {
         "id":"com.wincomplm.wex-magicleap-retypeutils",
         "rules":["WVE-2022-0201","WVE-2023-0503"]
+    },
+    {
+        "id": "com.wincomplm.wex-comexi-salesconfig",
+        "rules": ["WVE-2023-0503","WVE-2022-0501","WVE-2022-0202"]
     }
   
 
