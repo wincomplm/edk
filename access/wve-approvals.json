@@ -184,14 +184,6 @@
     {
         "id": "com.wincomplm.wex-feature-count",
         "rules": ["WVE-2022-0403"]
-    },
-    {
-        "id": "com.wincomplm.bayer-retype",
-        "rules": ["WVE-2023-0503"]
-    },
-    {
-        "id": "com.wincomplm.wex-comexi-salesconfig",
-        "rules": ["WVE-2023-0503","WVE-2022-0501","WVE-2022-0202","WVE-2022-0201"]
     }
 
     
