@@ -308,6 +308,18 @@
         "groupId": "com.github.briandilley.jsonrpc4j",
         "artifactId": "jsonrpc4j",
         "versions": ["*"]
+    },
+    {
+        "groupId": "org.slf4j",
+        "artifactId": "slf4j-jdk14",
+        "versions": ["*"]
+    },
+    {
+        "groupId": "org.slf4j",
+        "artifactId": "slf4j-api",
+        "versions": ["*"]
     }
+
+
 
 ]
