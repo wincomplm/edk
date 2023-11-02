@@ -29,7 +29,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-adv",
-        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402", "WVE-2022-0501"]
+        "rules": ["WVE-2022-0101", "WVE-2022-0202", "WVE-2022-0204", "WVE-2022-0402", "WVE-2022-0501", "WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-watermark-manager",
@@ -203,7 +203,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermarking-ondownload",
-        "rules": ["WVE-2022-0202","WVE-2022-0204", "WVE-2022-0501"]
+        "rules": ["WVE-2022-0202","WVE-2022-0204", "WVE-2022-0501", "WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-conmo-reports",
