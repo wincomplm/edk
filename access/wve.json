@@ -67,7 +67,7 @@
         "id": "WVE-2023-0502",    
         "description": "File creation",    
         "extensions": [ "java","jsp", "jspf"],
-        "keywords": ["copyInputStreamToFile","FileWriter"],
+        "keywords": ["copyInputStreamToFile","FileWriter","FileOutputStream","mkdir"],
         "score": 4,
         "level": "B"
     },
