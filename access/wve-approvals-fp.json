@@ -129,7 +129,7 @@
     },
     {
         "id": "com.wincomplm.wex-cadquick",
-        "rules": ["WVE-2022-0501","WVE-2023-0503"]
+        "rules": ["WVE-2022-0501","WVE-2023-0503","WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-ihs-sync",
@@ -141,7 +141,7 @@
     },
     {
         "id": "com.wincomplm.wex-promote",
-        "rules": ["WVE-2022-0201","WVE-2022-0501","WVE-2023-0503"]
+        "rules": ["WVE-2022-0201","WVE-2022-0501","WVE-2023-0503","WVE-2023-0502"]
     },
     {
         "id": "com.wincomplm.wex-promote-adv",
