@@ -299,7 +299,7 @@
     },
     {   
         "id": "com.wincomplm.wcom-contentloader-commons",
-        "rules": ["WVE-2022-0201"]
+        "rules": ["WVE-2022-0201","WVE-2023-0502"]
     },
     {   
         "id": "com.wincomplm.wex-asm-wused-adv",
