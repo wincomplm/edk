@@ -308,6 +308,11 @@
         "groupId": "org.mybatis",
         "artifactId": "mybatis",
         "versions": ["3.5.9"]
+    },
+    {
+        "groupId": "org.ow2.asm",
+        "artifactId": "*",
+        "versions": ["*"]
     }
 
 
