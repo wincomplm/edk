@@ -49,7 +49,7 @@
     },
     {
         "id": "com.wincomplm.wex-repexport-commons",
-        "rules": ["WVE-2022-0402", "WVE-2022-0501", "WVE-2022-0502", "WVE-2023-0503"]
+        "rules": ["WVE-2022-0402", "WVE-2022-0501", "WVE-2022-0502", "WVE-2023-0503","WVE-2023-0303"]
     },
     {
         "id": "com.wincomplm.wex-repexport",
