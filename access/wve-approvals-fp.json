@@ -20,6 +20,11 @@
         "rules": ["WVE-2022-0201"]
     },
     {
+        "id": "com.wincomplm.wex-report-commons",
+        "rules": ["WVE-2022-0201"]
+
+    },
+    {
         "id": "com.wincomplm.wex-coversheet",
         "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501"]
     },
@@ -210,8 +215,9 @@
         "rules": ["WVE-2022-0202","WVE-2022-0204", "WVE-2022-0501", "WVE-2023-0502"]
     },
     {
-        "id": "com.wincomplm.wex-conmo-reports",
-        "rules": ["WVE-2022-0201"]
+        "id": "com.wincomplm.wex-report-commons",
+        "rules": ["WVE-2023-0502","WVE-2023-0503"],     
+        "falsePositives": ["WVE-2022-0301"]
     },
     {
         "id": "com.wincomplm.wex-jon-partnumber",
