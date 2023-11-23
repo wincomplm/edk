@@ -381,6 +381,10 @@
     {
         "id": "com.wincomplm.wex-watermark-log-commons",
         "rules": ["WVE-2023-0502"]
+    },
+    {
+        "id": "com.wincomplm.wex-watermark-service",
+        "rules": ["WVE-2023-0503","WVE-2023-0502"]
     }
   
   
