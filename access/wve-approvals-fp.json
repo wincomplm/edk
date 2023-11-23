@@ -216,7 +216,7 @@
     },
     {
         "id": "com.wincomplm.wex-report-commons",
-        "rules": ["WVE-2023-0502","WVE-2023-0503"],     
+        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2022-0301"],  
         "falsePositives": ["WVE-2022-0301"]
     },
     {
