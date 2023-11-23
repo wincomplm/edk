@@ -6,6 +6,22 @@
         "keywords": ["java.net.URL ","java.net.URL;"],
         "score": 3,
         "level": "A"
+    },    
+    {
+        "id": "WVE-2022-0302",    
+        "description": "iframe usage",    
+        "extensions": ["java", "jsp", "jspf", "html"],
+        "keywords": ["iframe"],
+        "score": 5,
+        "level": "A"
+    },
+    {
+        "id": "WVE-2023-0303",    
+        "description": "FTP Usage",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["FTPClient"],
+        "score": 5,
+        "level": "A"
     },
     {
         "id": "WVE-2022-0101",    
@@ -38,14 +54,6 @@
         "keywords": ["WexAdminSwitcher", "WexContextSwitcher"],
         "score": 7,
         "level": "B"
-    },
-    {
-        "id": "WVE-2022-0302",    
-        "description": "iframe usage",    
-        "extensions": ["java", "jsp", "jspf", "html"],
-        "keywords": ["iframe"],
-        "score": 5,
-        "level": "A"
     },
     {
         "id": "WVE-2022-0401",    
