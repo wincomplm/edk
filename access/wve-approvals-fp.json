@@ -37,7 +37,7 @@
     },
     {
         "id": "com.wincomplm.wex-watermark-commons",
-        "rules": ["WVE-2022-0202", "WVE-2022-0204"]
+        "rules": ["WVE-2022-0202", "WVE-2022-0204","WVE-2023-0502","WVE-2023-0503"]
     },
     {
         "id": "com.wincomplm.wex-watermark-pack",
