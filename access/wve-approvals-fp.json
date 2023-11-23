@@ -1,9 +1,5 @@
     [
     {
-        "id": "com.wincomplm.wex-report-commons",
-        "rules": ["WVE-2022-0301","WVE-2022-0101"]
-    },
-    {
 	    "id": "com.wincomplm.wex-asm-wused",
         "rules": [""]
     },
@@ -18,11 +14,6 @@
     {
         "id": "com.wincomplm.wex-report-util-commons",
         "rules": ["WVE-2022-0201"]
-    },
-    {
-        "id": "com.wincomplm.wex-report-commons",
-        "rules": ["WVE-2022-0201"]
-
     },
     {
         "id": "com.wincomplm.wex-coversheet",
