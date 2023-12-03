@@ -88,7 +88,7 @@
     },
     {
         "id": "WVE-2023-0503",    
-        "description": "Use of request parameter - deprecated",    
+        "description": "Use of request parameter - deprecated replaced by WVE-2023-0504, WVE-2023-0505 ",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["xxxx-getParameter","xxxx-getParameters"],
         "score": 5,
@@ -97,7 +97,7 @@
 
     {
         "id": "WVE-2023-0504",    
-        "description": "Use of request parameter",    
+        "description": "Use of request parameter (XSS risk)",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["getParameter(","getParameterValues("],
         "score": 5,
@@ -105,13 +105,20 @@
     },
     {
         "id": "WVE-2023-0505",    
-        "description": "Use of request parameter map",    
+        "description": "Use of request parameter map (XSS risk)",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["getParameterMap("],
         "score": 5,
         "level": "B"
     },    
-
+    {
+        "id": "WVE-2023-0506",    
+        "description": "Use of output stream (XSS risk)",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["getOutputStream("],
+        "score": 5,
+        "level": "B"
+    }, 
 
 
     {
