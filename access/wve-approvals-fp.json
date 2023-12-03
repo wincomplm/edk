@@ -160,10 +160,6 @@
         "rules": ["WVE-2022-0301"]
     },
     {
-        "id": "com.wincomplm.wex-ix",
-        "rules": [""]
-    },
-    {
         "id": "com.wincomplm.wex-change-analysis",
         "rules": ["WVE-2023-0503"]
     },
@@ -292,7 +288,7 @@
     },
     {
         "id": "com.wincomplm.wex-ix",
-        "rules": ["WVE-2022-0501","WVE-2023-0503","WVE-2023-0502"]
+        "rules": ["WVE-2022-0501","WVE-2023-0503","WVE-2023-0502","WVE-2023-0506"]
     },
     {
         "id": "com.wincomplm.wex-ix-config",
