@@ -88,12 +88,32 @@
     },
     {
         "id": "WVE-2023-0503",    
-        "description": "Use of request parameter",    
+        "description": "Use of request parameter - deprecated",    
         "extensions": [ "java","jsp", "jspf"],
-        "keywords": ["getParameter","getParameters"],
+        "keywords": ["xxxx-getParameter","xxxx-getParameters"],
         "score": 5,
         "level": "B"
     },
+
+    {
+        "id": "WVE-2023-0504",    
+        "description": "Use of request parameter",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["getParameter(","getParameterValues("],
+        "score": 5,
+        "level": "B"
+    },
+    {
+        "id": "WVE-2023-0505",    
+        "description": "Use of request parameter map",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["getParameterMap("],
+        "score": 5,
+        "level": "B"
+    },    
+
+
+
     {
         "id": "WVE-2022-0402",    
         "description": "Extension Listener",    
