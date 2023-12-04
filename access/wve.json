@@ -115,7 +115,7 @@
         "id": "WVE-2023-0506",    
         "description": "Use of output stream (XSS risk)",    
         "extensions": [ "java","jsp", "jspf"],
-        "keywords": ["getOutputStream("],
+        "keywords": ["getOutputStream(","getWriter("],
         "score": 5,
         "level": "B"
     }, 
