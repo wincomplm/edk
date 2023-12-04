@@ -12,6 +12,10 @@
         "rules": ["WVE-2023-0502", "WVE-2022-0501"]
     },
     {
+        "id": "com.wincomplm.wex-report-commons",
+        "rules": ["WVE-2023-0506"]
+    },
+    {
         "id": "com.wincomplm.wex-report-util-commons",
         "rules": ["WVE-2022-0201"]
     },
@@ -21,7 +25,7 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet-commons",
-        "rules": ["WVE-2023-0502","WVE-2023-0503"]
+        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2023-0506"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
