@@ -204,7 +204,7 @@
     {
         "id": "com.wincomplm.wex-report-commons",
         "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2022-0301"],  
-        "falsePositives": ["WVE-2022-0301,"WVE-2023-0506"]
+        "falsePositives": ["WVE-2022-0301","WVE-2023-0506"]
     },
     {
         "id": "com.wincomplm.wex-jon-partnumber",
