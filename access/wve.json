@@ -72,7 +72,7 @@
     },
     {
         "id": "WVE-2022-0501",    
-        "description": "JSP calls backend, possible XSS,CSRF and access issue",    
+        "description": "JSP calls backend, possible XSS, CSRF and access issue",    
         "extensions": [ "jsp", "jspf"],
         "keywords": ["wex:invoke","WexInvoker.invoke"],
         "score": 3,
@@ -83,7 +83,7 @@
         "description": "File creation",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["copyInputStreamToFile","FileWriter","FileOutputStream","mkdir"],
-        "score": 4,
+        "score": 6,
         "level": "B"
     },
     {
@@ -113,14 +113,36 @@
     },    
     {
         "id": "WVE-2023-0506",    
-        "description": "Use of output stream (XSS risk)",    
+        "description": "Use of output stream (XSS,Path disclosure risk)",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["getOutputStream(","getWriter("],
+        "score": 6,
+        "level": "B"
+    }, 
+    {
+        "id": "WVE-2023-0507",    
+        "description": "Use of Windchill temp area",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["wt.temp"],
         "score": 5,
         "level": "B"
     }, 
-
-
+    {
+        "id": "WVE-2023-0508",    
+        "description": "Use of Java temp area",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["java.io.tmpdir"],
+        "score": 5,
+        "level": "B"
+    }, 
+    {
+        "id": "WVE-2023-0509",    
+        "description": "Use of Java temp file",    
+        "extensions": [ "java","jsp", "jspf"],
+        "keywords": ["createTempFile("],
+        "score": 5,
+        "level": "B"
+    }, 
     {
         "id": "WVE-2022-0402",    
         "description": "Extension Listener",    
