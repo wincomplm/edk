@@ -5,7 +5,7 @@
     },
     {
         "id": "com.wincomplm.wex-report-manager",
-        "rules": ["WVE-2023-0502", "WVE-2022-0501"]
+        "rules": ["WVE-2023-0502", "WVE-2022-0501", "WVE-2023-0509"]
     },
     {
         "id": "com.wincomplm.wex-report",
@@ -17,11 +17,12 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501"]
+        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501","WVE-2022-0505"],
+	"falsePositives": ["WVE-2022-0505"] 
     },
     {
         "id": "com.wincomplm.wex-coversheet-commons",
-        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2023-0506"]
+        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2023-0506", "WVE-2023-0509"]
     },
     {
         "id": "com.wincomplm.wex-report-pack",
@@ -187,8 +188,8 @@
     },
     {
         "id": "com.wincomplm.wex-report-commons",
-        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2022-0301","WVE-2023-0506"],  
-        "falsePositives": ["WVE-2022-0301","WVE-2023-0506"]
+        "rules": ["WVE-2023-0502","WVE-2023-0503","WVE-2022-0301","WVE-2023-0506", "WVE-2023-0509"],  
+        "falsePositives": ["WVE-2022-0301","WVE-2023-0506", "WVE-2023-0509"]
     },
     {
         "id": "com.wincomplm.wex-jon-partnumber",
