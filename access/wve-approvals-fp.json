@@ -5,7 +5,7 @@
     },
     {
         "id": "com.wincomplm.wex-report-manager",
-        "rules": ["WVE-2023-0502", "WVE-2022-0501", "WVE-2023-0509"]
+        "rules": ["WVE-2023-0502", "WVE-2022-0501", "WVE-2023-0509", "WVE-2023-0506"]
     },
     {
         "id": "com.wincomplm.wex-report",
