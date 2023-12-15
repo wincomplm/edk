@@ -17,8 +17,8 @@
     },
     {
         "id": "com.wincomplm.wex-coversheet",
-        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501","WVE-2023-0505"],
-	"falsePositives": ["WVE-2023-0505"] 
+        "rules": ["WVE-2022-0201","WVE-2022-0402","WVE-2023-0503","WVE-2023-0502","WVE-2022-0501","WVE-2023-0505","WVE-2023-0504"],
+	"falsePositives": ["WVE-2023-0505","WVE-2023-0504"] 
     },
     {
         "id": "com.wincomplm.wex-coversheet-commons",
