@@ -116,12 +116,7 @@
       <cve>CVE-2012-5784</cve>
       <cve>CVE-2018-8032</cve>
    </suppress>
-   <suppress>
-      <notes><![CDATA[
-      file name: jackson-databind-2.15.2.jar
-      ]]></notes>
-      <cve>CVE-2023-35116</cve>
-   </suppress>
+
 
    <suppress>
       <notes><![CDATA[
