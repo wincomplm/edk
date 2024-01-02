@@ -145,7 +145,7 @@
     }, 
     {
         "id": "WVE-2024-0510",    
-        "description": "Use of Feedback that must be sanitizee",    
+        "description": "Use of Feedback that must be sanitized",    
         "extensions": [ "java","jsp", "jspf"],
         "keywords": ["new FeedbackMessage("],
         "score": 5,
