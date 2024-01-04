@@ -152,6 +152,14 @@
         "level": "B"
     }, 
     {
+        "id": "WVE-2024-0511",    
+        "description": "Some operations that consume resources must be rate limited",    
+        "extensions": [ "java"],
+        "keywords": ["FormResult doOperation"],
+        "score": 5,
+        "level": "B"
+    },
+    {
         "id": "WVE-2022-0402",    
         "description": "Extension Listener",    
         "extensions": ["java", "jsp", "jspf"],
