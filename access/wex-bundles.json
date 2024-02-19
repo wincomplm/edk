@@ -9,7 +9,7 @@
     },
     {
         "id" : ["wex-coversheet"],
-        "children" : ["wex-report-manager","wex-example-report"]
+        "children" : ["wex-report-manager"]
     },
     {
         "id" : ["wex-ix"],
