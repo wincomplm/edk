@@ -50,7 +50,7 @@
             <login>*@prambanan-it.com</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="wex-quad*"/>
+            <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
     </signer>
 
