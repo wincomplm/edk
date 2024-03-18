@@ -90,6 +90,7 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-watermark-utility"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-customizations"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-solidedge-cadi"/>
+            <artifact group-id="com.agcocorp" artifact-id="wex-agco-cads-epp"/>
         </artifacts>
     </signer>
 
