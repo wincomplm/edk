@@ -313,7 +313,10 @@
         "groupId": "org.ow2.asm",
         "artifactId": "*",
         "versions": ["*"]
+    },    
+    {
+        "groupId": "org.checkerframework",
+        "artifactId": "checker-qual",
+        "versions": ["3.37.0"]
     }
-
-
 ]
