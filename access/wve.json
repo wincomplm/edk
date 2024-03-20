@@ -63,6 +63,14 @@
         "level": "B"
     },
     {
+        "id": "WVE-2022-0204",    
+        "description": "Privilege escalation using session",    
+        "extensions": ["java", "jsp", "jspf"],
+        "keywords": ["setPrincipal"],
+        "score": 7,
+        "level": "B"
+    },
+    {
         "id": "WVE-2022-0401",    
         "description": "Persistent Event",    
         "extensions": ["java", "jsp", "jspf"],
