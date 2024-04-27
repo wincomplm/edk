@@ -1,0 +1,54 @@
+<settings>
+    <servers>
+        <server>
+            <id>sign.wex.solutions</id>            
+            <username><!-- email --></username>
+            <password><!-- password --></password>    
+        </server>
+        <server>
+            <id>wincom-releases-repo</id>
+            <username><!-- email --></username>
+            <password><!-- password --></password>
+        </server>
+        <server>
+            <id>wincom-windchill-repo</id>
+            <username><!-- email --></username>
+            <password><!-- password --></password>
+        </server>
+    </servers>
+    <profiles>
+        <profile>
+            <id>default</id>
+            <repositories>
+                <repository>
+                    <id>wincom-releases-repo</id>
+                    <url>https://nexus.wex.solutions/repository/releases/</url>
+                    <layout>default</layout>
+                </repository>
+
+                <repository>
+                    <id>wincom-windchill-repo</id>
+                    <url>https://nexus.wex.solutions/repository/windchill/</url>
+                    <layout>default</layout>
+                </repository>
+            </repositories>
+            <pluginRepositories>
+                <pluginRepository>
+                    <id>wincom-releases-repo</id>
+                    <url>https://nexus.wex.solutions/repository/releases/</url>
+                    <layout>default</layout>
+                    <releases>
+                        <enabled>true</enabled>
+                        <updatePolicy>always</updatePolicy>
+                    </releases>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                </pluginRepository>      
+            </pluginRepositories>
+        </profile>
+    </profiles>
+    <activeProfiles>
+        <activeProfile>default</activeProfile>
+    </activeProfiles>
+</settings>
