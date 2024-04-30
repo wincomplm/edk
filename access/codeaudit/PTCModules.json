@@ -1,0 +1,7 @@
+{   
+    "suma":"com.ptc.windchill.suma.*",
+    "partslink":"com.ptc.windchill.partslink.*",
+    "mpml":"com.ptc.windchill.enterprise.requirement.*",
+    "esi":"com.ptc.windchill.esi.*",
+    "RequerimentsLink":"com.ptc.windchill.enterprise.requirement.*"
+}
