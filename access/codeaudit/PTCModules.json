@@ -1,7 +1,7 @@
 {   
-    "SUMA":"com.ptc.windchill.suma.*",
-    "PartsLink":"com.ptc.windchill.partslink.*",
-    "MPMLink":"com.ptc.windchill.enterprise.requirement.*",
-    "ESI":"com.ptc.windchill.esi.*",
-    "RequerimentsLink":"com.ptc.windchill.enterprise.requirement.*"
+    "SUMA":"com.ptc.windchill.suma.",
+    "PartsLink":"com.ptc.windchill.partslink.",
+    "MPMLink":"com.ptc.windchill.enterprise.requirement.",
+    "ESI":"com.ptc.windchill.esi.",
+    "RequerimentsLink":"com.ptc.windchill.enterprise.requirement."
 }
