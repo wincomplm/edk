@@ -44,6 +44,11 @@
 		"beta" : false,
 		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-53"
 	},
+		{
+		"id" : "com.wincomplm.wex-promote-adv",
+		"beta" : true,
+		"url" : "https://wincomconsulting.sharepoint.com/sites/PTCDevSecOps-External/_layouts/15/DocIdRedir.aspx?ID=ZRER3AZUZEPQ-348285254-609"
+	},
 	{
 		"id" : "com.wincomplm.wex-siliconexpert-sync",
 		"beta" : true,
