@@ -1,281 +1,244 @@
 [ {
   "name" : "Agreement",
+  "created" : 1668934305000,
+  "modified" : 1668934305000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Agreement",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Basic",
+  "created" : 1668934360000,
+  "modified" : 1668934360000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Basic",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Change Activity Life Cycle",
+  "created" : 1668934363000,
+  "modified" : 1668934363000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Change Activity Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Change Notice Life Cycle",
+  "created" : 1668934363000,
+  "modified" : 1668934363000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Change Notice Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Change Proposal Life Cycle",
+  "created" : 1668934362000,
+  "modified" : 1668934362000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Change Proposal Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Change Request Life Cycle",
+  "created" : 1668934362000,
+  "modified" : 1668934362000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Change Request Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Default",
+  "created" : 1668934281000,
+  "modified" : 1668934281000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Default",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Design Review Life Cycle",
+  "created" : 1668934366000,
+  "modified" : 1668934366000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Design Review Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Interference Report",
+  "created" : 1668934320000,
+  "modified" : 1668934320000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Interference Report",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Interference",
+  "created" : 1668934319000,
+  "modified" : 1668934319000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Interference",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Library Development",
+  "created" : 1668934366000,
+  "modified" : 1668934366000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Library Development",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "One Phase Development",
+  "created" : 1668934366000,
+  "modified" : 1668934366000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "One Phase Development",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Package Approval Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Package Approval Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Package Content Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Package Content Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Package Delivery Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Package Delivery Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Part Request Life Cycle",
+  "created" : 1668934522000,
+  "modified" : 1668934522000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:55",
-    "name" : "Part Request Life Cycle",
-    "modified" : "2022-11-20 08:55"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Peer Review Life Cycle",
+  "created" : 1668934366000,
+  "modified" : 1668934366000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Peer Review Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Placeholder Life Cycle",
+  "created" : 1668934349000,
+  "modified" : 1668934349000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Placeholder Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Problem Report Life Cycle",
+  "created" : 1668934362000,
+  "modified" : 1668934362000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Problem Report Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Promotion Request",
+  "created" : 1668934365000,
+  "modified" : 1668934365000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Promotion Request",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Redline Life Cycle",
+  "created" : 1668934363000,
+  "modified" : 1668934363000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Redline Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Requirement",
+  "created" : 1668934525000,
+  "modified" : 1668934525000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:55",
-    "name" : "Requirement",
-    "modified" : "2022-11-20 08:55"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Technical Data Package Approval Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Technical Data Package Approval Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Technical Data Package Content Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Technical Data Package Content Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Technical Data Package Delivery Routing",
+  "created" : 1668934301000,
+  "modified" : 1668934301000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:51",
-    "name" : "Technical Data Package Delivery Routing",
-    "modified" : "2022-11-20 08:51"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Two Phase Development",
+  "created" : 1668934366000,
+  "modified" : 1668934366000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Two Phase Development",
-    "modified" : "2022-11-20 08:52"
-  }
+  "displayName" : "Lifecycle"
 }, {
   "name" : "Variance Life Cycle",
+  "created" : 1668934367000,
+  "modified" : 1668934367000,
+  "iteration" : "1",
+  "creator" : "wcadmin",
+  "type" : "NEW",
   "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2022-11-20 08:52",
-    "name" : "Variance Life Cycle",
-    "modified" : "2022-11-20 08:52"
-  }
-}, {
-  "name" : "Wex Test",
-  "key" : "lifecycle",
-  "displayName" : "Lifecycle",
-  "displayMap" : {
-    "creator" : "wcadmin",
-    "created" : "2024-02-13 14:55",
-    "name" : "Wex Test",
-    "modified" : "2024-02-13 14:59"
-  }
+  "displayName" : "Lifecycle"
 } ]
