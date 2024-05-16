@@ -9,21 +9,7 @@
   "name" : "wt.esi.ERPMaterialDocumentReferenceLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPMaterialDocumentReferenceLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPMaterialEPMDocumentDescribeLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -37,21 +23,7 @@
   "name" : "wt.esi.ERPMaterialLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPMaterialLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPPartSpecificPlantDataLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -65,21 +37,7 @@
   "name" : "wt.federation.FederatedLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.federation.FederatedLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.meeting.AgendaDocumentLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -93,21 +51,7 @@
   "name" : "wt.meeting.MinutesDocumentLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.meeting.MinutesDocumentLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTPartDescribeLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -121,35 +65,7 @@
   "name" : "wt.part.WTPartReferenceLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTPartReferenceLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTPartUsageLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTPartUsageLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.access.agreement.AuthorizationAgreement",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -163,13 +79,6 @@
   "name" : "wt.change2.ChangeAction",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeAction",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -177,28 +86,7 @@
   "name" : "wt.change2.WTChangeIssue",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeIssue",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTVariance",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.associativity.EquivalenceLink",
-  "created" : 1668934259000,
-  "modified" : 1668934259000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -212,21 +100,7 @@
   "name" : "wt.aum.AlternateUnitLink",
   "created" : 1668934260000,
   "modified" : 1668934260000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.aum.AlternateUnitLink",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.AffectedActivityData",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -240,21 +114,7 @@
   "name" : "wt.change2.ChangeRecord2",
   "created" : 1668934260000,
   "modified" : 1668934260000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeRecord2",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeReviewItemLink",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -268,21 +128,7 @@
   "name" : "wt.change2.ChangeProcessLink",
   "created" : 1668934260000,
   "modified" : 1668934260000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeProcessLink",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeReferenceLink",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -296,21 +142,7 @@
   "name" : "wt.change2.HangingChangeLink",
   "created" : 1668934260000,
   "modified" : 1668934260000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.HangingChangeLink",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.Impacts",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -324,21 +156,7 @@
   "name" : "wt.change2.IssueImplementedBy",
   "created" : 1668934260000,
   "modified" : 1668934260000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.IssueImplementedBy",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.RelevantRequestData2",
-  "created" : 1668934260000,
-  "modified" : 1668934260000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -352,21 +170,7 @@
   "name" : "wt.change2.ReportedAgainst",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ReportedAgainst",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.changeAction.ChangeActionCandidates",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -380,21 +184,7 @@
   "name" : "wt.configurablelink.ConfigurableDescribeLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.configurablelink.ConfigurableDescribeLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.configurablelink.ConfigurableMastersLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -408,21 +198,7 @@
   "name" : "wt.configurablelink.ConfigurableReferenceLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.configurablelink.ConfigurableReferenceLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.configurablelink.ConfigurableRevisionLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -436,21 +212,7 @@
   "name" : "wt.doc.WTDocumentUsageLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.doc.WTDocumentUsageLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.modelitems.ModelItemLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -464,21 +226,7 @@
   "name" : "wt.epm.structure.EPMDescribeLink",
   "created" : 1668934261000,
   "modified" : 1668934261000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.structure.EPMDescribeLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPMaterialDocumentDescribeLink",
-  "created" : 1668934261000,
-  "modified" : 1668934261000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -489,94 +237,10 @@
   "creator" : "wcadmin",
   "path" : ""
 }, {
-  "name" : "com.ptc.windchill.suma.part.SupplierPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.SupplierPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.ManufacturerPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.ManufacturerPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.VendorPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.VendorPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
-}, {
-  "name" : "com.ptc.core.managedcollection.ManagedCollectionImpl",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
   "name" : "com.ptc.core.managedcollection.ManagedCollectionImpl",
   "created" : 1668934263000,
   "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.folder.SubFolder",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.folder.SubFolder",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.inf.library.WTLibrary",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.inf.library.WTLibrary",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.maturity.PromotionNotice",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -590,21 +254,7 @@
   "name" : "wt.meeting.TextAgenda",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.meeting.TextAgenda",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.meeting.TextMinutes",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -618,35 +268,7 @@
   "name" : "wt.meeting.actionitem.DiscreteActionItem",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.meeting.actionitem.DiscreteActionItem",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.occurrence.UsesOccurrenceUserIBAs",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.occurrence.UsesOccurrenceUserIBAs",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTProductInstance2",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -660,21 +282,7 @@
   "name" : "wt.pdmlink.PDMLinkProduct",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.pdmlink.PDMLinkProduct",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.projmgmt.admin.Project2",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -688,13 +296,6 @@
   "name" : "wt.vc.baseline.ManagedBaseline",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.vc.baseline.ManagedBaseline",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -702,63 +303,7 @@
   "name" : "wt.viewmarkup.Fidelity",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.viewmarkup.Fidelity",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.workflow.forum.DiscussionTopic",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.workflow.forum.DiscussionTopic",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.linkeddata.TypedIteratedResource",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.linkeddata.TypedIteratedResource",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.Choice",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.Choice",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.ExpressionAlias",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -771,36 +316,8 @@
 }, {
   "name" : "com.ptc.windchill.option.model.Group",
   "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.Group",
-  "created" : 1668934263000,
   "modified" : 1668934264000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.Option",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.Option",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.model.OptionSet",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -814,13 +331,6 @@
   "name" : "com.ptc.wpcfg.doc.VariantSpec",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.wpcfg.doc.VariantSpec",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -828,91 +338,7 @@
   "name" : "wt.filter.custom.CustomFilter",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.filter.custom.CustomFilter",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.links.RequirementO2OTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.links.RequirementO2OTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.links.ArchitectureO2OTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.links.ArchitectureO2OTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.links.RequirementV2VTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.links.RequirementV2VTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.links.ArchitectureV2VTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.links.ArchitectureV2VTraceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.resource.RequirementResource",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.requirement.trace.resource.RequirementResource",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.workset.WTWorkSetComponentLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -924,27 +350,6 @@
   "path" : ""
 }, {
   "name" : "wt.change2.workset.WTWorkSetReferenceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.workset.WTWorkSetReferenceLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.workset.WTWorkSet",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.workset.WTWorkSet",
   "created" : 1668934264000,
   "modified" : 1668934264000,
   "iteration" : "2",
@@ -958,94 +363,10 @@
   "creator" : "wcadmin",
   "path" : ""
 }, {
-  "name" : "wt.change2.ChangeIssueResource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeIssueResource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeOrder2Resource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeOrder2Resource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeRequest2",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
   "name" : "wt.change2.WTChangeRequest2",
   "created" : 1668934262000,
   "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeRequest2Resource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeRequest2Resource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeReview",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeReview",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeReviewResource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.ChangeReviewResource",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTAnalysisActivity",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1059,35 +380,7 @@
   "name" : "wt.change2.WTChangeActivity2",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeActivity2",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeDirective",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeDirective",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeInvestigation",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1101,13 +394,6 @@
   "name" : "wt.change2.WTChangeOrder2",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeOrder2",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -1115,35 +401,7 @@
   "name" : "wt.change2.WTChangeProposal",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.change2.WTChangeProposal",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.doc.WTDocument",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.doc.WTDocument",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.EPMDocument",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1157,21 +415,7 @@
   "name" : "wt.epm.EPMDocumentMaster",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.EPMDocumentMaster",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.modelitems.ModelItem",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1185,21 +429,7 @@
   "name" : "wt.epm.structure.EPMMemberLink",
   "created" : 1668934262000,
   "modified" : 1668934262000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.structure.EPMMemberLink",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.epm.structure.EPMReferenceLink",
-  "created" : 1668934262000,
-  "modified" : 1668934262000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1213,13 +443,6 @@
   "name" : "wt.esi.ERPMaterial",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPMaterial",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -1227,28 +450,7 @@
   "name" : "wt.esi.ERPPartSpecificPlantData",
   "created" : 1668934263000,
   "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.esi.ERPPartSpecificPlantData",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.WTPart",
-  "created" : 1668934263000,
-  "modified" : 1668934263000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.part.alternaterep.WTPartAlternateRep",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1262,35 +464,7 @@
   "name" : "com.ptc.windchill.dpimpl.core.DPImplSchedule",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.dpimpl.core.DPImplSchedule",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.resource.ArchitectureResource",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "wt.architecture.trace.resource.ArchitectureResource",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.arbortext.windchill.siscore.translation.XliffLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1304,13 +478,6 @@
   "name" : "com.ptc.arbortext.windchill.translation.TranslationLink",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.arbortext.windchill.translation.TranslationLink",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
@@ -1318,21 +485,7 @@
   "name" : "com.ptc.windchill.wp.WorkPackage",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.wp.WorkPackage",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.wp.rep.ReplicationPackage",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1353,21 +506,7 @@
   "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataDocumentDescribeLink",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataDocumentDescribeLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataDocumentReferenceLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1381,21 +520,7 @@
   "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataEPMDocumentDescribeLink",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataEPMDocumentDescribeLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1409,42 +534,14 @@
   "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataMasterLink",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseDataMasterLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.PlantDataLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
   "name" : "com.wincomplm.DefaultEPMDocument",
   "created" : 1668934311000,
   "modified" : 1668934311000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.DefaultEPMDocument",
-  "created" : 1668934311000,
-  "modified" : 1668934311000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.DynamicDocument",
-  "created" : 1668934311000,
-  "modified" : 1668934311000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.epm.EPMDocument"
 }, {
@@ -1458,21 +555,7 @@
   "name" : "com.wincomplm.BurstConfiguration",
   "created" : 1668934312000,
   "modified" : 1668934312000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.DynamicDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.BurstConfiguration",
-  "created" : 1668934312000,
-  "modified" : 1668934312000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.DynamicDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.Note",
-  "created" : 1668934312000,
-  "modified" : 1668934312000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.DynamicDocument-wt.epm.EPMDocument"
 }, {
@@ -1486,23 +569,9 @@
   "name" : "com.wincomplm.DefaultEPMDocumentMaster",
   "created" : 1668934312000,
   "modified" : 1668934312000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.EPMDocumentMaster"
-}, {
-  "name" : "com.wincomplm.DefaultEPMDocumentMaster",
-  "created" : 1668934312000,
-  "modified" : 1668934312000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.epm.EPMDocumentMaster"
-}, {
-  "name" : "com.wincomplm.DefaultModelItemLink",
-  "created" : 1668934312000,
-  "modified" : 1668934312000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItemLink"
 }, {
   "name" : "com.wincomplm.DefaultModelItemLink",
   "created" : 1668934312000,
@@ -1514,23 +583,9 @@
   "name" : "com.wincomplm.DefaultEPMMemberLink",
   "created" : 1668934313000,
   "modified" : 1668934313000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.structure.EPMMemberLink"
-}, {
-  "name" : "com.wincomplm.DefaultEPMMemberLink",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.epm.structure.EPMMemberLink"
-}, {
-  "name" : "com.wincomplm.DefaultEPMReferenceLink",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.structure.EPMReferenceLink"
 }, {
   "name" : "com.wincomplm.DefaultEPMReferenceLink",
   "created" : 1668934313000,
@@ -1542,23 +597,9 @@
   "name" : "com.wincomplm.Annotations",
   "created" : 1668934313000,
   "modified" : 1668934313000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Annotations",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Circularity",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
   "name" : "com.wincomplm.Circularity",
   "created" : 1668934313000,
@@ -1570,21 +611,7 @@
   "name" : "com.wincomplm.Angularity",
   "created" : 1668934313000,
   "modified" : 1668934313000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Angularity",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.CircularRunout",
-  "created" : 1668934313000,
-  "modified" : 1668934313000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -1598,21 +625,7 @@
   "name" : "com.ptc.windchill.enterprise.data.EnterpriseData",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.EnterpriseData",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.PlantFunctionalData",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1626,21 +639,7 @@
   "name" : "com.ptc.windchill.suma.axl.AXLContext",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.axl.AXLContext",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.axl.AXLEntry",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1654,65 +653,9 @@
   "name" : "com.ptc.windchill.suma.npi.WTPartRequest",
   "created" : 1668934265000,
   "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.npi.WTPartRequest",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Supplier",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Supplier",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Manufacturer",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Manufacturer",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Vendor",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Vendor",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.wp.delivery.DowngradedDeliveryRecord",
-  "created" : 1668934302000,
-  "modified" : 1668934302000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.wp.delivery.DeliveryRecord"
 }, {
   "name" : "com.ptc.windchill.wp.delivery.DowngradedDeliveryRecord",
   "created" : 1668934302000,
@@ -1724,51 +667,9 @@
   "name" : "com.ptc.DefaultDPSchedule",
   "created" : 1668934305000,
   "modified" : 1668934305000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.dpimpl.core.DPImplSchedule"
-}, {
-  "name" : "com.ptc.DefaultDPSchedule",
-  "created" : 1668934305000,
-  "modified" : 1668934305000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.dpimpl.core.DPImplSchedule"
-}, {
-  "name" : "com.ptc.ReferenceDocument",
-  "created" : 1668934307000,
-  "modified" : 1668934307000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.ReferenceDocument",
-  "created" : 1668934307000,
-  "modified" : 1668934307000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.InterCommData",
-  "created" : 1668934307000,
-  "modified" : 1668934307000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.InterCommData",
-  "created" : 1668934307000,
-  "modified" : 1668934307000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.windchill.wp.tdp.TechnicalDataPackage",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
 }, {
   "name" : "com.ptc.windchill.wp.tdp.TechnicalDataPackage",
   "created" : 1668934264000,
@@ -1780,77 +681,7 @@
   "name" : "com.ptc.windchill.wp.delivery.DeliveryRecord",
   "created" : 1668934264000,
   "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.wp.delivery.DeliveryRecord",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.WBRDataMonitor",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor"
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.WBRDataMonitor",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor"
-}, {
-  "name" : "com.ptc.windchill.enterprise.requirement.Requirement",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.requirement.Requirement",
-  "created" : 1668934264000,
-  "modified" : 1668934264000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.requirement.Specification",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.enterprise.requirement.Specification",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : ""
-}, {
-  "name" : "com.ptc.windchill.baseserver.model.IteratedToEPMDocumentLink",
-  "created" : 1668934265000,
-  "modified" : 1668934265000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : ""
 }, {
@@ -1864,21 +695,7 @@
   "name" : "com.wincomplm.GeometricTolerance",
   "created" : 1668934316000,
   "modified" : 1668934316000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.GeometricTolerance",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.ModelItemNote",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -1892,21 +709,7 @@
   "name" : "com.wincomplm.OrdinateBaseline",
   "created" : 1668934316000,
   "modified" : 1668934316000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.OrdinateBaseline",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.OrdinateDrivenDimension",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -1920,21 +723,7 @@
   "name" : "com.wincomplm.Straightness",
   "created" : 1668934316000,
   "modified" : 1668934316000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Straightness",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.SurfaceFinish",
-  "created" : 1668934316000,
-  "modified" : 1668934316000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -1948,21 +737,7 @@
   "name" : "com.ptc.FidelityHIGH",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.viewmarkup.Fidelity"
-}, {
-  "name" : "com.ptc.FidelityHIGH",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.viewmarkup.Fidelity"
-}, {
-  "name" : "com.ptc.FidelityMEDIUM",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.viewmarkup.Fidelity"
 }, {
@@ -1976,13 +751,6 @@
   "name" : "com.ptc.FidelityLOW",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.viewmarkup.Fidelity"
-}, {
-  "name" : "com.ptc.FidelityLOW",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.viewmarkup.Fidelity"
@@ -1990,21 +758,7 @@
   "name" : "com.ptc.FidelityBBOX",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.viewmarkup.Fidelity"
-}, {
-  "name" : "com.ptc.FidelityBBOX",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.viewmarkup.Fidelity"
-}, {
-  "name" : "com.ptc.FidelityEMPTY",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.viewmarkup.Fidelity"
 }, {
@@ -2032,13 +786,6 @@
   "name" : "com.wincomplm.Weld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Weld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
@@ -2046,21 +793,7 @@
   "name" : "com.wincomplm.FilletWeld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.FilletWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.SpotWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2074,21 +807,7 @@
   "name" : "com.wincomplm.PlugOrSlotWeld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.PlugOrSlotWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.GrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2102,21 +821,7 @@
   "name" : "com.wincomplm.JGrooveWeld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.JGrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.UGrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2130,21 +835,7 @@
   "name" : "com.wincomplm.VGrooveWeld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.VGrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.SquareGrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2158,21 +849,7 @@
   "name" : "com.wincomplm.BevelGrooveWeld",
   "created" : 1668934317000,
   "modified" : 1668934317000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.BevelGrooveWeld",
-  "created" : 1668934317000,
-  "modified" : 1668934317000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.FlareBevelGrooveWeld",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2186,13 +863,6 @@
   "name" : "com.wincomplm.FlareVGrooveWeld",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.FlareVGrooveWeld",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.GrooveWeld-com.wincomplm.Weld-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
@@ -2200,21 +870,7 @@
   "name" : "com.wincomplm.BOM",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.BOM",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.ModelItemGeneral",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.epm.modelitems.ModelItem"
 }, {
@@ -2228,13 +884,6 @@
   "name" : "com.wincomplm.ModelItemDynamicDocumentExternalReference",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.ModelItemDynamicDocumentExternalReference",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.epm.modelitems.ModelItem"
@@ -2242,44 +891,9 @@
   "name" : "com.wincomplm.Body",
   "created" : 1668934318000,
   "modified" : 1668934318000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Body",
-  "created" : 1668934318000,
-  "modified" : 1668934318000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.ptc.InterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1668934319000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.InterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1668934319000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.SharedInterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1668934319000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.InterferenceDetectionDefinition-wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.SharedInterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1668934319000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.InterferenceDetectionDefinition-wt.doc.WTDocument"
 }, {
   "name" : "wt.occurrence.UsesOccurrenceUserIBAs",
   "created" : 1668934263000,
@@ -2298,21 +912,7 @@
   "name" : "com.ptc.Deviation",
   "created" : 1668934328000,
   "modified" : 1668934328000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.WTVariance"
-}, {
-  "name" : "com.ptc.Deviation",
-  "created" : 1668934328000,
-  "modified" : 1668934328000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.WTVariance"
-}, {
-  "name" : "com.ptc.Waiver",
-  "created" : 1668934328000,
-  "modified" : 1668934328000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.change2.WTVariance"
 }, {
@@ -2340,21 +940,7 @@
   "name" : "wt.change2.DesignReview",
   "created" : 1668934329000,
   "modified" : 1668934329000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.WTChangeReview"
-}, {
-  "name" : "wt.change2.DesignReview",
-  "created" : 1668934329000,
-  "modified" : 1668934329000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.WTChangeReview"
-}, {
-  "name" : "wt.change2.PeerReview",
-  "created" : 1668934329000,
-  "modified" : 1668934329000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.change2.WTChangeReview"
 }, {
@@ -2382,21 +968,7 @@
   "name" : "com.wincomplm.Concentricity",
   "created" : 1668934314000,
   "modified" : 1668934314000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Concentricity",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.LineProfile",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2410,21 +982,7 @@
   "name" : "com.wincomplm.Parallelism",
   "created" : 1668934314000,
   "modified" : 1668934314000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Parallelism",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Perpendicularity",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2438,21 +996,7 @@
   "name" : "com.wincomplm.Position",
   "created" : 1668934314000,
   "modified" : 1668934314000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Position",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.SurfaceProfile",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2466,21 +1010,7 @@
   "name" : "com.wincomplm.Symmetry",
   "created" : 1668934314000,
   "modified" : 1668934314000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Symmetry",
-  "created" : 1668934314000,
-  "modified" : 1668934314000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.TotalRunout",
-  "created" : 1668934315000,
-  "modified" : 1668934315000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Circularity-com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2494,21 +1024,7 @@
   "name" : "com.wincomplm.Cylindricity",
   "created" : 1668934315000,
   "modified" : 1668934315000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Cylindricity",
-  "created" : 1668934315000,
-  "modified" : 1668934315000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.DatumTag",
-  "created" : 1668934315000,
-  "modified" : 1668934315000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2522,21 +1038,7 @@
   "name" : "com.wincomplm.DrivenDimension",
   "created" : 1668934315000,
   "modified" : 1668934315000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.DrivenDimension",
-  "created" : 1668934315000,
-  "modified" : 1668934315000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
-}, {
-  "name" : "com.wincomplm.Flatness",
-  "created" : 1668934315000,
-  "modified" : 1668934315000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.Annotations-wt.epm.modelitems.ModelItem"
 }, {
@@ -2557,23 +1059,9 @@
   "name" : "com.ptc.requirement.trace.resource.Requirement",
   "created" : 1668934334000,
   "modified" : 1668934334000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.requirement.trace.resource.RequirementResource"
-}, {
-  "name" : "com.ptc.requirement.trace.resource.Requirement",
-  "created" : 1668934334000,
-  "modified" : 1668934334000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.requirement.trace.resource.RequirementResource"
-}, {
-  "name" : "com.ptc.requirement.trace.links.AllocateTraceLink",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.requirement.trace.links.RequirementV2VTraceLink"
 }, {
   "name" : "com.ptc.requirement.trace.links.AllocateTraceLink",
   "created" : 1668934335000,
@@ -2592,13 +1080,6 @@
   "name" : "com.ptc.architecture.trace.resource.Activity",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.Activity",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.resource.ArchitectureResource"
@@ -2606,21 +1087,7 @@
   "name" : "com.ptc.architecture.trace.resource.Block",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.Block",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.Class",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.resource.ArchitectureResource"
 }, {
@@ -2641,23 +1108,9 @@
   "name" : "com.ptc.requirement.trace.resource.RequirementCollection",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.requirement.trace.resource.RequirementResource"
-}, {
-  "name" : "com.ptc.requirement.trace.resource.RequirementCollection",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.requirement.trace.resource.RequirementResource"
-}, {
-  "name" : "com.ptc.requirement.trace.links.SatisfyTraceLink",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.requirement.trace.links.RequirementO2OTraceLink"
 }, {
   "name" : "com.ptc.requirement.trace.links.SatisfyTraceLink",
   "created" : 1668934335000,
@@ -2683,23 +1136,9 @@
   "name" : "com.ptc.architecture.trace.links.ImplementTraceLink",
   "created" : 1668934336000,
   "modified" : 1668934336000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.links.ArchitectureO2OTraceLink"
-}, {
-  "name" : "com.ptc.architecture.trace.links.ImplementTraceLink",
-  "created" : 1668934336000,
-  "modified" : 1668934336000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.links.ArchitectureO2OTraceLink"
-}, {
-  "name" : "com.ptc.ElectricalPart",
-  "created" : 1668934336000,
-  "modified" : 1668934336000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.part.WTPart"
 }, {
   "name" : "com.ptc.ElectricalPart",
   "created" : 1668934336000,
@@ -2718,21 +1157,7 @@
   "name" : "com.ptc.RemoteEnhancement",
   "created" : 1668934350000,
   "modified" : 1668934350000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteEnhancement",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteVariance",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.change2.ChangeIssueResource"
 }, {
@@ -2746,21 +1171,7 @@
   "name" : "com.ptc.RemoteDeviation",
   "created" : 1668934350000,
   "modified" : 1668934350000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.RemoteVariance-wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteDeviation",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.RemoteVariance-wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteWaiver",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.RemoteVariance-wt.change2.ChangeIssueResource"
 }, {
@@ -2781,13 +1192,6 @@
   "name" : "com.ptc.RemoteChangeNotice",
   "created" : 1668934350000,
   "modified" : 1668934350000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeOrder2Resource"
-}, {
-  "name" : "com.ptc.RemoteChangeNotice",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.change2.ChangeOrder2Resource"
@@ -2798,13 +1202,6 @@
   "iteration" : "3",
   "creator" : "wcadmin",
   "path" : ""
-}, {
-  "name" : "com.ptc.RemoteChangeRequest2",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeRequest2Resource"
 }, {
   "name" : "com.ptc.RemoteChangeRequest2",
   "created" : 1668934350000,
@@ -2823,23 +1220,9 @@
   "name" : "com.ptc.tml.collection.type.TranslationCollection",
   "created" : 1668934351000,
   "modified" : 1668934351000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.core.managedcollection.ManagedCollectionImpl"
-}, {
-  "name" : "com.ptc.tml.collection.type.TranslationCollection",
-  "created" : 1668934351000,
-  "modified" : 1668934351000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.core.managedcollection.ManagedCollectionImpl"
-}, {
-  "name" : "com.ptc.tml.collection.type.TranslationPivotCollection",
-  "created" : 1668934351000,
-  "modified" : 1668934351000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.tml.collection.type.TranslationCollection-com.ptc.core.managedcollection.ManagedCollectionImpl"
 }, {
   "name" : "com.ptc.tml.collection.type.TranslationPivotCollection",
   "created" : 1668934351000,
@@ -2850,31 +1233,10 @@
 }, {
   "name" : "com.ptc.tml.collection.type.TranslationRootCollection",
   "created" : 1668934351000,
-  "modified" : 1668934351000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.tml.collection.type.TranslationCollection-com.ptc.core.managedcollection.ManagedCollectionImpl"
-}, {
-  "name" : "com.ptc.tml.collection.type.TranslationRootCollection",
-  "created" : 1668934351000,
   "modified" : 1668934352000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.tml.collection.type.TranslationCollection-com.ptc.core.managedcollection.ManagedCollectionImpl"
-}, {
-  "name" : "com.ptc.tml.TranslationDocument",
-  "created" : 1668934352000,
-  "modified" : 1668934352000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.wincomplm.ECADComponent",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.BOM-wt.epm.modelitems.ModelItem"
 }, {
   "name" : "com.wincomplm.ECADComponent",
   "created" : 1668934337000,
@@ -2886,13 +1248,6 @@
   "name" : "com.wincomplm.ECADDocument",
   "created" : 1668934337000,
   "modified" : 1668934337000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ECADDocument",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
@@ -2900,21 +1255,7 @@
   "name" : "com.wincomplm.ElectricalSchematic",
   "created" : 1668934337000,
   "modified" : 1668934337000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ElectricalSchematic",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ECADBoard",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
 }, {
@@ -2928,13 +1269,6 @@
   "name" : "com.wincomplm.ECADDefinition",
   "created" : 1668934337000,
   "modified" : 1668934337000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ECADDefinition",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
@@ -2942,21 +1276,7 @@
   "name" : "com.wincomplm.ECADDerived",
   "created" : 1668934337000,
   "modified" : 1668934337000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ECADDerived",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
-}, {
-  "name" : "com.wincomplm.ECADSchematic",
-  "created" : 1668934337000,
-  "modified" : 1668934337000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.wincomplm.ECADDocument-com.wincomplm.DefaultEPMDocument-wt.epm.EPMDocument"
 }, {
@@ -2976,31 +1296,10 @@
 }, {
   "name" : "com.ptc.windchill.enterprise.datamonitor.WBRDataMonitor",
   "created" : 1668934264000,
-  "modified" : 1668934347000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor"
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.WBRDataMonitor",
-  "created" : 1668934264000,
-  "modified" : 1668934348000,
-  "iteration" : "4",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor"
-}, {
-  "name" : "com.ptc.windchill.enterprise.datamonitor.WBRDataMonitor",
-  "created" : 1668934264000,
   "modified" : 1668934348000,
   "iteration" : "5",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.datamonitor.DataMonitor"
-}, {
-  "name" : "wt.part.Placeholder",
-  "created" : 1668934349000,
-  "modified" : 1668934349000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.part.WTPart"
 }, {
   "name" : "wt.part.Placeholder",
   "created" : 1668934349000,
@@ -3019,42 +1318,14 @@
   "name" : "com.ptc.RemoteDefect",
   "created" : 1668934350000,
   "modified" : 1668934350000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteDefect",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.change2.ChangeIssueResource"
-}, {
-  "name" : "com.ptc.RemoteProblemReport",
-  "created" : 1668934350000,
-  "modified" : 1668934350000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.change2.ChangeIssueResource"
 }, {
   "name" : "com.ptc.architecture.trace.resource.Model",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.Model",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.Package",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.resource.ArchitectureResource"
 }, {
@@ -3068,13 +1339,6 @@
   "name" : "com.ptc.architecture.trace.resource.UseCase",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.UseCase",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.resource.ArchitectureResource"
@@ -3082,21 +1346,7 @@
   "name" : "com.ptc.architecture.trace.resource.ClassDiagram",
   "created" : 1668934335000,
   "modified" : 1668934335000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.ClassDiagram",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.architecture.trace.resource.ArchitectureResource"
-}, {
-  "name" : "com.ptc.architecture.trace.resource.UseCaseDiagram",
-  "created" : 1668934335000,
-  "modified" : 1668934335000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "wt.architecture.trace.resource.ArchitectureResource"
 }, {
@@ -3114,55 +1364,6 @@
   "creator" : "wcadmin",
   "path" : ""
 }, {
-  "name" : "com.beauty.DemoOrganization.print_acceptance_form",
-  "created" : 1706550488000,
-  "modified" : 1706550488000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.beauty.DemoOrganization.TestA",
-  "created" : 1706709332000,
-  "modified" : 1706709332000,
-  "iteration" : "1",
-  "creator" : "demo",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.beauty.DemoOrganization.TestA",
-  "created" : 1706709332000,
-  "modified" : 1706709332000,
-  "iteration" : "2",
-  "creator" : "demo",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.wincomplm.mltestA",
-  "created" : 1706996086000,
-  "modified" : 1706996086000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.maturity.PromotionNotice"
-}, {
-  "name" : "com.wincomplm.mltestA",
-  "created" : 1706996086000,
-  "modified" : 1706996086000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.maturity.PromotionNotice"
-}, {
-  "name" : "com.wincomplm.mltestB",
-  "created" : 1706996107000,
-  "modified" : 1706996107000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.maturity.PromotionNotice"
-}, {
-  "name" : "com.wincomplm.mltestB",
-  "created" : 1706996107000,
-  "modified" : 1706996107000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.maturity.PromotionNotice"
-}, {
   "name" : "wt.doc.WTDocument",
   "created" : 1668934262000,
   "modified" : 1711373608000,
@@ -3170,54 +1371,12 @@
   "creator" : "wcadmin",
   "path" : ""
 }, {
-  "name" : "com.ptc.ReferenceDocument",
-  "created" : 1668934307000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.InterCommData",
-  "created" : 1668934307000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.beauty.DemoOrganization.TestA",
-  "created" : 1706709332000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "demo",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.beauty.DemoOrganization.print_acceptance_form",
-  "created" : 1706550488000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.cdl.RequirementTraceLink",
-  "created" : 1668934352000,
-  "modified" : 1668934352000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.configurablelink.ConfigurableDescribeLink"
-}, {
   "name" : "com.ptc.cdl.RequirementTraceLink",
   "created" : 1668934352000,
   "modified" : 1668934352000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.cdl.Satisfies",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.cdl.RequirementTraceLink-wt.configurablelink.ConfigurableDescribeLink"
 }, {
   "name" : "com.ptc.cdl.Satisfies",
   "created" : 1668934353000,
@@ -3229,23 +1388,9 @@
   "name" : "com.ptc.crl.RequirementTraceLink",
   "created" : 1668934353000,
   "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.configurablelink.ConfigurableRevisionLink"
-}, {
-  "name" : "com.ptc.crl.RequirementTraceLink",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "wt.configurablelink.ConfigurableRevisionLink"
-}, {
-  "name" : "com.ptc.crl.Allocate",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.crl.RequirementTraceLink-wt.configurablelink.ConfigurableRevisionLink"
 }, {
   "name" : "com.ptc.crl.Allocate",
   "created" : 1668934353000,
@@ -3260,27 +1405,6 @@
   "iteration" : "3",
   "creator" : "wcadmin",
   "path" : ""
-}, {
-  "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934354000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.SalesChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934354000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934354000,
-  "iteration" : "4",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
 }, {
   "name" : "com.ptc.windchill.option.SalesChoice$com_ptc_windchill_option_model_Choice",
   "created" : 1668934353000,
@@ -3299,13 +1423,6 @@
   "name" : "com.ptc.windchill.enterprise.data.enterpriseData.PlantSpecificEnterpriseData",
   "created" : 1668934358000,
   "modified" : 1668934358000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.data.EnterpriseData"
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.enterpriseData.PlantSpecificEnterpriseData",
-  "created" : 1668934358000,
-  "modified" : 1668934358000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.data.EnterpriseData"
@@ -3316,34 +1433,6 @@
   "iteration" : "3",
   "creator" : "wcadmin",
   "path" : ""
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Manufacturer",
-  "created" : 1668934265000,
-  "modified" : 1668934522000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Vendor",
-  "created" : 1668934265000,
-  "modified" : 1668934523000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Vendor",
-  "created" : 1668934265000,
-  "modified" : 1668934523000,
-  "iteration" : "4",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
-}, {
-  "name" : "com.ptc.windchill.suma.supplier.Manufacturer",
-  "created" : 1668934265000,
-  "modified" : 1668934523000,
-  "iteration" : "4",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.supplier.Supplier"
 }, {
   "name" : "com.ptc.windchill.suma.supplier.Manufacturer",
   "created" : 1668934265000,
@@ -3369,21 +1458,7 @@
   "name" : "com.ptc.reql.RequirementItem",
   "created" : 1668934526000,
   "modified" : 1668934526000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
-}, {
-  "name" : "com.ptc.reql.RequirementItem",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
-}, {
-  "name" : "com.ptc.reql.TestCase",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
 }, {
@@ -3397,21 +1472,7 @@
   "name" : "com.ptc.reql.SpecificationItem",
   "created" : 1668934526000,
   "modified" : 1668934526000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
-}, {
-  "name" : "com.ptc.reql.SpecificationItem",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
-}, {
-  "name" : "com.ptc.reql.InputItem",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
 }, {
@@ -3421,13 +1482,6 @@
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Requirement"
-}, {
-  "name" : "com.ptc.RequirementTraceabilityLink",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.configurablelink.ConfigurableDescribeLink"
 }, {
   "name" : "com.ptc.windchill.suma.part.SupplierPart",
   "created" : 1668934263000,
@@ -3435,20 +1489,6 @@
   "iteration" : "3",
   "creator" : "wcadmin",
   "path" : "wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.ManufacturerPart",
-  "created" : 1668934263000,
-  "modified" : 1668934523000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
-}, {
-  "name" : "com.ptc.windchill.suma.part.VendorPart",
-  "created" : 1668934263000,
-  "modified" : 1668934523000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.suma.part.SupplierPart-wt.part.WTPart"
 }, {
   "name" : "com.ptc.windchill.suma.part.ManufacturerPart",
   "created" : 1668934263000,
@@ -3474,13 +1514,6 @@
   "name" : "com.ptc.reql.RequirementDocument",
   "created" : 1668934526000,
   "modified" : 1668934526000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Specification"
-}, {
-  "name" : "com.ptc.reql.RequirementDocument",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Specification"
@@ -3488,21 +1521,7 @@
   "name" : "com.ptc.reql.SpecificationDocument",
   "created" : 1668934526000,
   "modified" : 1668934526000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Specification"
-}, {
-  "name" : "com.ptc.reql.SpecificationDocument",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Specification"
-}, {
-  "name" : "com.ptc.reql.TestSuite",
-  "created" : 1668934526000,
-  "modified" : 1668934526000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Specification"
 }, {
@@ -3516,21 +1535,7 @@
   "name" : "com.ptc.reql.InputDocument",
   "created" : 1668934527000,
   "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Specification"
-}, {
-  "name" : "com.ptc.reql.InputDocument",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.requirement.Specification"
-}, {
-  "name" : "com.ptc.reql.Section",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.enterprise.requirement.Specification"
 }, {
@@ -3551,21 +1556,7 @@
   "name" : "com.ptc.Allocation",
   "created" : 1668934527000,
   "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Allocation",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Trace",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
 }, {
@@ -3579,30 +1570,9 @@
   "name" : "com.ptc.Derivation",
   "created" : 1668934527000,
   "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Derivation",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Satisfies",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.tml.TranslationDocument",
-  "created" : 1668934352000,
-  "modified" : 1668934352000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
 }, {
   "name" : "com.ptc.windchill.linkeddata.TypedIteratedResource",
   "created" : 1668934263000,
@@ -3610,13 +1580,6 @@
   "iteration" : "3",
   "creator" : "wcadmin",
   "path" : ""
-}, {
-  "name" : "com.ptc.tir.RequirementResource",
-  "created" : 1668934352000,
-  "modified" : 1668934352000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.linkeddata.TypedIteratedResource"
 }, {
   "name" : "com.ptc.tir.RequirementResource",
   "created" : 1668934352000,
@@ -3632,52 +1595,10 @@
   "creator" : "wcadmin",
   "path" : ""
 }, {
-  "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Option",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Option"
-}, {
   "name" : "com.ptc.windchill.option.DesignChoice$com_ptc_windchill_option_model_Option",
   "created" : 1668934353000,
   "modified" : 1668934353000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Option"
-}, {
-  "name" : "com.ptc.windchill.option.SalesChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.SalesChoice$com_ptc_windchill_option_model_Choice",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.option.model.Choice"
-}, {
-  "name" : "com.ptc.windchill.option.SalesChoice$com_ptc_windchill_option_model_Option",
-  "created" : 1668934353000,
-  "modified" : 1668934353000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.option.model.Option"
 }, {
@@ -3687,13 +1608,6 @@
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.windchill.option.model.Option"
-}, {
-  "name" : "com.ptc.windchill.enterprise.data.enterpriseData.CommonEnterpriseData",
-  "created" : 1668934358000,
-  "modified" : 1668934358000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.windchill.enterprise.data.EnterpriseData"
 }, {
   "name" : "com.ptc.windchill.enterprise.data.enterpriseData.CommonEnterpriseData",
   "created" : 1668934358000,
@@ -3712,21 +1626,7 @@
   "name" : "com.ptc.Verifies",
   "created" : 1668934527000,
   "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Verifies",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
   "iteration" : "2",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Decompose",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
-  "iteration" : "1",
   "creator" : "wcadmin",
   "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
 }, {
@@ -3740,44 +1640,9 @@
   "name" : "com.ptc.Validate",
   "created" : 1668934527000,
   "modified" : 1668934527000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.ptc.Validate",
-  "created" : 1668934527000,
-  "modified" : 1668934527000,
   "iteration" : "2",
   "creator" : "wcadmin",
   "path" : "com.ptc.Trace-com.ptc.RequirementTraceabilityLink-wt.configurablelink.ConfigurableDescribeLink"
-}, {
-  "name" : "com.beauty.DemoOrganization.print_acceptance_form",
-  "created" : 1706550488000,
-  "modified" : 1706550488000,
-  "iteration" : "1",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.InterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.SharedInterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.InterferenceDetectionDefinition-wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.tml.TranslationDocument",
-  "created" : 1668934352000,
-  "modified" : 1711373608000,
-  "iteration" : "3",
-  "creator" : "wcadmin",
-  "path" : "wt.doc.WTDocument"
 }, {
   "name" : "com.ptc.tml.TranslationDocument",
   "created" : 1668934352000,
@@ -3800,13 +1665,6 @@
   "creator" : "wcadmin",
   "path" : "wt.doc.WTDocument"
 }, {
-  "name" : "com.beauty.DemoOrganization.TestA",
-  "created" : 1706709332000,
-  "modified" : 1711373609000,
-  "iteration" : "4",
-  "creator" : "demo",
-  "path" : "wt.doc.WTDocument"
-}, {
   "name" : "com.beauty.DemoOrganization.print_acceptance_form",
   "created" : 1706550488000,
   "modified" : 1711373609000,
@@ -3820,13 +1678,6 @@
   "iteration" : "4",
   "creator" : "wcadmin",
   "path" : "wt.doc.WTDocument"
-}, {
-  "name" : "com.ptc.SharedInterferenceDetectionDefinition",
-  "created" : 1668934319000,
-  "modified" : 1711373609000,
-  "iteration" : "4",
-  "creator" : "wcadmin",
-  "path" : "com.ptc.InterferenceDetectionDefinition-wt.doc.WTDocument"
 }, {
   "name" : "com.ptc.SharedInterferenceDetectionDefinition",
   "created" : 1668934319000,
