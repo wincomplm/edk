@@ -1,0 +1,233 @@
+[ {
+  "name" : "com.ptc.target_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 96128
+}, {
+  "name" : "com.ptc.windchill.enterprise.plantfunctionaldata.supplyChain",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 98751
+}, {
+  "name" : "LabelPositionEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19588
+}, {
+  "name" : "enumActionItemAttributes",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 89477
+}, {
+  "name" : "ValueDisplayModeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19783
+}, {
+  "name" : "com.ptc.windchill.enterprise.plantfunctionaldata.location",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 98696
+}, {
+  "name" : "layoutComponents",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 20745
+}, {
+  "name" : "com.ptc.attributeTypeMasterHandler",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19475
+}, {
+  "name" : "SelectionListStyleEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19799
+}, {
+  "name" : "screenStyleEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19544
+}, {
+  "name" : "com.ptc.windchill.enterprise.plantfunctionaldata.category",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 98592
+}, {
+  "name" : "AttDateInputTypeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19747
+}, {
+  "name" : "ModeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19811
+}, {
+  "name" : "DisplayAttWOValueEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19621
+}, {
+  "name" : "MaterialGroup",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 98214
+}, {
+  "name" : "GroupDateInputTypeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19759
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCIBAAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19505
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCLogicalAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19506
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCDynamicLogicalAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19507
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCFlexAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19508
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCAttributeDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19509
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCHardAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19510
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCNonPersistedAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19511
+}, {
+  "name" : "com.ptc.master_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 94775
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCTranslatedTextAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19514
+}, {
+  "name" : "com.ptc.core.lwc.server.LWCAttributeSetAttDefinition",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19515
+}, {
+  "name" : "InputFieldTypeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19771
+}, {
+  "name" : "com.ptc.source_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 95675
+}, {
+  "name" : "graphicalAttRepresentations",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "id" : 19516
+}, ]
