@@ -1,0 +1,1415 @@
+[ {
+  "name" : "UNASSIGNED",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONFIGSPEC_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONTEXT_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DISPLAY_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CLIPBOARD_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TABLES_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SECURITY_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SECURITY_PERMISSION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EDIT_SECURITY_LABELS_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PREFERENCE_SECURITY_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EFFECTIVITY_MANAGEMENT_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EFFECTIVITY_MANAGEMENT_CONFIG_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CHANGE_MANAGEMENT_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REVISION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REVISE_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ATTRIBUTE_HANDLING_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TRUNCATION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TABLE_TRUNCATION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "INFOPAGE_TRUNCATION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PREFERENCE_PROMOTION_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PREFERENCE_PROMOTION_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "VAULTING_AND_REPLICATION",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONTENT_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CREATE_EDIT_HANDLING_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REPORTS_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EPM",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BUILD",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DISPLAY_CONFIG_SPEC_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "AS_MATURED_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SAVEAS_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SAVEAS_IN_COMMONSPACE_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SAVEAS_IN_WORKSPACE_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SAVEAS_NAMING_PATTERN_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "INTEGRAL_OPERATIONS_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ADD_TO_PROJECT_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_PICKER",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_JSTABLE",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_ARBORTEXT",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CADDataManagement",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ContentHandling",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MarkOutOfDate",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Download",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_SET_STATE",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_SET_STATE_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_RENAME",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_RENAME_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CANCEL_CHECKOUT",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CANCEL_CHECKOUT_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_REMOVE",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_REMOVE_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_UPLOAD",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_UPLOAD_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_EXPORT_FROM_WORKSPACE",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_EXPORT_FROM_WORKSPACE_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_EDIT_ATTRIBUTES",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_EDIT_ATTRIBUTES_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CDPP",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_RELATIONSHIP_REPORT",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_RELATIONSHIP_REPORT_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_OPEN_COLLECTOR_CATEGORY",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_FAMILY_TABLE",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_SYSTEM_ATTRIBUTE_MAPPING",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_ACAD_ELEC",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_ECAD",
+  "created" : 1686832591000,
+  "modified" : 1686832591000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ARBORTEXT_CATEGORY_NAME",
+  "created" : 1686832593000,
+  "modified" : 1686832593000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "WORKFLOW",
+  "created" : 1686832597000,
+  "modified" : 1686832597000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Reports",
+  "created" : 1686832597000,
+  "modified" : 1686832597000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PURGE_ARCHIVE_RESTORE",
+  "created" : 1686832597000,
+  "modified" : 1686832597000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SEARCH_CATEGORY",
+  "created" : 1686832597000,
+  "modified" : 1686832597000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "StructureComponent",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "RELATED_INFORMATION",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PART_STRUCT_RELATED_INFORMATION",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CADDOC_STRUCT_RELATED_INFORMATION",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PART_CONFIG_STRUCT_RELATED_INFORMATION",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PART_INSTANCE_STRUCT_RELATED_INFORMATION",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REPORTS_QUERY_BUILDER_CATEGORY",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REPORTS_REPORT_BUILDER_CATEGORY",
+  "created" : 1686832598000,
+  "modified" : 1686832598000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MANAGED_COLLECTION_CATEGORY",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MANAGED_COLLECTION_COLLECTOR_CATEGORY",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "WORK_PACKAGE_CATEGORY",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "WORK_PACKAGE_COLLECTOR_CATEGORY",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CUSTOMIZATION_CATEGORY",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "VISUALIZATION_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BATCH_PRINT_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "COPY_TO_DESCRIBED_PARTS_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BATCH_CLASH_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_WORKSPACE",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_OPERATION",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OP_CHECKIN",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OP_OPEN",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OP_UNDO_CHECKOUT",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OP_UPLOAD",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OP_UPDATE",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_CLIENT_DESIGN_IN_CONTEXT",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "GENERAL_COLLECTION",
+  "created" : 1686832589000,
+  "modified" : 1687957707000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "GENERAL_COLLECTION_DRAWINGS",
+  "created" : 1686832589000,
+  "modified" : 1687957707000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_GENERAL",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_UPLOAD",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CHECKIN",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CHECKIN_COLLECTOR_CATEGORY",
+  "created" : 1686832589000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_ASSOCIATE",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_ADD_TO_WORKSPACE_AND_CHECKOUT",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CHECKOUT_COLLECTOR_CATEGORY",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_ADD_TO_WORKSPACE_COLLECTOR_CATEGORY",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_UPDATE",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_UPDATE_COLLECTOR_CATEGORY",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_NEWCADDOC",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_CREATENEWWS",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UPDATE_PROJECT_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MOVE_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SEND_TO_PDM_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONVERT_TO_SHARE_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DELETE_OBJECT_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DELETE_OBJECT_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "COLLECT_ITEMS_PICKER_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TEST_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TEST_COLLECTION_COMPONENT_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TEST_COLLECTION_PICKER_DIALOG_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SIMPLE_TEST_COLLECTION_COLLECTOR_CATEGORY",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MEETING",
+  "created" : 1686832547000,
+  "modified" : 1686832547000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OBJCOMPARISON",
+  "created" : 1686832548000,
+  "modified" : 1686832548000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "NOTIFICATION_CATEGORY",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ADDTOBASELINE_CATEGORY",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ADDTOBASELINE_COLLECTOR_CATEGORY",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DISPLAYRELATEDMANUFACTURINGITEMS_CATEGORY",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DISPLAYRELATEDMANUFACTURINGITEMS_COLLECTOR_CATEGORY",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PART_MANAGEMENT",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REFERENCE_DESIGNATORS",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "COPY_USAGE_LINKS",
+  "created" : 1686832549000,
+  "modified" : 1686832549000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONFIG_LINKS_CATEGORY_NAME",
+  "created" : 1686832550000,
+  "modified" : 1686832550000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CONFIG_LINKS_COLLECTION_CATEGORY",
+  "created" : 1686832550000,
+  "modified" : 1686832550000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ATTACHMENT_CATEGORY",
+  "created" : 1686832550000,
+  "modified" : 1686832589000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ATTACHMENT_OPTIONAL_ATTRIBUTES_CATEGORY",
+  "created" : 1686832550000,
+  "modified" : 1686832550000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DOCUMENTS_CATEGORY",
+  "created" : 1686832550000,
+  "modified" : 1686832550000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "WEBHOOK",
+  "created" : 1686832550000,
+  "modified" : 1686832550000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CategoryMOROverride",
+  "created" : 1686832580000,
+  "modified" : 1686832580000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "UWGM_SERVER_WSOPTION",
+  "created" : 1686832590000,
+  "modified" : 1686832590000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "LICENSE_MANAGEMENT",
+  "created" : 1686832659000,
+  "modified" : 1686832659000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "TRANSLATION_SUPPORT_CATEGORY",
+  "created" : 1686832660000,
+  "modified" : 1686832660000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PHONEHOME_CATEGORY",
+  "created" : 1686832630000,
+  "modified" : 1686832630000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "RECEIVED_DELIVERY_CATEGORY",
+  "created" : 1686832651000,
+  "modified" : 1686832651000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BAC_CATEGORY",
+  "created" : 1686832651000,
+  "modified" : 1686832651000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BACMapping",
+  "created" : 1686832651000,
+  "modified" : 1686832651000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "GENERAL_COLLECTION_DRAWINGS_LATEST_CONFIGURATION",
+  "created" : 1686832651000,
+  "modified" : 1687957707000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamBranch",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamBranch.Downstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamBranch.Upstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamPart",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamPart.Downstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewDownstreamPart.Upstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewBranch",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.NewAlternateBOM",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.PasteAsIs",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.PasteAsNewBranch",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.STA.PasteAsNewPart",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Create",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Equivalences",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.Downstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.Downstream.ConfigSpec",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.Upstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.Upstream.ConfigSpec",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.CopyOver",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Occurrences",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.SynchronizeStructureAssociativity",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Reconciliation",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.DragAndDrop",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.AssembleAs",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Cache",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.NewShortCutNCUI",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.NewShortCutNCUI.Upstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Filter.NewShortCutNCUI.Downstream",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Associativity.Display",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ENTERPRISE_DATA",
+  "created" : 1686832667000,
+  "modified" : 1686832667000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CHANGE_MANAGEMENT_COLLECTOR_CATEGORY",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "CHANGE_PROCESS_ACTION_CONTROL_CATEGORY",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "COLLECT_ITEMS_FROM_CHANGE_ITEM_AFFECTED_ITEMS_COLLECTOR_CATEGORY",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "COLLECT_ITEMS_FROM_CHANGE_RESULTING_ITEMS_COLLECTOR_CATEGORY",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "SECURITY_PDM_PERMISSION_CATEGORY",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OV_PREF_GROUP",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "OV_DISPLAY_FORMAT_GROUP",
+  "created" : 1686832679000,
+  "modified" : 1686832679000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "VARIANT_SPEC_FILTER_MODE_GROUP",
+  "created" : 1686832680000,
+  "modified" : 1686832680000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMLINK_COMMON",
+  "created" : 1687957704000,
+  "modified" : 1687957712000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMLink",
+  "created" : 1687957704000,
+  "modified" : 1687957728000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PPB",
+  "created" : 1687957704000,
+  "modified" : 1687957725000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "LIVE_CYCLE_SERVER_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DYNAMIC_STRUCTURE_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PREFERENCE_MULTI_FIDELITY_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BUSINESS_RULES_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "BOM_RELEASE_COLLECTOR",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MOBILE_CATEGORY",
+  "created" : 1686832624000,
+  "modified" : 1686832624000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "FederationMapping",
+  "created" : 1686832651000,
+  "modified" : 1686832651000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REQUIREMENTSLINK_CATEGORY",
+  "created" : 1686832862000,
+  "modified" : 1686832862000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "REQUIREMENTSLINK_COLLECTOR_CATEGORY",
+  "created" : 1686832862000,
+  "modified" : 1686832862000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ERP_DATA",
+  "created" : 1687957712000,
+  "modified" : 1687957712000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MRB",
+  "created" : 1687957728000,
+  "modified" : 1687957728000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ServerStateManagement",
+  "created" : 1688050596000,
+  "modified" : 1688050596000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+} ]
