@@ -1,0 +1,442 @@
+[ {
+  "name" : "Document",
+  "created" : 1686832555000,
+  "modified" : 1686832555000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EPM Document",
+  "created" : 1686832555000,
+  "modified" : 1686832555000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "EPM Family Table",
+  "created" : 1686832555000,
+  "modified" : 1686832555000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Part",
+  "created" : 1686832555000,
+  "modified" : 1686832555000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Package",
+  "created" : 1686832604000,
+  "modified" : 1686832604000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Technical Data Package",
+  "created" : 1686832604000,
+  "modified" : 1686832604000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Delivery Record",
+  "created" : 1686832604000,
+  "modified" : 1686832604000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Replication Package",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Managed Collection",
+  "created" : 1686832607000,
+  "modified" : 1686832607000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Agreement",
+  "created" : 1686832608000,
+  "modified" : 1686832608000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Electrical Part",
+  "created" : 1686832645000,
+  "modified" : 1686832645000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "ECAD Document",
+  "created" : 1686832645000,
+  "modified" : 1686832645000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Option",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Choice",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Enable Rule",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Choice Rule",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Expression Alias",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Independent Assigned Expression",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Variant Spec",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Enterprise Data",
+  "created" : 1686832670000,
+  "modified" : 1686832670000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Plant Functional Data",
+  "created" : 1686832670000,
+  "modified" : 1686832670000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Placeholder",
+  "created" : 1686832659000,
+  "modified" : 1686832659000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Managed Baseline",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Received Delivery",
+  "created" : 1686832656000,
+  "modified" : 1686832656000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Option Set",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Include Rule",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Exclude Rule",
+  "created" : 1686832663000,
+  "modified" : 1686832663000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Manufacturer",
+  "created" : 1687957975000,
+  "modified" : 1687957975000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Vendor",
+  "created" : 1687957975000,
+  "modified" : 1687957975000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Product Configuration",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Product Instance",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Life Cycle",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Configuration Context",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Issue",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Request",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Notice",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Activity",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Proposal",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Promotion Request",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Variance",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Directive",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "DrawingSet",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Investigation",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Analysis Activity",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Review",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Peer Review",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Design Review",
+  "created" : 1686832672000,
+  "modified" : 1686832672000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMProcessPlan",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMSequence",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMOperation",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMMfgStandardGroup",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMMfgProcess",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMPlant",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Requirement",
+  "created" : 1686832862000,
+  "modified" : 1686832862000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Specification",
+  "created" : 1686832862000,
+  "modified" : 1686832862000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMProcessMaterial",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMResourceGroup",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMSkill",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMTooling",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMWorkCenter",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMControlCharacteristic",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "MPMStandardCC",
+  "created" : 1687957704000,
+  "modified" : 1687957704000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Part Request",
+  "created" : 1687957970000,
+  "modified" : 1687957970000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+} ]
