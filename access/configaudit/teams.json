@@ -1,0 +1,71 @@
+[ {
+  "name" : "Default",
+  "created" : 1686832581000,
+  "modified" : 1686832581000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Activity Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Problem Report Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Notice Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Change Request Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Variance Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Peer Review Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Design Review Team",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Promotion Request Team",
+  "created" : 1686832678000,
+  "modified" : 1686832678000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "PR Team",
+  "created" : 1687957970000,
+  "modified" : 1687957971000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+} ]
