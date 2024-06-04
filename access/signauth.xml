@@ -116,7 +116,17 @@
         </artifacts>
         
     </signer>
-    
+     <signer name="UNITED STATES ARMY" client-id="398" >
+        <logins>
+            <login>Jasjit.Pabla@stsllc.tech</login>           
+        </logins>
+        <artifacts >
+             <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
+             <artifact group-id="ext.army" artifact-id="wex-reseedPackage"/>
+             <artifact group-id="ext.army" artifact-id="wex-reteam"/>
+        </artifacts>
+        
+    </signer>
   
 
 </signers>
