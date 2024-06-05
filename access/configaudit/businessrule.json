@@ -1,0 +1,22 @@
+[ {
+  "name" : "Checkout Rule",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Release Target Rule",
+  "created" : 1686832675000,
+  "modified" : 1686832675000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+}, {
+  "name" : "Checkout Rule",
+  "created" : 1686832678000,
+  "modified" : 1686832678000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW"
+} ]
