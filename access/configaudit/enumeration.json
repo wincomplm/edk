@@ -259,4 +259,74 @@
   "type" : "NEW",
   "entries" : "[trafficLight] [progressBar] [percentComplete]",
   "id" : 19516
+}, {
+  "name" : "ModeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[edit] [create] [view]",
+  "id" : 20614
+}, {
+  "name" : "wt.access.accessModelRB",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "entries" : "",
+  "id" : 21649
+}, {
+  "name" : "MaterialGroup",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[Cable] [Fasteners] [Electronics] [ElectricitySupply] [Casing] [PumpsMaintenance] [Engines] [LaptopSystems] [SteelSheets] [PC-Systems] [Pumps] [Miscelleanous] [Mechanics] [Steels] [CentrifugalPumps] [Motherboards] [MetalProcessing] [ClassicPCSystems]",
+  "id" : 104995
+}, {
+  "name" : "com.ptc.master_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[en-IE] [ar-KW] [pt] [ms-MY] [en-IN] [es-BO] [ar-SY] [en-ZA] [hr] [no-NO] [hu] [el-GR] [nl-NL] [en-AU] [ar-LB] [id] [he-IL] [mk-MK] [ar-TN] [hu-HU] [ar-LY] [es-SV] [es-CR] [is] [it] [es-CL] [zh] [fr-CA] [es-CO] [pl-PL] [ar] [pt-PT] [fr-BE] [ar-EG] [ga-IE] [ja] [ar-DZ] [en-SG] [ar-MA] [ro] [es-HN] [ru] [hr-HR] [be] [es-PR] [bg] [es-PY] [sr-ME] [de-AT] [is-IS] [sk] [bg-BG] [sl] [cs-CZ] [en-PH] [sq] [ca] [sr] [sv] [ko] [zh-TW] [ko-KR] [sk-SK] [cs] [ar-OM] [ru-RU] [sq-AL] [th] [es-AR] [sv-SE] [da-DK] [da] [tr] [uk-UA] [de] [en-US] [lv-LV] [lt] [en-MT] [lv] [nl-BE] [zh-CN] [uk] [hi-IN] [el-CY] [mk] [ja-JP] [de-CH] [ar-YE] [ms] [ar-QA] [mt] [el] [es-GT] [en] [es] [nn-NO] [et] [es-PE] [en-NZ] [be-BY] [vi] [ro-RO] [zh-SG] [es-PA] [mt-MT] [et-EE] [tr-TR] [it-CH] [fr-FR] [vi-VN] [en-GB] [nl] [fi-FI] [no] [fi] [en-CA] [lt-LT] [ar-AE] [fr] [sl-SI] [es-DO] [ar-IQ] [fr-CH] [es-EC] [es-US] [ga] [ar-SA] [ca-ES] [de-DE] [sr-BA] [zh-HK] [pt-BR] [sr-RS] [ar-SD] [es-UY] [es-ES] [ar-BH] [es-VE] [ar-JO] [es-MX] [it-IT] [id-ID] [de-LU] [fr-LU] [pl] [he] [es-NI] [th-TH]",
+  "id" : 101542
+}, {
+  "name" : "com.ptc.source_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[en-IE] [ar-KW] [pt] [ms-MY] [es-BO] [en-IN] [ar-SY] [hr] [en-ZA] [no-NO] [hu] [el-GR] [nl-NL] [en-AU] [ar-LB] [he-IL] [id] [mk-MK] [ar-TN] [ar-LY] [hu-HU] [es-SV] [is] [es-CR] [it] [es-CL] [zh] [fr-CA] [es-CO] [ar] [pl-PL] [pt-PT] [ar-EG] [fr-BE] [ga-IE] [ja] [ar-DZ] [en-SG] [ar-MA] [ro] [es-HN] [ru] [be] [hr-HR] [es-PR] [bg] [es-PY] [sr-ME] [de-AT] [is-IS] [sk] [bg-BG] [sl] [cs-CZ] [en-PH] [sq] [ca] [sr] [sv] [ko] [zh-TW] [ko-KR] [sk-SK] [cs] [ru-RU] [ar-OM] [sq-AL] [th] [es-AR] [sv-SE] [da-DK] [da] [tr] [uk-UA] [de] [en-US] [lv-LV] [lt] [lv] [en-MT] [zh-CN] [nl-BE] [uk] [hi-IN] [el-CY] [ja-JP] [mk] [de-CH] [ar-YE] [ms] [mt] [el] [ar-QA] [es-GT] [en] [nn-NO] [es] [et] [es-PE] [en-NZ] [be-BY] [vi] [zh-SG] [es-PA] [ro-RO] [mt-MT] [et-EE] [tr-TR] [it-CH] [fr-FR] [vi-VN] [en-GB] [nl] [fi-FI] [no] [fi] [en-CA] [lt-LT] [ar-AE] [fr] [sl-SI] [es-DO] [ar-IQ] [fr-CH] [es-EC] [es-US] [ga] [ar-SA] [de-DE] [ca-ES] [sr-BA] [zh-HK] [pt-BR] [sr-RS] [ar-SD] [es-UY] [es-ES] [ar-BH] [ar-JO] [es-VE] [es-MX] [it-IT] [id-ID] [de-LU] [fr-LU] [pl] [he] [es-NI] [th-TH]",
+  "id" : 102442
+}, {
+  "name" : "ValueDisplayModeEnum",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[button] [none] [prePopulate]",
+  "id" : 20586
+}, {
+  "name" : "com.ptc.target_languages",
+  "created" : null,
+  "modified" : null,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "MODIFIED",
+  "container" : "",
+  "entries" : "[en-IE] [ar-KW] [pt] [ms-MY] [en-IN] [es-BO] [ar-SY] [hr] [en-ZA] [no-NO] [hu] [el-GR] [nl-NL] [en-AU] [ar-LB] [id] [he-IL] [mk-MK] [ar-TN] [ar-LY] [hu-HU] [es-SV] [is] [es-CR] [it] [es-CL] [fr-CA] [zh] [es-CO] [ar] [pl-PL] [pt-PT] [ar-EG] [fr-BE] [ja] [ga-IE] [ar-DZ] [en-SG] [ar-MA] [ro] [es-HN] [hr-HR] [ru] [be] [es-PR] [bg] [es-PY] [sr-ME] [de-AT] [is-IS] [sk] [bg-BG] [sl] [cs-CZ] [en-PH] [sq] [ca] [sr] [sv] [ko] [zh-TW] [ko-KR] [sk-SK] [cs] [ar-OM] [ru-RU] [sq-AL] [es-AR] [th] [sv-SE] [da-DK] [da] [tr] [uk-UA] [de] [en-US] [lv-LV] [lt] [lv] [en-MT] [zh-CN] [nl-BE] [uk] [hi-IN] [el-CY] [de-CH] [ja-JP] [mk] [ar-YE] [ms] [mt] [ar-QA] [el] [es-GT] [en] [es] [nn-NO] [et] [es-PE] [en-NZ] [be-BY] [vi] [ro-RO] [zh-SG] [es-PA] [mt-MT] [tr-TR] [it-CH] [et-EE] [fr-FR] [vi-VN] [nl] [en-GB] [fi-FI] [no] [fi] [en-CA] [lt-LT] [ar-AE] [fr] [sl-SI] [es-DO] [ar-IQ] [fr-CH] [es-EC] [es-US] [ga] [ar-SA] [de-DE] [ca-ES] [sr-BA] [zh-HK] [pt-BR] [sr-RS] [ar-SD] [es-UY] [ar-BH] [es-ES] [es-VE] [ar-JO] [es-MX] [it-IT] [id-ID] [de-LU] [fr-LU] [pl] [he] [es-NI] [th-TH]",
+  "id" : 102895
 } ]

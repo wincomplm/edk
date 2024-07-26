@@ -15559,4 +15559,247 @@
   "type" : "NEW",
   "container" : "",
   "value" : "None"
-} ]
+},  {
+  "name" : "AddToWorkspaceVersionConflict",
+  "created" : 1721047015000,
+  "modified" : 1721047015000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "Fail and confirm automatic version update"
+}, {
+  "name" : "ws.checkin.default.comment",
+  "created" : 1721047015000,
+  "modified" : 1721047015000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "SetConfigurationForNewWorkspace",
+  "created" : 1721047017000,
+  "modified" : 1721047017000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "SYSTEM_DEFAULT"
+}, {
+  "name" : "UseFileNameForNumberDuringInitialUpload",
+  "created" : 1721047017000,
+  "modified" : 1721047017000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "system.attribute.mapping.custom",
+  "created" : 1721047018000,
+  "modified" : 1721047018000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "system.attribute.custom.delimiter",
+  "created" : 1721047018000,
+  "modified" : 1721047018000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ";"
+}, {
+  "name" : "EnableBanner",
+  "created" : 1721047028000,
+  "modified" : 1721047028000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "BannerStyle",
+  "created" : 1721047028000,
+  "modified" : 1721047028000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "INFO"
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/mapsb",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/mrb",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/ppb",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/loadqv",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/windchill/bac/PreviewRecordNumber",
+  "created" : 1721047105000,
+  "modified" : 1721047105000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/psb",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/wvs/dynamicstructure/quickview/cadstructurebrowser",
+  "created" : 1721047073000,
+  "modified" : 1721047073000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "wt/translate/Translatable/enable",
+  "created" : 1721047123000,
+  "modified" : 1721047123000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/com/ptc/tml/IncludeTranslationInXliff",
+  "created" : 1721047121000,
+  "modified" : 1721047121000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "Always Include Source"
+}, {
+  "name" : "/ae/AEEastWidth",
+  "created" : 1721047484000,
+  "modified" : 1721047484000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "/ae/AEBrowserWidth",
+  "created" : 1721047484000,
+  "modified" : 1721047484000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "/ae/AEBrowserHeight",
+  "created" : 1721047484000,
+  "modified" : 1721047484000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}, {
+  "name" : "/wt/change2/showAllChangeTransitions",
+  "created" : 1721047149000,
+  "modified" : 1721047149000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "CURRENT_STATE_REVIEW_TRANSITION"
+}, {
+  "name" : "/wt/change2/enableChangeRedline",
+  "created" : 1721047149000,
+  "modified" : 1721047149000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "/wt/change/propagateName",
+  "created" : 1721047149000,
+  "modified" : 1721047149000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "CHANGE_MANAGEMENT_OBJECTS_AND_TEMPLATES"
+}, {
+  "name" : "Effectivity/displayMatchingEndRange",
+  "created" : 1721047149000,
+  "modified" : 1721047149000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "false"
+}, {
+  "name" : "Associativity.Reconciliation.StructureSynchronization.StructureSynchronizationCriteria",
+  "created" : 1721047130000,
+  "modified" : 1721047130000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : "ALL_CRITERIA"
+}, {
+  "name" : "RangeDelimiter",
+  "created" : 1721047130000,
+  "modified" : 1721047130000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ">"
+}, {
+  "name" : "Associativity.STA.GenerateDownstreamStructure.ListofDownstreamTemplates",
+  "created" : 1721047130000,
+  "modified" : 1721047130000,
+  "iteration" : "",
+  "creator" : "",
+  "type" : "NEW",
+  "container" : "",
+  "value" : ""
+}  ]

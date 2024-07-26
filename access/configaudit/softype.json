@@ -2144,4 +2144,49 @@
   "type" : "NEW",
   "container" : "",
   "path" : "com.ptc.windchill.mpml.pmi.MPMControlCharacteristic"
-} ]
+},{
+  "name" : "wt.mpm.configuration.MPMConfigurationRecipe",
+  "created" : 1721046963000,
+  "modified" : 1721046963000,
+  "iteration" : "2",
+  "creator" : "wcadmin",
+  "type" : "NEW",
+  "container" : "",
+  "path" : ""
+}, {
+  "name" : "wt.mpm.routing.WCRoutingPlan",
+  "created" : 1721046963000,
+  "modified" : 1721047475000,
+  "iteration" : "3",
+  "creator" : "wcadmin",
+  "type" : "NEW",
+  "container" : "",
+  "path" : ""
+}, {
+  "name" : "wt.mpm.routing.WCRoutingArtifactLink",
+  "created" : 1721046959000,
+  "modified" : 1721047475000,
+  "iteration" : "3",
+  "creator" : "wcadmin",
+  "type" : "NEW",
+  "container" : "",
+  "path" : ""
+}, {
+  "name" : "wt.mpm.routing.WCRoutingMilestoneGroup",
+  "created" : 1721046963000,
+  "modified" : 1721047475000,
+  "iteration" : "5",
+  "creator" : "wcadmin",
+  "type" : "NEW",
+  "container" : "",
+  "path" : "wt.mpm.routing.WCRoutingMilestone"
+}, {
+  "name" : "wt.mpm.routing.WCRoutingMilestone",
+  "created" : 1721046963000,
+  "modified" : 1721047475000,
+  "iteration" : "3",
+  "creator" : "wcadmin",
+  "type" : "NEW",
+  "container" : "",
+  "path" : ""
+}  ]
