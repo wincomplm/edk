@@ -6,5 +6,9 @@
     "net.wincomco",
     "gov.nasa",
     "com.extjs",
-    "com.infoengine"]
-}
+    "com.infoengine"
+    "com.gkn",
+    "gkn.customization",
+    "config.logicrepository",
+    "ext.gkn"
+]}
