@@ -9,5 +9,8 @@
     "com.infoengine",
     "gkn.customization",
     "config.logicrepository",
-    "ext.gkn"
+    "ext.gkn",
+    "com.eac",
+    "com.eacpds",
+    "com.tristar"
 ]}
