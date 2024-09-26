@@ -1,6 +1,6 @@
 [
     {
-        "id": "wex-ihs-sync",
-        "reason": "No Pentesting done by PTC yet."
+        "id": "<Name of the extension>",
+        "reason": "<Reason for disabling the extension>"
     }
 ]
