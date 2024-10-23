@@ -14,5 +14,6 @@
     "com.eacpds",
     "com.tristar",
     "com.innio",
-    "com.agco"
+    "com.agco",
+    "src.com.tools"
 ]}
