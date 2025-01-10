@@ -98,5 +98,10 @@
         "groupId": "commons-io",
         "artifactId": "commons-io",
         "versions": ["*"]
-    }                                     
+    },
+    {
+        "groupId": "javassist",
+        "artifactId": "javassist",
+        "versions": ["*"]
+    }                               
 ]
