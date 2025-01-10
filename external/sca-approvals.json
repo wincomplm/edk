@@ -103,5 +103,10 @@
         "groupId": "org.javassist",
         "artifactId": "javassist",
         "versions": ["*"]
-    }                               
+    },
+    {
+        "groupId": "args4j",
+        "artifactId": "args4j",
+        "versions": ["*"]
+    }                     
 ]
