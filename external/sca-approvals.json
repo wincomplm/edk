@@ -100,7 +100,7 @@
         "versions": ["*"]
     },
     {
-        "groupId": "javassist",
+        "groupId": "org.javassist",
         "artifactId": "javassist",
         "versions": ["*"]
     }                               
