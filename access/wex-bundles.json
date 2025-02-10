@@ -4,16 +4,16 @@
         "children" : ["wex-watermark-manager","wex-watermark-template-basic"]
     },
     {
-        "id" : ["wex-watermark-adv", "wex-report-manager", "wex-coversheet"],
-        "children" : ["wex-ix","wex-ix-config"]
-    },
-    {
         "id" : ["wex-coversheet"],
         "children" : ["wex-report-manager"]
     },
     {
+        "id" : ["wex-watermark-adv", "wex-report-manager", "wex-coversheet"],
+        "children" : ["wex-datamodel"]
+    },
+    {
         "id" : ["wex-ix"],
-        "children" : ["wex-ix-config"]
+        "children" : ["wex-ix-config", "wex-datamodel"]
     }
 
 ]
