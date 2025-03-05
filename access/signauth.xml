@@ -93,18 +93,6 @@
             <artifact group-id="com.agcocorp" artifact-id="wex-agco-cads-epp"/>
         </artifacts>
     </signer>
-
-    <signer name="test" client-id="123" jar-sign="true">
-        <logins>
-            <login>ellis.douglas@hotmail.co.uk</login>
-        </logins>
-        <artifacts max-features="32" start-date="2023-06-10" end-date="2023-06-19">
-            <artifact group-id="*" artifact-id="*"/>
-        </artifacts>
-        <approvals>
-            <approval>*</approval>
-        </approvals>
-    </signer>
     <signer name="ACCENTURE" client-id="142251" >
         <logins>
             <login>nadia.bertelli@accenture.com</login>
@@ -124,6 +112,15 @@
              <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
              <artifact group-id="ext.army" artifact-id="wex-reseedPackage"/>
              <artifact group-id="ext.army" artifact-id="wex-reteam"/>
+        </artifacts>
+    </signer>
+
+    <signer name="NASA" client-id="264664">
+        <logins>
+            <login>*@nasa.gov</login>
+        </logins>
+        <artifacts>
+            <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
     </signer>
   
