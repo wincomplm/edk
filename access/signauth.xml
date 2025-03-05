@@ -115,7 +115,7 @@
         </artifacts>
     </signer>
 
-    <signer name="NASA" client-id="264664">
+    <signer name="NASA-GLENN RESEARCH CENTER" client-id="264664">
         <logins>
             <login>*@nasa.gov</login>
         </logins>
