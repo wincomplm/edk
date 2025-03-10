@@ -15,5 +15,7 @@
     "com.tristar",
     "com.innio",
     "com.agco",
-    "src.com.tools"
+    "src.com.tools",
+    "com.abb",
+    "ext.abb"
 ]}
