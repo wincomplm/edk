@@ -2,6 +2,21 @@
 	{
 		"id": "com.wincomplm.wex-coversheet",
 		"beta": true,
-		"url": "https://wincomconsulting.sharepoint.com/sites/PTCRD-External/_layouts/15/DocIdRedir.aspx?ID=HPZR2CMSHSXF-513606787-5"
+		"url": "https://wincomconsulting.sharepoint.com/sites/PTCRD-External/_layouts/15/DocIdRedir.aspx?ID=HPZR2CMSHSXF-513606787-9"
+	},
+	{
+		"id": "com.wincomplm.wex-report-manager",
+		"beta": true,
+		"url": "https://wincomconsulting.sharepoint.com/sites/PTCRD-External/_layouts/15/DocIdRedir.aspx?ID=HPZR2CMSHSXF-513606787-10"
+	},
+	{
+		"id": "com.wincomplm.wex-watermark-adv",
+		"beta": true,
+		"url": "https://wincomconsulting.sharepoint.com/sites/PTCRD-External/_layouts/15/DocIdRedir.aspx?ID=HPZR2CMSHSXF-513606787-7"
+	},
+	{
+		"id": "com.wincomplm.wex-watermark-manager",
+		"beta": true,
+		"url": "https://wincomconsulting.sharepoint.com/sites/PTCRD-External/_layouts/15/DocIdRedir.aspx?ID=HPZR2CMSHSXF-513606787-8"
 	}
 ]
