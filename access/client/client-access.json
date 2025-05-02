@@ -1,5 +1,9 @@
-{
-    "wex-benteler-ondownload": [
-        "604566"
-    ]
-}
+[
+    {
+        "id": "wex-benteler-ondownload",
+        "clients": [
+            "604566",
+            "234"
+        ]
+    }
+]
