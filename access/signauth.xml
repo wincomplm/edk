@@ -106,7 +106,7 @@
     </signer>
      <signer name="UNITED STATES ARMY" client-id="398">
         <logins>
-            <login>Jasjit.Pabla@stsllc.tech</login>           
+            <login>*@stsllc.tech</login>           
         </logins>
         <artifacts>
              <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
