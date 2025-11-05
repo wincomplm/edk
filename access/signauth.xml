@@ -1,4 +1,23 @@
 <signers>
+
+    <signer name="Wincom Consulting S.L." client-id="604566" jar-sign="true">
+        <logins>
+            <login>ix@wincom-plm.com</login>
+        </logins>
+        <artifacts>
+            <artifact group-id="*" artifact-id="*"/>
+        </artifacts>
+        <approvals>
+            <approval>ptc-product</approval>
+            <approval>windchill-plus</approval>
+        </approvals>
+        <categories>
+            <category>WEX-IX-WATERMARKING</category>
+            <category>WEX-IX-REPORTING</category>
+            <category>WEX-IX-CONFIGURATION</category>
+        </categories>
+    </signer>
+    
     <signer name="Wincom Consulting S.L." client-id="604566" jar-sign="true">
         <logins>
             <login>*@wincom-plm.com</login>
@@ -9,23 +28,10 @@
         <approvals>
             <approval>*</approval>
         </approvals>
-    </signer>
-    
-    <signer name="Wincom Consulting S.L." client-id="604566">
-        <logins>
-            <login>ix@wex-cloud.net</login>
-        </logins>
-        <artifacts>
-            <artifact group-id="*" artifact-id="*"/>
-        </artifacts>
-        <approvals>
-            <approval>*</approval>
-        </approvals>
         <categories>
-            <category>WEX-IX-WATERMARKING</category>
+            <category>*</category>
         </categories>
     </signer>
-
 
     <signer name="EKA" client-id="451249">
         <logins>
@@ -43,6 +49,9 @@
         <artifacts>
             <artifact group-id="com.avioaero" artifact-id="*"/>
         </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
 
     <signer name="Prambanan" client-id="451871">
@@ -52,6 +61,9 @@
         <artifacts>
             <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
 
     <signer name="AGCO" client-id="100607">
@@ -92,6 +104,9 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-agco-solidedge-cadi"/>
             <artifact group-id="com.agcocorp" artifact-id="wex-agco-cads-epp"/>
         </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
     <signer name="ACCENTURE" client-id="142251" >
         <logins>
@@ -102,9 +117,12 @@
         <artifacts >
             <artifact group-id="com.piaggio" artifact-id="*"/>
         </artifacts>
-        
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
-     <signer name="UNITED STATES ARMY" client-id="398">
+    
+    <signer name="UNITED STATES ARMY" client-id="398">
         <logins>
             <login>*@stsllc.tech</login>           
         </logins>
@@ -113,6 +131,9 @@
              <artifact group-id="ext.army" artifact-id="wex-reseedPackage"/>
              <artifact group-id="ext.army" artifact-id="wex-reteam"/>
         </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
 
     <signer name="NASA-GLENN RESEARCH CENTER" client-id="264664">
@@ -122,6 +143,9 @@
         <artifacts>
             <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
     </signer>
   
 
