@@ -13,7 +13,7 @@
     },
     {
         "id" : ["wex-ix"],
-        "children" : ["wex-ix-config"]
+        "children" : ["wex-ix-config", "wex-datamodel"]
     }
 
 ]
