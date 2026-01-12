@@ -110,21 +110,7 @@
         <categories>
             <category>*</category>
         </categories>
-    </signer>
-    <signer name="ACCENTURE" client-id="142251" >
-        <logins>
-            <login>nadia.bertelli@accenture.com</login>
-             <login>gian.m.de.gregorio@accenture.com</login>
-             <login>a.montefiore@accenture.com</login>
-        </logins>
-        <artifacts >
-            <artifact group-id="com.piaggio" artifact-id="*"/>
-        </artifacts>
-        <categories>
-            <category>*</category>
-        </categories>
-    </signer>
-    
+    </signer>    
     <signer name="UNITED STATES ARMY" client-id="398">
         <logins>
             <login>*@stsllc.tech</login>           
