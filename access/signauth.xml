@@ -150,6 +150,18 @@
             <category>*</category>
         </categories>
     </signer>
+
+    <signer name="LTTS" client-id="457247">
+        <logins>
+            <login>*@Ltts.com</login>
+        </logins>
+        <artifacts>
+            <artifact group-id="com.ltts" artifact-id="change-validator"/>
+        </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
+    </signer>
   
 
 </signers>
