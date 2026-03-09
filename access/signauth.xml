@@ -148,6 +148,17 @@
             <category>*</category>
         </categories>
     </signer>
-  
+
+    <signer name="COMEXI GROUP INDUSTRIES" client-id="440176">
+        <logins>
+            <login>*@comexi.com</login>
+        </logins>
+        <artifacts>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-salesconfig"/>
+        </artifacts>
+        <categories>
+            <category>*</category>
+        </categories>
+    </signer>
 
 </signers>
