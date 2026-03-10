@@ -154,7 +154,7 @@
             <login>*@comexi.com</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-salesconfig"/>
+            <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
         <categories>
             <category>*</category>
