@@ -154,7 +154,12 @@
             <login>*@comexi.com</login>
         </logins>
         <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="*"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-salesconfig"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-base"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-export-meta"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-photo"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-virtualassistant"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-calculadora-costos"/>
         </artifacts>
         <categories>
             <category>*</category>
