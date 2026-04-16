@@ -57,18 +57,6 @@
         </categories>
     </signer>
 
-    <signer name="Prambanan" client-id="451871">
-        <logins>
-            <login>*@prambanan-it.com</login>
-        </logins>
-        <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="*"/>
-        </artifacts>
-        <categories>
-            <category>*</category>
-        </categories>
-    </signer>
-
     <signer name="AGCO" client-id="100607">
         <logins>
             <login>*@agcocorp.com</login>
@@ -119,18 +107,6 @@
              <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
              <artifact group-id="ext.army" artifact-id="wex-reseedPackage"/>
              <artifact group-id="ext.army" artifact-id="wex-reteam"/>
-        </artifacts>
-        <categories>
-            <category>*</category>
-        </categories>
-    </signer>
-
-    <signer name="NASA-GLENN RESEARCH CENTER" client-id="264664">
-        <logins>
-            <login>*@nasa.gov</login>
-        </logins>
-        <artifacts>
-            <artifact group-id="com.wincomplm" artifact-id="*"/>
         </artifacts>
         <categories>
             <category>*</category>
