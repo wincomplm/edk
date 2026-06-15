@@ -1,14 +1,6 @@
   [
-    { "wexId": "com.wincomplm.wex-coversheet",        "wcPlusApprovedReleases": ["13.0"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-ix",                "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-ix-config",         "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-report-manager",    "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-watermark-adv",     "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-watermark-manager", "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-    { "wexId": "com.wincomplm.wex-comp-matrix",       "wcPlusApprovedReleases": ["*"] },                                                                                                                                                                                                       
-
-    { "wexId": "com.wincomplm.wex-comp-matrix",       "wcPlusApprovedReleases": ["12.1", "13.0"] },                                                                                                                                                                                            
-    { "wexId": "com.wincomplm.wex-document-export",   "wcPlusApprovedReleases": ["12.1", "13.0"] },                                                                                                                                                                                            
-    { "wexId": "com.wincomplm.wex-repexport",         "wcPlusApprovedReleases": ["12.1", "13.0"] },                                                                                                                                                                                            
-    { "wexId": "com.wincomplm.wex-repexport-plus",    "wcPlusApprovedReleases": ["12.1", "13.0"] }                                                                                                                                                                                
+    { "wexId": "com.wincomplm.wex-comp-matrix",     "wcPlusUnapprovedReleases": ["13.1"] },
+    { "wexId": "com.wincomplm.wex-document-export", "wcPlusUnapprovedReleases": ["13.1"] },
+    { "wexId": "com.wincomplm.wex-repexport",       "wcPlusUnapprovedReleases": ["13.1"] },
+    { "wexId": "com.wincomplm.wex-repexport-plus",  "wcPlusUnapprovedReleases": ["13.1"] }
   ]
