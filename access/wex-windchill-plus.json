@@ -1,7 +1,6 @@
   [
     { "wexId": "com.wincomplm.wex-exiger-swiss",    "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] },
     { "wexId": "com.wincomplm.wex-siliconexpert",   "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] },
-    { "wexId": "com.wincomplm.wex-comp-matrix",     "wcPlusUnapprovedReleases": ["13.1"] },
     { "wexId": "com.wincomplm.wex-document-export", "wcPlusUnapprovedReleases": ["13.1"] },
     { "wexId": "com.wincomplm.wex-repexport",       "wcPlusUnapprovedReleases": ["13.1"] },
     { "wexId": "com.wincomplm.wex-repexport-plus",  "wcPlusUnapprovedReleases": ["13.1"] }
