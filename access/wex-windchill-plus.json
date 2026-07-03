@@ -1,4 +1,5 @@
   [
     { "wexId": "com.wincomplm.wex-exiger-swiss",    "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] },
-    { "wexId": "com.wincomplm.wex-siliconexpert",   "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] }
+    { "wexId": "com.wincomplm.wex-siliconexpert",   "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] },
+    { "wexId": "com.wincomplm.wex-google-workspace",    "wcPlusUnapprovedReleases": ["12.1", "13.0", "13.1"] }
   ]
