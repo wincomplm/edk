@@ -1,5 +1,8 @@
-[
-  { "wexId": "com.wincomplm.wex-document-export.release",
-    "releases": ["WIND121", "WIND130", "WIND131"]
-  }
-]
+{
+  "releases": ["WIND121", "WIND130", "WIND131", "WIND140"],
+  "packages": [
+    {
+      "id": ["wex-watermark-manager"], "children": ["wex-report-manager"]
+    }
+  ]
+}
