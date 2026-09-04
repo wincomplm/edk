@@ -35,7 +35,9 @@
 
     <signer name="PTC" client-id="341" jar-sign="true">
         <logins>
-            <login>sheath@ptc.com</login>
+            <login>sheath@ptc.com</login>           
+            <login>anmarsupino@ptc.com</login>
+            <login>hpanzhao@ptc.com</login>
         </logins>
         <artifacts>
             <artifact group-id="*" artifact-id="*"/>
