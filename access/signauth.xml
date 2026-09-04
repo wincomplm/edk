@@ -33,6 +33,21 @@
         </categories>
     </signer>
 
+    <signer name="PTC" client-id="341" jar-sign="true">
+        <logins>
+            <login>sheath@ptc.com</login>
+        </logins>
+        <artifacts>
+            <artifact group-id="*" artifact-id="*"/>
+        </artifacts>
+        <approvals>
+            <approval>*</approval>
+        </approvals>
+        <categories>
+            <category>*</category>
+        </categories>
+    </signer>
+
     <signer name="EKA" client-id="451249">
         <logins>
             <login>*@eka.it</login>
