@@ -10,6 +10,7 @@
         <approvals>
             <approval>ptc-product</approval>
             <approval>windchill-plus</approval>
+            <approval>windchill-fedramp</approval>
         </approvals>
         <categories>
             <category>WEX-IX-WATERMARKING</category>
