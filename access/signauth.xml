@@ -21,6 +21,8 @@
     <signer name="Wincom Consulting S.L." client-id="604566" jar-sign="true">
         <logins>
             <login>*@wincom-plm.com</login>
+            <login>flamy@ptc.com</login>
+            <login>sheath@ptc.com</login>
         </logins>
         <artifacts>
             <artifact group-id="*" artifact-id="*"/>
