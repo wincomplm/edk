@@ -1,1 +1,7 @@
-[]
+  [
+    { "wexId": "com.wincomplm.wex-asm-wused-adv",    "wcPlusFedRampUnapprovedReleases": ["12.1, 13.0, 13.1"] },
+    { "wexId": "com.wincomplm.wex-change-analysis",   "wcPlusFedRampUnapprovedReleases": ["12.1", "13.0", "13.1"] },
+    { "wexId": "com.wincomplm.wex-change-review",    "wcPlusFedRampUnapprovedReleases": ["12.1", "13.0", "13.1"] },
+    { "wexId": "com.wincomplm.wex-excel-loader",    "wcPlusFedRampUnapprovedReleases": ["12.1", "13.0", "13.1"] },
+    { "wexId": "com.wincomplm.wex-cadquick",    "wcPlusFedRampUnapprovedReleases": ["12.1", "13.0", "13.1"] }
+  ]
