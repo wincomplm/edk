@@ -122,6 +122,7 @@
     <signer name="UNITED STATES ARMY" client-id="398">
         <logins>
             <login>*@stsllc.tech</login>           
+            <login>*@army.mil</login>           
         </logins>
         <artifacts>
              <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
