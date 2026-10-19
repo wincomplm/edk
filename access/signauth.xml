@@ -123,11 +123,10 @@
         <logins>
             <login>*@stsllc.tech</login>           
             <login>*@army.mil</login>           
+            <login>*@uah.edu</login>           
         </logins>
         <artifacts>
-             <artifact group-id="ext.army" artifact-id="wex-stsdpc-verifypackage"/>
-             <artifact group-id="ext.army" artifact-id="wex-reseedPackage"/>
-             <artifact group-id="ext.army" artifact-id="wex-reteam"/>
+             <artifact group-id="ext.army" artifact-id="*"/>
         </artifacts>
         <categories>
             <category>*</category>
