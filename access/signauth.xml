@@ -158,6 +158,7 @@
             <artifact group-id="com.wincomplm" artifact-id="wex-comexi-virtualassistant"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-calculadora-costos"/>
             <artifact group-id="com.wincomplm" artifact-id="wex-comexi-pas-sap"/>
+            <artifact group-id="com.wincomplm" artifact-id="wex-comexi-massedit"/>
         </artifacts>
         <categories>
             <category>*</category>
